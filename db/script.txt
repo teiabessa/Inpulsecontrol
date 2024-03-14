@@ -1,0 +1,38 @@
+﻿Create table `control`.`Profissional`(
+`prof_seq` INT NOT NULL AUTO_INCREMENT, `prof_name` VARCHAR(100) NOT NULL, `prof_type` INT NOT NULL DEFAULT 0  COMMENT '0=registro , 1=MEI, 2=Estagiaria', `prof_valor_comissao` INT NOT NULL DEFAULT 5,  PRIMARY KEY (`prof_seq`))
+COMMENT = 'Lista de Funcionarios da Clinica';
+
+
+
+
+
+Create Table `control`.`Client`(
+`client_seq` INT NOT NULL AUTO_INCREMENT,
+`client_name` VARCHAR(100) NOT NULL,
+`client_cpf` VARCHAR(50) NULL,
+`client_rg` VARCHAR(30) NULL,  
+`client_address` VARCHAR(250) NULL, 
+`client_email` VARCHAR(50) NULL, 
+`client_telefone_fixo` VARCHAR(30) NULL,
+`client_telefone_cel1` VARCHAR(30) NULL, 
+`client_activate` INT NULL, 
+`client_data_ultimo_atend` DATETIME NULL,
+ 
+  PRIMARY KEY (`client_seq`)) ;
+
+
+
+Create Table `control`.`Agenda`(
+`agenda_seq` INT NOT NULL AUTO_INCREMENT ,
+`agenda_sala` INT comment '1,2,3,4', 
+`agenda_start` datetime, `agenda_end` datetime, 
+`agenda_prof_seq`  INT comment 'profissional da sessao',
+`agenda_client_seq` INT  comment 'cliente da sessao',
+`agenda_tyse_type_seq` INT  comment 'foreign key para o procedimento',
+`agenda_secl_seq`  INT comment 'foreign key para o pacote contratado nessa sessao',
+`agenda_outro_procedimento`  varchar(100) comment 'proedimento da sessao',
+`agenda_concluded`  INT comment 'Se foi concluida a sessao',
+`agenda_tipo_pagto`  INT comment '1=Cartao, 2=Dinheiro, 3=cheque',
+ 
+PRIMARY KEY (`agenda_seq`)) COMMENT = 'Quadro de agendamento da clinica',
+CONSTRAINT `FK_agenda_client_seq` FOREIGN KEY (`agenda_client_seq`) REFERENCES `client_seq` (`client_seq`) ON DELETE RESTRICT ON UPDATE CASCADE;
