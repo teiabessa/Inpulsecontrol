@@ -7,6 +7,7 @@ if ($_SERVER['SERVER_NAME'] == "localhost")
 	$usuario = 'inpulsebrasil';
 	$senha = 'kgb070711';
 	$banco = 'inpulsebrasil';
+
 	
 }
 else
