@@ -1,0 +1,602 @@
+body { 
+	font: 100% georgia, sans-serif;
+	line-height: 1.88889;
+	margin: 0; 
+	padding: 0;
+        background-image:url(images/background.jpg);
+        background-repeat:repeat;
+        }
+
+
+
+p { 
+	margin-top: 0; 
+	text-align: justify;
+	}
+h3 { 
+	font: italic normal 1.4em georgia, sans-serif;
+	letter-spacing: 1px; 
+	margin-bottom: 2; 
+	color: #7D775C;
+	}
+
+	
+#header_inpulse{
+    	position: relative;
+     	width:1170px;
+     	height: 120px;
+    
+	}
+
+#logo{  
+	float: left;
+        
+	}
+       
+#menu {
+	width: 600px;
+	float:left;
+	
+	}		
+
+#menu ul {
+	padding:40px 0px 20px 0px;  
+	margin:10px;
+	list-style:none;
+	font: 28px verdana, sans-serif; 
+	text-decoration: none;
+
+}
+
+#menu ul li { 
+	display: inline; 
+        border-style:solid;
+	border-bottom-width: 0px;
+	border-top-width: 0;
+	border-right-width: 3px;
+	border-left-width: 0;
+        color: RGB(78,112,26);
+           
+}
+
+#menu ul li a {
+      	text-decoration: none;
+	padding: 10px 5px;
+	color: RGB(78,112,26);
+
+			
+}
+
+#menu ul li a:hover {
+color: orange;
+
+}
+
+
+
+#menu ul li.last_li {
+border-style:none;
+border-right-width: 0px;}
+	
+
+#menu .selected{
+
+color: orange;
+
+}
+
+
+
+
+#ligueja{
+        padding:4px 0px 0px 0px;
+	float:right;
+	background-image:url(images/telefone.jpg) ;
+	background-repeat:no-repeat;
+	background-position:left;  
+	background-color:orange;
+	width:330px;
+	height:110px;
+	border: 2px solid;
+	border-bottom-left-radius: 2em;
+	border-color:orange;
+
+}
+
+#ligueja h3{
+	color:FFFFFF;
+	font: 18px verdana, sans-serif; 
+	//font-weight: bold;
+        font-weight: 600;
+	text-indent:40px;
+	text-align:center
+ 
+	
+}
+
+#ligueja h2{
+	color:FFFFFF;
+	font: 24px verdana, sans-serif; 
+	//font-weight: bold;
+        font-weight: 600;
+	text-indent:20px;
+	text-align:center
+}   
+
+input, textarea{
+ color: #373737;
+  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-style: normal;
+  font-variant: normal;
+  font-size: 15px;
+  font-size-adjust: none;
+  font-stretch: normal;
+  font-weight: 300;
+  line-height: 1.625;
+}
+
+
+
+:focus
+{
+  outline-width: 0px;
+  outline-style: none;
+}
+
+
+
+#depoimentos{
+      	position: absolute;
+	padding: 0px;
+	width: 260px;
+        height: 300px;
+	left: 1050px;
+	top: 455px;
+	background-color: #C0C0C0;
+	border-bottom-left-radius: 2em;
+	border-color:40C040;
+	overflow:scroll;
+        overflow-x:hidden;
+
+}
+
+#depoimentos h3{
+    	font-size: 17px;
+    	font-weight: 700;
+    	padding-left: 18px;
+    	color:#FF8000;
+    	padding-bottom:4px;
+    	display:block
+}
+
+
+#depoimentos ul {
+	padding:10px 0px 0px 0px;  
+	margin:10px;
+	list-style:none;
+	font: 13px verdana, sans-serif; 
+	text-decoration: none;
+}
+
+#depoimentos ul li a {
+      	text-decoration: none;
+	color: #000000;
+
+			
+}
+
+#depoimentos ul li a:hover {
+	color: orange;
+}
+
+
+#frmcontato{
+	position:absolute;
+    	width:260px;
+    	height: 300px;
+    	left: 815px;
+    	top: 150px;
+    	display:block;
+    	background-color: #C0C0C0;
+	border-bottom-right-radius: 2em;
+	border-color:40C040;
+ 	
+    
+}
+#frmtitle{
+    	
+    	font-weight: 600;
+    	padding-left: 18px;
+    	color:#FF8000;
+    	padding-bottom:4px;
+    	display:block
+        font: 17px verdana, sans-serif; 
+	text-decoration: none;
+    	
+}
+
+.divfrmfield{
+    margin-left: 15px;
+      
+}
+.frmcontato{
+    width: 225px;
+    heigh: 60px;
+    font-size: 0.8em;
+    color:#444 !important;
+    
+    border:1px solid #777 !important;
+    box-shadow:none !important;
+    //height: 20px;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    border-radius: 8px;
+    margin-bottom:6px;
+    background-color: #fff
+}
+.frmtxtarea{
+    margin-top: 4px;
+    width:225px;
+    height: 120px;
+    margin-bottom: 5px;
+    border:1px solid #777;
+    font-size: 0.8em !important;
+    box-shadow:none !important;
+    color:#444 !important;
+    background: none;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    border-radius: 8px;
+    background-color: #fff
+}
+#frmsubmit{
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    border:0px solid 000000;
+    background:#FF8000;
+    color:#FFFFFF;
+    font-size: 0.8em;
+    margin: 5px 10px 0 160px;
+    width: 70px;
+    cursor: pointer;
+    float: right;
+}
+
+#titulo_prop{
+        position:relative;
+  	width: 980px;
+	height: 40px;
+        left:115px;
+        top: 25px;
+        background-color: RGB(78,112,26);
+	      
+}
+
+#titulo_prop h3{
+	width: 800px;
+	height: 40px;
+        color:FFFFFF;
+	font: 14px verdana, sans-serif; 
+	font-weight: bold;
+	text-align:left;
+        
+}
+
+#servicos_list{
+position:relative;
+padding-left:115px;
+width: 200px;
+height:0px;
+top: 25px;
+}
+
+#servicos_list ul
+{
+margin: 0;
+padding: 0;
+list-style-type: none;
+float:left;
+width: 200px;
+font: 12px verdana, sans-serif; 
+background:#2F4F2F;
+		
+		
+}
+
+#servicos_list a
+{
+display: block;
+color: #FFF;
+background-color:RGB(78,112,26);
+width: 15em;
+padding: 3px 12px 3px 8px;
+text-decoration: none;
+border-bottom: 1px solid #fff;
+font-weight: bold;
+}
+
+#servicos_list a:hover
+{
+background-color:#008000;
+color: #FFF;
+}
+
+
+
+#servicos_list li li a
+{
+	display: block;
+	
+	color: #008000;
+	background-color: #FFFFFF; 
+	//width: 15em;
+        width:200px;
+	padding: 3px 3px 3px 17px;
+	text-decoration: none;
+	border-bottom: 1px solid #008000;
+	font-weight: normal;
+	white-space: nowrap;
+	
+}
+
+
+
+#propaganda_pai{
+float:left;
+width:780px;
+height: 550px;
+display: block;
+top: 25px; 
+}
+
+
+#propaganda_produtos {
+  width: 730px;
+  height: 530px;
+  text-align:right;
+  border:2px solid #C0C0C0;
+  background:#ffffff;
+  color: 000000;
+  padding:20px;
+  margin:1px;
+
+}
+
+
+
+
+#servicos_list .selected{
+
+
+background-color:orange;
+color: #FFF;
+
+}
+
+
+
+#propimg{
+min-width: 250px;
+min-height: 183px;
+float:left;
+margin-bottom: 1px;
+border:1px solid #C0C0C0;
+  
+}
+
+#propp{
+width: 380px;
+min-height: 200px;
+text-align:left;	
+padding:1px;
+float:right;
+text-align:left;
+font: 14px verdana, sans-serif; 
+
+}
+
+
+#propvalores{
+width: 380px;
+min-height: 150px;
+text-align:left;
+font: 16px verdana, sans-serif; 
+font-weight: 600;
+color:FFFFFF;
+background:orange;
+float:right;	
+position: relative;
+}
+
+#propvalores h2{
+font: 24px verdana, sans-serif; 
+font-weight: 600;
+}   
+
+
+.imgsobrancelha{
+width: 250px;
+height: 350px;
+float:left;
+margin-bottom: 5px;
+border:1px solid #C0C0C0;
+  
+}
+
+#footer{
+	position:relative;
+	width:1349px;
+	height:200px;
+	top:100px;
+	background-color:orange;
+	float:left;
+}
+
+#address{
+	position:relative;
+	width:900px;
+	height:130px;
+	background-color:#FFFFFF;
+	border-bottom-left-radius: 2em;
+	border-bottom-right-radius: 2em;
+	border-bottom-top-radius: 2em;
+	border-color:40C040;
+	left: 200px;
+
+}
+
+#address #telefone{
+	position:relative;
+	float:left;
+	width:330px;
+	height:130px;
+	color:#00994C;
+	font: 20px verdana, sans-serif; 
+	text-align:center;
+	
+}
+
+#address #endereco{
+	position:relative;
+	width:400px;
+	height:130px;
+	float:left;
+        color:#00994C;
+	font: 12px verdana, sans-serif; 
+	text-align:right;
+	text-indent:15px;
+
+}
+#face{
+	width:100px;
+	height:130px;
+	float:right;
+	font: 15px verdana, sans-serif; 
+	text-align:center;
+	color:#00994C;
+}
+
+
+#foto_equipe{
+width: 600px;
+height: 370px;	
+float:left;
+padding-left:300px;
+
+}
+
+
+
+#div_equipe{
+width: 550px;
+height:600px;
+padding-left:300px;
+float:left;
+//background-color:RGB(0,112,26);
+}
+
+
+
+
+#div_equipe .funcionaria{
+ width: 550px;
+  min-height: 90px;
+  text-align:left;
+  border:2px solid #C0C0C0;
+  color: 000000;
+  padding:20px;
+  margin:5px;
+  background:#ffffAA;
+  font: 17px verdana, sans-serif; 
+  font-weight: bold;
+  float:left;
+}
+
+
+.class_desc{
+text-align:justify;
+//background-color:RGB(78,112,26);
+font: 14px verdana, sans-serif; 
+font-weight: normal;
+color:RGB(78,112,26);
+}
+
+
+
+#list_servicos{
+width: 650px;
+height:1000px;
+padding-left:300px;
+float:left;
+overflow-y:scroll;
+
+
+}
+
+
+#list_servicos .servicos_desc{
+ width: 550px;
+  min-height: 90px;
+  text-align:left;
+  border:2px solid #C0C0C0;
+  color: 000000;
+  padding:20px;
+  margin:5px;
+  background:#ffffAA;
+  font: 17px verdana, sans-serif; 
+  font-weight: bold;
+  float:left;
+}
+
+
+.class_img_contato  {
+width: 100px;
+height: 90px;
+float:left;
+margin-bottom: 5px;
+}
+
+#div_contato
+{
+width:1300px;
+height:400px;
+//position:relative;
+}
+
+#div_fotoinpulse{
+width:310px;
+height:310px;
+float:left;
+padding-left:10px;
+
+}
+
+
+#div_mapa{
+width:500px;
+height:310px;
+float:left;
+//padding-left:15px;
+
+}
+
+#div_endereco{
+float:left;
+width:410px;
+height: 310px;
+color: #008000;
+text-decoration: none;
+border-right: 1px solid #008000;
+font: 12px verdana, sans-serif; 
+text-align:justify;	
+background-color:fffaaa;
+
+}
+
+#div_endereco h3{
+font: 14px verdana, sans-serif; 
+font-weight: bold;
+color: orange;
+}
+
+      
