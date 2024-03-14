@@ -1,0 +1,89 @@
+client_seq,client_name,client_cpf,client_rg,client_address,client_bairro,client_cidade,client_uf,client_cep,client_email,client_activate,client_data_ultimo_atend,client_data_nascimento,client_estado_civil,client_sexo
+12,"Adalberto Luis Moreno",,,"Rua Dr. Jorge O. Coutinho, 120,aallmoreno@gmail.com","Jd. Aquarius ","São josé dos Campos",sp,12246-060,teiabak@gmail.com,0,2015-06-12,1964-04-24," Casado(a)",M
+13,Adelaide,NULL,NULL,",,",,,,,"Não possui E-Mail",NULL,NULL,NULL," ",F
+14,"Adriana Barcia",,,"Rua: Dr. Tertuliano Delphin Jr., 111","Jd. Aquarius",SJCampos,SP,12246-001,"Não possui E-Mail",0,NULL,0000-00-00," ",F
+15,"Adriana C. Pizzarro Machado",,,"Av. Tubarão331 Ap. 61,,","Jd. Aquarius",SJCampos,SP,12246-140,machadoepizzarro@gmail.com,0,NULL,1974-10-11," ",F
+16,"Adriana Cristina Fernandes",,,"R Profª Maria Siqueira Nathan179,,","Vl Tesouro",SJCampos,SP,12220-521,adrianafernandesterapy@yahoo.com.br,0,NULL,0000-00-00," Casado(a)",F
+17,"Adriana Cristina Teixeira Sales",,,"Av. Brasil 1279 apto 32 bloco 2,,",Centro,Caçapava,,12287-020,fisio.asales@gmail.com,0,NULL,1987-01-26," Solteiro(a)",F
+18,"Adriana Ferreira de Faria",,,"Rua: Utah327,,","Jd. Flórida",SJCampos,SP,12321-720,dricaferia41@gmail.com,0,NULL,0000-00-00," Casado(a)",F
+19,"Adriana Fidencio Gonçalves dos Santos",,,"R. Gercino Francisco Pereira n°87,,","Jd. Terras do Sul","São José dos Campos",SP,12236-068,adriana.fidencio@yahoo.com.br,0,2015-09-20,1979-01-27," Casado(a)",F
+20,"Adriana Gomes Giovanelli Marini",299.770.168-60,34.220.110-4,"Rua José Guardia Neto,163","Altos de Santana",Jacareí,SP,12306-760,drikagiovanelli@gmail.com,0,2015-11-09,1981-09-21," Casado(a)",F
+21,"Adriana Maia Gonçalves",255.235.428-90,23.804.796-9,"Rua: Arnaldo Machado Araujo",,,,12247-380,adriana.maia65@hotmail.com,0,NULL,1976-02-14," ",F
+22,"Adriana Régia Sales de Lima",,,"Rua Benedito O. Lecques50 apto 78,,","Jd. Aquarius",SJCampos,SP,12246-021,adriana.regia@edpbr.com.br,0,NULL,1969-05-13," Casado(a)",F
+23,"Adriana Tonissi",,,"Rua Benedito Oswaldo Lecques300 apto. 83B,,","Jd. Aquarius",SJCampos,SP,12246-021,dricatonissi@hotmail.com,0,2015-07-28,0000-00-00," Casado(a)",F
+24,"Adrine Bueno Coutinho",300.306.468-12,29.701.145-5,"Rua das Chacaras,351 - ap.55b","Jd. Oriente",SJCampos,SP,12232-040,adrine.coutinho@uol.com.br,0,2015-08-14,1983-05-30," ",F
+25,"Agnaldo Ap. da Cruz",,,"DUrvalina I. C. dos Santos,,,",Santana,SJCampos,,12211-135,agnaldocruz@gmail.com,0,NULL,0000-00-00," Solteiro(a)",M
+26,"Alaisa Costa",,,"R. Valdemar R. Silva,145,,","Jd. Colinas",SJCampos,SP,12242-222,arccosta14@hotmail.com,0,NULL,1964-05-14," Casado(a)",F
+27,"Alessandra Aparecida Guadagnin",,,"Rua Anapolis,1195","Parque Industrial",SJCampos,SP,12235-690,aleguard@ig.com.br,1,2015-08-14,1970-01-04," Casado(a)",F
+28,"Alessandra B. R. Brandão",,,"Rua Ponte Nova,147","Bosque Eucaliptos",SJCampos,SP,12233-580,abrbrandao10@gmail.com,0,2015-12-12,1975-03-17," Casado(a)",F
+29,"Alessandra B. Vaz",263.544.518-42,25.230.914-5,"Rua: José Ferreira de Castro, 173apto 84B",,SJCampos,SP,,,0,NULL,0000-00-00," Casado(a)",F
+30,"Alessandra Carvalho Miranda",,,"Rua Possidonio J. Freitas150,,",Urbanova,SJCampos,SP,12244-010,carvalhomiranda@hotmail.com,0,NULL,1971-09-08," ",F
+31,"Alessandra Cristina Cestrin Targa",,,"Av. Conceiçao,1781,,","V. Guilherme",S.Paulo,SP,02072-002,targaale@yahoo.com.br,0,NULL,1975-05-23," ",F
+32,"Alessandra Lucy Brienza de Paula",,,"Rua Wanderley1233-ap. 115,,",,"Sao Paulo",Sp,,alelucy@uol.com.br,0,NULL,1971-05-18," Casado(a)",F
+33,"Alessandra Maria Ebeller Prata Della Rosa",,,"R.Maria José do Amaral Alves, 74","Urbanova 5",SJCampos,Sp,12244-861,leprata@ig.com.br,0,2015-09-02,0000-00-00," Casado(a)",F
+34,"Alessandra Vieira A. M. Oliveira",,,"Rua: Dr. Tetuliano 111, apto71","Solar Girassois",SJCampos,SP,,mgbrasil2014@yahoo.com.br,0,NULL,1960-03-07," Casado(a)",F
+35,"Alex Douglas dos Santos",,,"Av. Antonia N. Campos Assis,,","Vila das Flores",SJCampos,SP,12234-750,"alexdouglasdos santos@hotmail.com",0,NULL,0000-00-00," ",M
+36,"Alexandra Arestivo Nunes",,,"Rua Larent Martins,,","Jd Esplanada",SJCampos,SP,12242-431,2721alexandra@bradesco.com.br,0,NULL,0000-00-00," ",F
+37,"Alexandra Ct Nobrega",,,"Cel. José Domingos de Vasconcelos,22 apt 91,,","Vl Adyana",SJCampos,,12242-840,xanda_nobrega@hotmail.com,0,NULL,1971-02-24," Solteiro(a)",F
+38,"Alexandra G. Prestes",316.060.478-09,53.015.167-9,"Rua: Jesus Garcia n°112 apto82,,",,SJCampos,SP,12246-875,alexiafisio@yahoo.com.br,1,NULL,1982-07-04," Casado(a)",F
+39,"Alexandra Cassiano Pinto",,,"Rua: Prof° Roberval Froes 350apto 191B,,","JD. Esplanada",SJCampos,SP,12242-460,alexandracassiano.pinto@gmail.com,0,NULL,1979-09-18," Casado(a)",M
+40,"Alexandre Fagundes de Souza",,,"Rua Valença408 ap. 32 ,,","Jd. Palmeiras",SJCampos,SP,12237-824,"Não possui E-Mail",0,NULL,1975-01-31," ",M
+41,"Alexandre Gonçalves",,,",,",,SJCampos,SP,12246-000,isa_armani@yahoo.com.br,0,NULL,1958-10-30," Casado(a)",M
+42,"Alexandre Paloschi Horta",,,"R. do Aruama,117 Ap. 91,,","Jd. Aquarius",SJCampos,SP,12246-250,alexandre.horta@gmail.com,0,NULL,1975-01-08," Casado(a)",M
+43,"Aline Carvalho Fava Gomes",,,",,","Jd. Industria ","São José dos Campos",sp,12240-290,alinecfava@ig.com.br,0,NULL,1979-12-18," Solteiro(a)",F
+44,"Aline Cristina de Oliveira",,,"Rua Jose Gomes de Abreu33,,","Vila Esther",SJCampos,SP,12225-580,aline_cris_oliveira@yahoo.com.br,0,NULL,1984-04-19," ",F
+45,"Aline Cristina de Paula",NULL,NULL,"Rua Major Arnaldo Vissato66,,","Bosque dos Eucaliptos",SJCampos,SP,12233-140,aline.paula93@hotmail.com,NULL,NULL,1993-02-26," ",F
+46,"Aline Cristina de Paula",NULL,NULL,"Rua Major Arnaldo Vissoto,66,,","Bosque dos Eucaliptos",SJCampos,SP,,aline.paula93@hotmail.com,NULL,NULL,1993-02-26," Outros",F
+47,"Aline Gisele Soares",,,"Rua : Vicente Alesino,,","Vila Tesouro ","SJCampos ",SP,12221-540,"Não possui E-Mail",0,NULL,1981-06-24," ",F
+48,"Aline Guimaraes Rodrigues",,,"Rua Mario Augusto P. dos Santos,598,,","Jd. Morumbi",SJCampos,SP,12236-470,alineaai-@hotmail.com,0,NULL,0000-00-00," Casado(a)",F
+49,"Aline Oliveira",NULL,NULL,",,",,,,,"Não possui E-Mail",NULL,NULL,NULL," ",F
+50,"Aline Rieira da Silva",,,"Av. Heitor Villa Lobos,,",,SJCampos,SP,12245-280,"Não possui E-Mail",0,NULL,0000-00-00," Casado(a)",F
+51,"Aline Tomazela",,,"R. Celio Jose dos Santos,72 - Ap. 62,,","Jd. Aquarius",SJCampos,SP,12246-023,aline@santacasasjc.com.br,0,NULL,1980-06-24," Casado(a)",F
+52,"Aline de Fatima Rangel de Solza",,,"Av. Olivio Gomes715 ap- 113,,",Santana,SJCampos,SP,12211-115,alinesouza@ig.com,0,NULL,0000-00-00," Casado(a)",F
+53,"Aline de Freitas Motta",,,"Av. Antonio Widmer,290",Urbanova,SJcampos,SP,12244-873,afreitasmotta@yahoo.com.br,0,NULL,1968-05-15," Casado(a)",F
+54,"Aline de Oliveira Campos",,,"Rua  Heitor de Andrades,,","Jardim das Industrias","SJCampos ",SP,12241-000,alineo.campos@gmail.com,0,NULL,1983-11-22," ",F
+55,"Altina Maria Mesquita",,,"Rua Sergipe","V. S. Pedro ","São José dos Campos",sp,,"Não possui E-Mail",0,NULL,1956-06-15," Solteiro(a)",F
+56,"Amalrida Avellar Lopes dos Santos",,,"Rua Francisco Rodrigues de Moraes 59,,","Jd. Jussara",SJCampos,SP,12215-570,avellar11@yahoo.com.br,0,NULL,1964-09-11," ",F
+57,"Amanda C. Barreto da Silva",,,",,",,,,,"Não possui E-Mail",0,NULL,0000-00-00," ",F
+58,"Amanda Carpinetti Demento Alves",,,"Av. Cassiano Ricardo,,","Aquarius ","São José dos Campos",SP,12240-540,am6nda@hotmail.com,0,NULL,1986-07-18," Casado(a)",F
+59,"Amanda Cristina Barreto da Silva",,,"Kalil Mogames 110,,","Pq California",Jacareí,,12311-180,Amandacbs13@hotmail.com,0,NULL,0000-00-00," Solteiro(a)",F
+60,"Amanda Francolozo Silva",,,"R. General Carneiro,661 - Ap 11 A,,",Centro,Jacareí,SP,12308-061,amandafrancolozo@hotmail.com,0,NULL,1983-04-09," ",F
+61,"Amanda Izidio Mauro",,,"Rua Avaristo Borges505,,",Santana,SJCampos,SP,12211-290,amandaizidio@gmail.com,0,NULL,1980-09-23," ",F
+62,"Amanda P.gonzales",,,"Rua Alfredo Ignacio N. Penido,694,,","Jd. Aquarius",SJC,SP,12246-000,amandapgon@yahoo.com.br,0,NULL,0000-00-00," Outros",F
+63,"Amanda R. Bitencourt",,,"av.São João 2655 apto 72",JD.Aquarius,SJCampos,SP,12242-000,argds@uol.com.br,1,NULL,1980-08-17," Solteiro(a)",F
+64,"Amanda de Castro",,,"Trajano Vieira Macedo 101,,","Jd.das Industrias",SJCampos,SP,,amandadecastro@hotmail.com,0,NULL,0000-00-00," Casado(a)",F
+65,"Amarilda Avellar Lopes dos Santos",,,"Rua Francisco Rodrigues de Moraes59,,","monte Castelo",SJCampos,SP,12215-570,avellar11@yahoo.com.br,0,NULL,1964-09-11," ",F
+66,"Ana Beatriz Bontorim",,,"Av. Alfredo .I. N. penido,470 - Ap. 1403,,","Jd. Aquarius",SJCampos,SP,12246-000,anabontorim@yahoo.com.br,0,NULL,1978-10-09," ",F
+67,"Ana Carolina Alonso",,,"Rua Benedito Osvaldo Lecques","Jd. Aquarius",SJCampos,SP,12243-360,viva83@bol.com.br,0,NULL,1983-12-12," ",F
+68,"Ana Carolina Barbosa",,,"Rua Magiana,92,,","Ch. Reunidas",SJCampos,SP,12238-420,anacarolina_sjc@hotmail.com,0,NULL,0000-00-00," Solteiro(a)",F
+69,"Ana Carolina Bertin",,,"Av: Heitor Vila Lobos 500 ,apto 928,,","Vila Ema",SJCampos,SP,12243-260,acarolinabdn@hotmail.com,0,2015-11-06,1976-05-08," Casado(a)",F
+70,"Ana Carolina I. Locatelli",,,"Rua José Pulga91,,","Jd. Aquarius",SJCampos,SP,12246-022,carol_locatelli@hotmail.com,0,NULL,1983-01-20," ",F
+71,"Ana Carolina R C de Barros",,,"Rua: Benedito Osvaldo Lecques 180/115,,","Jd. Aquarius",SJCampos,SP,12246-021,"Não possui E-Mail",0,NULL,1975-04-16," Casado(a)",F
+72,"Ana Carolina Regly Andrade",,,"R Icatú,330,apt53A,,","Parque INdustrial",SJCampos,,12237-010,Carolregly@msn.com,0,NULL,1980-08-16," Solteiro(a)",F
+73,"Ana Clara Reis",,,"Rua 16no. 21 Cond. Aquarius 3,,","Jd. Aquarius",SJCampos,SP,12246-090,"Não possui E-Mail",0,2015-10-20,1995-10-17," ",F
+74,"Ana Cristina Arice Junqueira de Paula",,,"Alameda dos Kings24,,","Jd. Aquarius II",SJCampos,SP,12246-370,ana.cristina.ajp@hotmail.com,0,NULL,0000-00-00," Casado(a)",F
+75,"Ana Flavia T. Yamashita",22004909846,324442294,"Rua Sardônica N241,,","Jd. São José ","São José dos Campos",SP,12215-790,aflavia06@yahoo.com.br,1,2015-11-09,1980-01-06," Solteiro(a)",F
+76,"Ana Flávia de C. Agra Costa",21702006816,29771099-1,"R: Corifeu de Azevedo Marques N: 3202  Apto81 b,,",Jd.Industrias,"São José dos Campos",SP,12241-040,agra.flavija@gmail.com,1,2015-09-03,1980-06-11," Casado(a)",F
+77,"Ana Laura de Castro Junho",,,"Rua São Bernardo do Campo,,","Jd. Alvorada",SJCampos,SP,12240-520,ana.laura.junho@hotmail.com,0,NULL,1999-06-16," Solteiro(a)",F
+78,"Ana Lucia Alves Lima",NULL,NULL,"Av. Jorge Madid Filho207 apto 61,,",Centro,Jacareí,SP,12308-207,anacoord@gmail.com,NULL,NULL,1975-01-10," Casado(a)",F
+79,"Ana Lucia P. Fernandes de Almeida",,,"Rua dos Arenques. 50 ap. 161,,","Jd. Aquarius",SJCAmpos,SP,12246-310,ana.prado1@hotmail.com,0,NULL,0000-00-00," ",F
+80,"Ana Luiza Cruz Gorgulho",,,"Rua Ilha do Sul,,","Jd. Paraíso","São José dos Campos ",SP,12235-490,ana_luiza_cruz@hotmail.com,0,NULL,1996-06-19," Solteiro(a)",F
+81,"Ana Luiza Lisboa Capella",NULL,NULL,"R.Elio Del Chiaro,,","31 de março",SJCampos,,12237-450,"Não possui E-Mail",NULL,NULL,NULL," Solteiro(a)",F
+82,"Ana Lúcia Braz Rios",,,"Rua Antonio Francisco do Nascimento35,,",Urbanova,SJCampos,SP,12244-160,anabras.rp@hotmail.com,0,NULL,1965-06-14," Casado(a)",F
+83,"Ana Maria Saraiva",,,"Rua Dr. Tertuliano Delphis N. 121 Ap.71,,",Jd.Aquarius,"São José dos Campos",SP,12246-001,anamaria.anamariasaira.nana@gmail.com,0,NULL,0000-00-00," Casado(a)",F
+84,"Ana Paula Bezerra dos Santos",,,"R das baleias ,95,,","Jd Aquarius",SJCampos,SP,,anny-correa@hotmail.com,0,NULL,0000-00-00," Casado(a)",F
+85,"Ana Paula Bianchi Rainieri",,,"Rua Dr. Jorge de O. Coutinho,280,,","Jd. Aquarius",SJC,SP,12246-060,anapaulabianchi@hotmail.com,0,NULL,1984-04-10," Outros",F
+86,"Ana Paula Bozzi",,,"rua dos piqueirões,,","Jd. Aquarius ","rua dos piqueirões",sp,12010-460,anapaula.bozzi@hotmail.com,0,2015-09-30,1986-03-22," ",F
+87,"Ana Paula Candido Fernandes de Souza",376.311.438-62,46.471.759-0,"Av: das Letras 1019apto 94 bl1,,","Villa Branca",SJCampos,SP,12301-330,anapaulacfernandes@yahoo.com.br,0,NULL,1989-11-16," Casado(a)",F
+88,"Ana Paula D. Chaves",NULL,NULL,",,",,,,,"Não possui E-Mail",NULL,NULL,NULL," ",F
+89,"Ana Paula Dias Kavassaki",,,"Rua Sete de Setembro,167,,",Centro,SJC,SP,12210-000,anakavassaki@yahoo.com.br,0,2015-09-16,1978-06-16," Outros",F
+90,"Ana Paula Medeiros Gomes",,,"Alameda Amendoeiras, 159","Pq. Mirante do Vale",SJCampos,SP,12302-303,anapaulamedeirosgomes@yahoo.com.br,0,NULL,1980-12-16," Casado(a)",F
+91,"Ana Paula Pereira",,,"Rua dos Pintassilgos163,,","Vila Tatetuba",SJCampos,SP,12220-630,a.paula2102@yahoo.com.br,0,NULL,1986-02-21," ",F
+92,"Ana Paula Ribeiro Cordeiro",,,"Rua: Dorival Domingos Silva53,,",Urbanova,SJCampos,SP,12244-170,paulacordeiro23@hotmail.com,0,2015-10-29,1979-03-24," Casado(a)",F
+93,"Ana Paula de a Pellegrini Groppo",,,"Rua Heitor de Andrade2030,,","Jd. Industrias",SJCampos,SP,12241-000,ap.pops@hotmail.com,0,NULL,1984-04-28," ",F
+94,"Ana Silvia Secco",,,"Rua: Dom Pedro ll,222,  Jacareí",Centro,SJCampos,SP,12327-120,assecco@gmail.com,0,2015-12-09,1969-01-18," Casado(a)",F
+95,"Ana Teresa Moreira",,,",,",,,,,anateresa_moreira@yahoo.com.br,0,2015-10-09,0000-00-00," ",F
+96,"Ana Vilela Azevedo Silva",,,"Praça Shui27 ap. 27,,","Jd. Maringá",SJCampos,SP,12243-907,anavilela.silva@uol.com.br,0,NULL,1945-10-19," ",F
+97,"Andre Seixas Victorazzo",,,"Av. Tubarão n°300 ,,","Jd. Aquarius",SJCampos,SP,,"E-Mail Inválido",0,NULL,1973-06-09," Solteiro(a)",M
+98,"Andrea Agostini de Sousa",,,"R. Jose do Patrocinio n°21,,",Estiva,"São José dos Campos",SP,12050-550,a.agostini@gmail.com,0,NULL,0000-00-00," Casado(a)",F
+99,"Andrea Agostini de Souza",NULL,NULL,"R.Jose do Patrocinio 21,,",estiva,Taubate,SP," 1050-550",a.agostinis@gmail.com,NULL,NULL,NULL," Casado(a)",F

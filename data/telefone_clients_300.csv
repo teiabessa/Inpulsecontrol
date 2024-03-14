@@ -1,0 +1,466 @@
+tecl_seq,tecl_desc,tecl_operadora,tecl_client_seq,tecl_oper_seq,client_seq,client_name,client_cpf,client_rg,client_address,client_bairro,client_cidade,client_uf,client_cep,client_email,client_activate,client_data_ultimo_atend,client_data_nascimento,client_estado_civil,client_sexo
+3112,(12)3923-8892,fixo,12,NULL,12,"Adalberto Luis Moreno",,,"Rua Dr. Jorge O. Coutinho, 120,aallmoreno@gmail.com","Jd. Aquarius ","São josé dos Campos",sp,12246-060,teiabak@gmail.com,0,2015-06-12,1964-04-24," Casado(a)",M
+3678,(12)99740-3356,tim,14,NULL,14,"Adriana Barcia",,,"Rua: Dr. Tertuliano Delphin Jr., 111","Jd. Aquarius",SJCampos,SP,12246-001,"Não possui E-Mail",0,NULL,0000-00-00," ",F
+3679,(12)3302-3191,fixo,14,NULL,14,"Adriana Barcia",,,"Rua: Dr. Tertuliano Delphin Jr., 111","Jd. Aquarius",SJCampos,SP,12246-001,"Não possui E-Mail",0,NULL,0000-00-00," ",F
+3680,(12)8127-1820,nextel,15,NULL,15,"Adriana C. Pizzarro Machado",,,"Av. Tubarão331 Ap. 61,,","Jd. Aquarius",SJCampos,SP,12246-140,machadoepizzarro@gmail.com,0,NULL,1974-10-11," ",F
+3681,(12)3431-4757,fixo,15,NULL,15,"Adriana C. Pizzarro Machado",,,"Av. Tubarão331 Ap. 61,,","Jd. Aquarius",SJCampos,SP,12246-140,machadoepizzarro@gmail.com,0,NULL,1974-10-11," ",F
+3682,(12)8828-6868,oi,16,NULL,16,"Adriana Cristina Fernandes",,,"R Profª Maria Siqueira Nathan179,,","Vl Tesouro",SJCampos,SP,12220-521,adrianafernandesterapy@yahoo.com.br,0,NULL,0000-00-00," Casado(a)",F
+3683,(12)3431-9882,fixo,16,NULL,16,"Adriana Cristina Fernandes",,,"R Profª Maria Siqueira Nathan179,,","Vl Tesouro",SJCampos,SP,12220-521,adrianafernandesterapy@yahoo.com.br,0,NULL,0000-00-00," Casado(a)",F
+3684,(12)8800-0026,oi,17,NULL,17,"Adriana Cristina Teixeira Sales",,,"Av. Brasil 1279 apto 32 bloco 2,,",Centro,Caçapava,,12287-020,fisio.asales@gmail.com,0,NULL,1987-01-26," Solteiro(a)",F
+3685,(12)3652-9184,fixo,17,NULL,17,"Adriana Cristina Teixeira Sales",,,"Av. Brasil 1279 apto 32 bloco 2,,",Centro,Caçapava,,12287-020,fisio.asales@gmail.com,0,NULL,1987-01-26," Solteiro(a)",F
+3686,(12)3924-4244,fixo,18,NULL,18,"Adriana Ferreira de Faria",,,"Rua: Utah327,,","Jd. Flórida",SJCampos,SP,12321-720,dricaferia41@gmail.com,0,NULL,0000-00-00," Casado(a)",F
+3687,(12)3951-3850,fixo,18,NULL,18,"Adriana Ferreira de Faria",,,"Rua: Utah327,,","Jd. Flórida",SJCampos,SP,12321-720,dricaferia41@gmail.com,0,NULL,0000-00-00," Casado(a)",F
+3688,(12)8139-7132,tim,19,NULL,19,"Adriana Fidencio Gonçalves dos Santos",,,"R. Gercino Francisco Pereira n°87,,","Jd. Terras do Sul","São José dos Campos",SP,12236-068,adriana.fidencio@yahoo.com.br,0,2015-09-20,1979-01-27," Casado(a)",F
+3425,(12)99721-1699,vivo,20,NULL,20,"Adriana Gomes Giovanelli Marini",299.770.168-60,34.220.110-4,"Rua José Guardia Neto,163","Altos de Santana",Jacareí,SP,12306-760,drikagiovanelli@gmail.com,0,2015-11-09,1981-09-21," Casado(a)",F
+3426,(12)3921-6126,fixo,20,NULL,20,"Adriana Gomes Giovanelli Marini",299.770.168-60,34.220.110-4,"Rua José Guardia Neto,163","Altos de Santana",Jacareí,SP,12306-760,drikagiovanelli@gmail.com,0,2015-11-09,1981-09-21," Casado(a)",F
+3427,(12)8809-7890,oi,21,NULL,21,"Adriana Maia Gonçalves",255.235.428-90,23.804.796-9,"Rua: Arnaldo Machado Araujo",,,,12247-380,adriana.maia65@hotmail.com,0,NULL,1976-02-14," ",F
+3689,(12)9787-5395,"vivo ",22,NULL,22,"Adriana Régia Sales de Lima",,,"Rua Benedito O. Lecques50 apto 78,,","Jd. Aquarius",SJCampos,SP,12246-021,adriana.regia@edpbr.com.br,0,NULL,1969-05-13," Casado(a)",F
+3690,(12)3206-3228,fixo,22,NULL,22,"Adriana Régia Sales de Lima",,,"Rua Benedito O. Lecques50 apto 78,,","Jd. Aquarius",SJCampos,SP,12246-021,adriana.regia@edpbr.com.br,0,NULL,1969-05-13," Casado(a)",F
+3694,(12)8826-0126,oi,23,NULL,23,"Adriana Tonissi",,,"Rua Benedito Oswaldo Lecques300 apto. 83B,,","Jd. Aquarius",SJCampos,SP,12246-021,dricatonissi@hotmail.com,0,2015-07-28,0000-00-00," Casado(a)",F
+3695,(12)3923-9439,fixo,23,NULL,23,"Adriana Tonissi",,,"Rua Benedito Oswaldo Lecques300 apto. 83B,,","Jd. Aquarius",SJCampos,SP,12246-021,dricatonissi@hotmail.com,0,2015-07-28,0000-00-00," Casado(a)",F
+3445,(12)99791-8787,VIVO,24,NULL,24,"Adrine Bueno Coutinho",300.306.468-12,29.701.145-5,"Rua das Chacaras,351 - ap.55b","Jd. Oriente",SJCampos,SP,12232-040,adrine.coutinho@uol.com.br,0,2015-08-14,1983-05-30," ",F
+3446,(12)3204-8907,fixo,24,NULL,24,"Adrine Bueno Coutinho",300.306.468-12,29.701.145-5,"Rua das Chacaras,351 - ap.55b","Jd. Oriente",SJCampos,SP,12232-040,adrine.coutinho@uol.com.br,0,2015-08-14,1983-05-30," ",F
+3696,(12)9724-2120,vivo,25,NULL,25,"Agnaldo Ap. da Cruz",,,"DUrvalina I. C. dos Santos,,,",Santana,SJCampos,,12211-135,agnaldocruz@gmail.com,0,NULL,0000-00-00," Solteiro(a)",M
+3697,(12)3941-3401,fixo,25,NULL,25,"Agnaldo Ap. da Cruz",,,"DUrvalina I. C. dos Santos,,,",Santana,SJCampos,,12211-135,agnaldocruz@gmail.com,0,NULL,0000-00-00," Solteiro(a)",M
+3698,(12)9724-1405,vivo,26,NULL,26,"Alaisa Costa",,,"R. Valdemar R. Silva,145,,","Jd. Colinas",SJCampos,SP,12242-222,arccosta14@hotmail.com,0,NULL,1964-05-14," Casado(a)",F
+3699,(12)3945-0311,fixo,26,NULL,26,"Alaisa Costa",,,"R. Valdemar R. Silva,145,,","Jd. Colinas",SJCampos,SP,12242-222,arccosta14@hotmail.com,0,NULL,1964-05-14," Casado(a)",F
+2293,(12)99180-7478,VIVO,27,4,27,"Alessandra Aparecida Guadagnin",,,"Rua Anapolis,1195","Parque Industrial",SJCampos,SP,12235-690,aleguard@ig.com.br,1,2015-08-14,1970-01-04," Casado(a)",F
+2294,(12)3931-8969,RESI,27,NULL,27,"Alessandra Aparecida Guadagnin",,,"Rua Anapolis,1195","Parque Industrial",SJCampos,SP,12235-690,aleguard@ig.com.br,1,2015-08-14,1970-01-04," Casado(a)",F
+2198,(12)3209-8270,,28,NULL,28,"Alessandra B. R. Brandão",,,"Rua Ponte Nova,147","Bosque Eucaliptos",SJCampos,SP,12233-580,abrbrandao10@gmail.com,0,2015-12-12,1975-03-17," Casado(a)",F
+3417,"011 994998304",CLARO,29,NULL,29,"Alessandra B. Vaz",263.544.518-42,25.230.914-5,"Rua: José Ferreira de Castro, 173apto 84B",,SJCampos,SP,,,0,NULL,0000-00-00," Casado(a)",F
+3418,(11)3791-3828,fixo,29,NULL,29,"Alessandra B. Vaz",263.544.518-42,25.230.914-5,"Rua: José Ferreira de Castro, 173apto 84B",,SJCampos,SP,,,0,NULL,0000-00-00," Casado(a)",F
+3700,(12)8153-3463,tim,30,NULL,30,"Alessandra Carvalho Miranda",,,"Rua Possidonio J. Freitas150,,",Urbanova,SJCampos,SP,12244-010,carvalhomiranda@hotmail.com,0,NULL,1971-09-08," ",F
+3701,(12)3949-2493,fixo,30,NULL,30,"Alessandra Carvalho Miranda",,,"Rua Possidonio J. Freitas150,,",Urbanova,SJCampos,SP,12244-010,carvalhomiranda@hotmail.com,0,NULL,1971-09-08," ",F
+3301,(12)7735-8557,"Ñ ENCONTRADO",31,NULL,31,"Alessandra Cristina Cestrin Targa",,,"Av. Conceiçao,1781,,","V. Guilherme",S.Paulo,SP,02072-002,targaale@yahoo.com.br,0,NULL,1975-05-23," ",F
+3302,(12)2905-5412,"Ñ ENCONTRADO",31,NULL,31,"Alessandra Cristina Cestrin Targa",,,"Av. Conceiçao,1781,,","V. Guilherme",S.Paulo,SP,02072-002,targaale@yahoo.com.br,0,NULL,1975-05-23," ",F
+3299,(11)8381-3874,CLARO,32,NULL,32,"Alessandra Lucy Brienza de Paula",,,"Rua Wanderley1233-ap. 115,,",,"Sao Paulo",Sp,,alelucy@uol.com.br,0,NULL,1971-05-18," Casado(a)",F
+3300,(11)2532-1782,embratel,32,NULL,32,"Alessandra Lucy Brienza de Paula",,,"Rua Wanderley1233-ap. 115,,",,"Sao Paulo",Sp,,alelucy@uol.com.br,0,NULL,1971-05-18," Casado(a)",F
+3702,(12)99191-4024,CLARO,33,NULL,33,"Alessandra Maria Ebeller Prata Della Rosa",,,"R.Maria José do Amaral Alves, 74","Urbanova 5",SJCampos,Sp,12244-861,leprata@ig.com.br,0,2015-09-02,0000-00-00," Casado(a)",F
+3703,(12)3206-6952,fixo,33,NULL,33,"Alessandra Maria Ebeller Prata Della Rosa",,,"R.Maria José do Amaral Alves, 74","Urbanova 5",SJCampos,Sp,12244-861,leprata@ig.com.br,0,2015-09-02,0000-00-00," Casado(a)",F
+2298,(12)98125-3850,TIM,34,2,34,"Alessandra Vieira A. M. Oliveira",,,"Rua: Dr. Tetuliano 111, apto71","Solar Girassois",SJCampos,SP,,mgbrasil2014@yahoo.com.br,0,NULL,1960-03-07," Casado(a)",F
+3704,(12)8804-0570,oi,35,NULL,35,"Alex Douglas dos Santos",,,"Av. Antonia N. Campos Assis,,","Vila das Flores",SJCampos,SP,12234-750,"alexdouglasdos santos@hotmail.com",0,NULL,0000-00-00," ",M
+2531,(12)7898-9946,NEXTEL,36,NULL,36,"Alexandra Arestivo Nunes",,,"Rua Larent Martins,,","Jd Esplanada",SJCampos,SP,12242-431,2721alexandra@bradesco.com.br,0,NULL,0000-00-00," ",F
+3705,(12)7815-1516,nextel,37,NULL,37,"Alexandra Ct Nobrega",,,"Cel. José Domingos de Vasconcelos,22 apt 91,,","Vl Adyana",SJCampos,,12242-840,xanda_nobrega@hotmail.com,0,NULL,1971-02-24," Solteiro(a)",F
+3706,(12)3203-5902,fixo,37,NULL,37,"Alexandra Ct Nobrega",,,"Cel. José Domingos de Vasconcelos,22 apt 91,,","Vl Adyana",SJCampos,,12242-840,xanda_nobrega@hotmail.com,0,NULL,1971-02-24," Solteiro(a)",F
+3637,"(12) 98101-2124",tim,38,NULL,38,"Alexandra G. Prestes",316.060.478-09,53.015.167-9,"Rua: Jesus Garcia n°112 apto82,,",,SJCampos,SP,12246-875,alexiafisio@yahoo.com.br,1,NULL,1982-07-04," Casado(a)",F
+3638,"(12) 98851-7691",oi,38,NULL,38,"Alexandra G. Prestes",316.060.478-09,53.015.167-9,"Rua: Jesus Garcia n°112 apto82,,",,SJCampos,SP,12246-875,alexiafisio@yahoo.com.br,1,NULL,1982-07-04," Casado(a)",F
+3707,(12)9740-3087,vivo,39,NULL,39,"Alexandra Cassiano Pinto",,,"Rua: Prof° Roberval Froes 350apto 191B,,","JD. Esplanada",SJCampos,SP,12242-460,alexandracassiano.pinto@gmail.com,0,NULL,1979-09-18," Casado(a)",M
+3708,(12)9602-3175,vivo,40,NULL,40,"Alexandre Fagundes de Souza",,,"Rua Valença408 ap. 32 ,,","Jd. Palmeiras",SJCampos,SP,12237-824,"Não possui E-Mail",0,NULL,1975-01-31," ",M
+3709,(12)3207-5452,fixo,40,NULL,40,"Alexandre Fagundes de Souza",,,"Rua Valença408 ap. 32 ,,","Jd. Palmeiras",SJCampos,SP,12237-824,"Não possui E-Mail",0,NULL,1975-01-31," ",M
+3710,(12)3937-6994,fixo,41,NULL,41,"Alexandre Gonçalves",,,",,",,SJCampos,SP,12246-000,isa_armani@yahoo.com.br,0,NULL,1958-10-30," Casado(a)",M
+3711,(12)3911-8757,fixo,42,NULL,42,"Alexandre Paloschi Horta",,,"R. do Aruama,117 Ap. 91,,","Jd. Aquarius",SJCampos,SP,12246-250,alexandre.horta@gmail.com,0,NULL,1975-01-08," Casado(a)",M
+3712,(12)9770-5700,vivo,43,NULL,43,"Aline Carvalho Fava Gomes",,,",,","Jd. Industria ","São José dos Campos",sp,12240-290,alinecfava@ig.com.br,0,NULL,1979-12-18," Solteiro(a)",F
+3713,(12)3931-4028,fixo,43,NULL,43,"Aline Carvalho Fava Gomes",,,",,","Jd. Industria ","São José dos Campos",sp,12240-290,alinecfava@ig.com.br,0,NULL,1979-12-18," Solteiro(a)",F
+3714,(12)8124-5239,tim,44,NULL,44,"Aline Cristina de Oliveira",,,"Rua Jose Gomes de Abreu33,,","Vila Esther",SJCampos,SP,12225-580,aline_cris_oliveira@yahoo.com.br,0,NULL,1984-04-19," ",F
+3715,(12)3929-1773,fixo,44,NULL,44,"Aline Cristina de Oliveira",,,"Rua Jose Gomes de Abreu33,,","Vila Esther",SJCampos,SP,12225-580,aline_cris_oliveira@yahoo.com.br,0,NULL,1984-04-19," ",F
+68,(12)8115-5524,NULL,45,NULL,45,"Aline Cristina de Paula",NULL,NULL,"Rua Major Arnaldo Vissato66,,","Bosque dos Eucaliptos",SJCampos,SP,12233-140,aline.paula93@hotmail.com,NULL,NULL,1993-02-26," ",F
+69,(12)3206-2286,NULL,45,NULL,45,"Aline Cristina de Paula",NULL,NULL,"Rua Major Arnaldo Vissato66,,","Bosque dos Eucaliptos",SJCampos,SP,12233-140,aline.paula93@hotmail.com,NULL,NULL,1993-02-26," ",F
+70,(12)3206-2286,NULL,46,NULL,46,"Aline Cristina de Paula",NULL,NULL,"Rua Major Arnaldo Vissoto,66,,","Bosque dos Eucaliptos",SJCampos,SP,,aline.paula93@hotmail.com,NULL,NULL,1993-02-26," Outros",F
+3716,(12)9720-4088,vivo,47,NULL,47,"Aline Gisele Soares",,,"Rua : Vicente Alesino,,","Vila Tesouro ","SJCampos ",SP,12221-540,"Não possui E-Mail",0,NULL,1981-06-24," ",F
+3717,(12)3912-5963,fixo,47,NULL,47,"Aline Gisele Soares",,,"Rua : Vicente Alesino,,","Vila Tesouro ","SJCampos ",SP,12221-540,"Não possui E-Mail",0,NULL,1981-06-24," ",F
+3718,(12)8868-0987,oi,48,NULL,48,"Aline Guimaraes Rodrigues",,,"Rua Mario Augusto P. dos Santos,598,,","Jd. Morumbi",SJCampos,SP,12236-470,alineaai-@hotmail.com,0,NULL,0000-00-00," Casado(a)",F
+3719,(12)3937-5157,fixo,48,NULL,48,"Aline Guimaraes Rodrigues",,,"Rua Mario Augusto P. dos Santos,598,,","Jd. Morumbi",SJCampos,SP,12236-470,alineaai-@hotmail.com,0,NULL,0000-00-00," Casado(a)",F
+3720,(12)9121-0571,claro,50,NULL,50,"Aline Rieira da Silva",,,"Av. Heitor Villa Lobos,,",,SJCampos,SP,12245-280,"Não possui E-Mail",0,NULL,0000-00-00," Casado(a)",F
+3721,(12)8846-2563,oi,51,NULL,51,"Aline Tomazela",,,"R. Celio Jose dos Santos,72 - Ap. 62,,","Jd. Aquarius",SJCampos,SP,12246-023,aline@santacasasjc.com.br,0,NULL,1980-06-24," Casado(a)",F
+3722,(12)3207-1770,fixo,51,NULL,51,"Aline Tomazela",,,"R. Celio Jose dos Santos,72 - Ap. 62,,","Jd. Aquarius",SJCampos,SP,12246-023,aline@santacasasjc.com.br,0,NULL,1980-06-24," Casado(a)",F
+3723,(12)9137-0761,CLARO,52,NULL,52,"Aline de Fatima Rangel de Solza",,,"Av. Olivio Gomes715 ap- 113,,",Santana,SJCampos,SP,12211-115,alinesouza@ig.com,0,NULL,0000-00-00," Casado(a)",F
+3724,(12)3923-6575,FIXO,52,NULL,52,"Aline de Fatima Rangel de Solza",,,"Av. Olivio Gomes715 ap- 113,,",Santana,SJCampos,SP,12211-115,alinesouza@ig.com,0,NULL,0000-00-00," Casado(a)",F
+3725,(12)98844-6613,OI,53,NULL,53,"Aline de Freitas Motta",,,"Av. Antonio Widmer,290",Urbanova,SJcampos,SP,12244-873,afreitasmotta@yahoo.com.br,0,NULL,1968-05-15," Casado(a)",F
+3726,(12)3905-5000,FIXO,53,NULL,53,"Aline de Freitas Motta",,,"Av. Antonio Widmer,290",Urbanova,SJcampos,SP,12244-873,afreitasmotta@yahoo.com.br,0,NULL,1968-05-15," Casado(a)",F
+3727,Casa,,54,NULL,54,"Aline de Oliveira Campos",,,"Rua  Heitor de Andrades,,","Jardim das Industrias","SJCampos ",SP,12241-000,alineo.campos@gmail.com,0,NULL,1983-11-22," ",F
+3728,(12)3939-6205,FIXO,54,NULL,54,"Aline de Oliveira Campos",,,"Rua  Heitor de Andrades,,","Jardim das Industrias","SJCampos ",SP,12241-000,alineo.campos@gmail.com,0,NULL,1983-11-22," ",F
+3729,(12)8222-3924,TIM,54,NULL,54,"Aline de Oliveira Campos",,,"Rua  Heitor de Andrades,,","Jardim das Industrias","SJCampos ",SP,12241-000,alineo.campos@gmail.com,0,NULL,1983-11-22," ",F
+3730,(12)98857-9457,OI,55,NULL,55,"Altina Maria Mesquita",,,"Rua Sergipe","V. S. Pedro ","São José dos Campos",sp,,"Não possui E-Mail",0,NULL,1956-06-15," Solteiro(a)",F
+3731,(12)3911-5122,FIXO,55,NULL,55,"Altina Maria Mesquita",,,"Rua Sergipe","V. S. Pedro ","São José dos Campos",sp,,"Não possui E-Mail",0,NULL,1956-06-15," Solteiro(a)",F
+3732,Casa,,56,NULL,56,"Amalrida Avellar Lopes dos Santos",,,"Rua Francisco Rodrigues de Moraes 59,,","Jd. Jussara",SJCampos,SP,12215-570,avellar11@yahoo.com.br,0,NULL,1964-09-11," ",F
+3733,(12)3029-8086,FIXO,56,NULL,56,"Amalrida Avellar Lopes dos Santos",,,"Rua Francisco Rodrigues de Moraes 59,,","Jd. Jussara",SJCampos,SP,12215-570,avellar11@yahoo.com.br,0,NULL,1964-09-11," ",F
+3734,(12)9128-9334,CLARO,56,NULL,56,"Amalrida Avellar Lopes dos Santos",,,"Rua Francisco Rodrigues de Moraes 59,,","Jd. Jussara",SJCampos,SP,12215-570,avellar11@yahoo.com.br,0,NULL,1964-09-11," ",F
+3735,(12)8810-9115,OI,57,NULL,57,"Amanda C. Barreto da Silva",,,",,",,,,,"Não possui E-Mail",0,NULL,0000-00-00," ",F
+3736,(12)8170-9591,TIM,58,NULL,58,"Amanda Carpinetti Demento Alves",,,"Av. Cassiano Ricardo,,","Aquarius ","São José dos Campos",SP,12240-540,am6nda@hotmail.com,0,NULL,1986-07-18," Casado(a)",F
+3737,(12)3931-9469,FIXO,58,NULL,58,"Amanda Carpinetti Demento Alves",,,"Av. Cassiano Ricardo,,","Aquarius ","São José dos Campos",SP,12240-540,am6nda@hotmail.com,0,NULL,1986-07-18," Casado(a)",F
+3738,(12)8810-9115,OI,59,NULL,59,"Amanda Cristina Barreto da Silva",,,"Kalil Mogames 110,,","Pq California",Jacareí,,12311-180,Amandacbs13@hotmail.com,0,NULL,0000-00-00," Solteiro(a)",F
+3739,(12)9143-2558,VIVO,60,NULL,60,"Amanda Francolozo Silva",,,"R. General Carneiro,661 - Ap 11 A,,",Centro,Jacareí,SP,12308-061,amandafrancolozo@hotmail.com,0,NULL,1983-04-09," ",F
+3740,(12)9136-5002,VIVO,60,NULL,60,"Amanda Francolozo Silva",,,"R. General Carneiro,661 - Ap 11 A,,",Centro,Jacareí,SP,12308-061,amandafrancolozo@hotmail.com,0,NULL,1983-04-09," ",F
+3741,(12)9705-9868,TIM,61,NULL,61,"Amanda Izidio Mauro",,,"Rua Avaristo Borges505,,",Santana,SJCampos,SP,12211-290,amandaizidio@gmail.com,0,NULL,1980-09-23," ",F
+3742,(12)3922-6241,FIXO,61,NULL,61,"Amanda Izidio Mauro",,,"Rua Avaristo Borges505,,",Santana,SJCampos,SP,12211-290,amandaizidio@gmail.com,0,NULL,1980-09-23," ",F
+3743,(12)3923-6171,FIXO,62,NULL,62,"Amanda P.gonzales",,,"Rua Alfredo Ignacio N. Penido,694,,","Jd. Aquarius",SJC,SP,12246-000,amandapgon@yahoo.com.br,0,NULL,0000-00-00," Outros",F
+3744,(12)3949-1016,FIXO,62,NULL,62,"Amanda P.gonzales",,,"Rua Alfredo Ignacio N. Penido,694,,","Jd. Aquarius",SJC,SP,12246-000,amandapgon@yahoo.com.br,0,NULL,0000-00-00," Outros",F
+2301,(12)99713-3923,VIVO,63,4,63,"Amanda R. Bitencourt",,,"av.São João 2655 apto 72",JD.Aquarius,SJCampos,SP,12242-000,argds@uol.com.br,1,NULL,1980-08-17," Solteiro(a)",F
+3745,(12)8196-4794,TIM,64,NULL,64,"Amanda de Castro",,,"Trajano Vieira Macedo 101,,","Jd.das Industrias",SJCampos,SP,,amandadecastro@hotmail.com,0,NULL,0000-00-00," Casado(a)",F
+3746,(12)3308-1530,FIXO,64,NULL,64,"Amanda de Castro",,,"Trajano Vieira Macedo 101,,","Jd.das Industrias",SJCampos,SP,,amandadecastro@hotmail.com,0,NULL,0000-00-00," Casado(a)",F
+3747,(12)3907-3939,FIXO,65,NULL,65,"Amarilda Avellar Lopes dos Santos",,,"Rua Francisco Rodrigues de Moraes59,,","monte Castelo",SJCampos,SP,12215-570,avellar11@yahoo.com.br,0,NULL,1964-09-11," ",F
+3748,(12)3029-8086,FIXO,65,NULL,65,"Amarilda Avellar Lopes dos Santos",,,"Rua Francisco Rodrigues de Moraes59,,","monte Castelo",SJCampos,SP,12215-570,avellar11@yahoo.com.br,0,NULL,1964-09-11," ",F
+3749,(12)8123-8013,TIM,66,NULL,66,"Ana Beatriz Bontorim",,,"Av. Alfredo .I. N. penido,470 - Ap. 1403,,","Jd. Aquarius",SJCampos,SP,12246-000,anabontorim@yahoo.com.br,0,NULL,1978-10-09," ",F
+3750,(12)3207-2076,FIXO,66,NULL,66,"Ana Beatriz Bontorim",,,"Av. Alfredo .I. N. penido,470 - Ap. 1403,,","Jd. Aquarius",SJCampos,SP,12246-000,anabontorim@yahoo.com.br,0,NULL,1978-10-09," ",F
+3665,(12)7850-2445,nextel,67,NULL,67,"Ana Carolina Alonso",,,"Rua Benedito Osvaldo Lecques","Jd. Aquarius",SJCampos,SP,12243-360,viva83@bol.com.br,0,NULL,1983-12-12," ",F
+3666,(12)3941-2148,fixo,67,NULL,67,"Ana Carolina Alonso",,,"Rua Benedito Osvaldo Lecques","Jd. Aquarius",SJCampos,SP,12243-360,viva83@bol.com.br,0,NULL,1983-12-12," ",F
+3751,(12)8179-4872,TIM,68,NULL,68,"Ana Carolina Barbosa",,,"Rua Magiana,92,,","Ch. Reunidas",SJCampos,SP,12238-420,anacarolina_sjc@hotmail.com,0,NULL,0000-00-00," Solteiro(a)",F
+3752,(12)8179-4813,TIM,68,NULL,68,"Ana Carolina Barbosa",,,"Rua Magiana,92,,","Ch. Reunidas",SJCampos,SP,12238-420,anacarolina_sjc@hotmail.com,0,NULL,0000-00-00," Solteiro(a)",F
+3753,(12)8182-6864,TIM,69,NULL,69,"Ana Carolina Bertin",,,"Av: Heitor Vila Lobos 500 ,apto 928,,","Vila Ema",SJCampos,SP,12243-260,acarolinabdn@hotmail.com,0,2015-11-06,1976-05-08," Casado(a)",F
+3754,(12)3906-0265,FIXO,69,NULL,69,"Ana Carolina Bertin",,,"Av: Heitor Vila Lobos 500 ,apto 928,,","Vila Ema",SJCampos,SP,12243-260,acarolinabdn@hotmail.com,0,2015-11-06,1976-05-08," Casado(a)",F
+3755,(12)9763-6964,VIVO,70,NULL,70,"Ana Carolina I. Locatelli",,,"Rua José Pulga91,,","Jd. Aquarius",SJCampos,SP,12246-022,carol_locatelli@hotmail.com,0,NULL,1983-01-20," ",F
+3756,(12)3209-3616,FIXO,70,NULL,70,"Ana Carolina I. Locatelli",,,"Rua José Pulga91,,","Jd. Aquarius",SJCampos,SP,12246-022,carol_locatelli@hotmail.com,0,NULL,1983-01-20," ",F
+3757,(12)3934-3876,FIXO,71,NULL,71,"Ana Carolina R C de Barros",,,"Rua: Benedito Osvaldo Lecques 180/115,,","Jd. Aquarius",SJCampos,SP,12246-021,"Não possui E-Mail",0,NULL,1975-04-16," Casado(a)",F
+3758,(12)7812-6837,NEXTEL,72,NULL,72,"Ana Carolina Regly Andrade",,,"R Icatú,330,apt53A,,","Parque INdustrial",SJCampos,,12237-010,Carolregly@msn.com,0,NULL,1980-08-16," Solteiro(a)",F
+3759,(12)3922-2242,FIXO,72,NULL,72,"Ana Carolina Regly Andrade",,,"R Icatú,330,apt53A,,","Parque INdustrial",SJCampos,,12237-010,Carolregly@msn.com,0,NULL,1980-08-16," Solteiro(a)",F
+3760,(12)8141-2545,VIVO,73,NULL,73,"Ana Clara Reis",,,"Rua 16no. 21 Cond. Aquarius 3,,","Jd. Aquarius",SJCampos,SP,12246-090,"Não possui E-Mail",0,2015-10-20,1995-10-17," ",F
+3761,(12)3941-7937,FIXO,73,NULL,73,"Ana Clara Reis",,,"Rua 16no. 21 Cond. Aquarius 3,,","Jd. Aquarius",SJCampos,SP,12246-090,"Não possui E-Mail",0,2015-10-20,1995-10-17," ",F
+3762,(12)7815-0869,nextel,74,NULL,74,"Ana Cristina Arice Junqueira de Paula",,,"Alameda dos Kings24,,","Jd. Aquarius II",SJCampos,SP,12246-370,ana.cristina.ajp@hotmail.com,0,NULL,0000-00-00," Casado(a)",F
+3763,(12)3942-4835,FIXO,74,NULL,74,"Ana Cristina Arice Junqueira de Paula",,,"Alameda dos Kings24,,","Jd. Aquarius II",SJCampos,SP,12246-370,ana.cristina.ajp@hotmail.com,0,NULL,0000-00-00," Casado(a)",F
+3639,(12)9179-6709,claro,75,NULL,75,"Ana Flavia T. Yamashita",22004909846,324442294,"Rua Sardônica N241,,","Jd. São José ","São José dos Campos",SP,12215-790,aflavia06@yahoo.com.br,1,2015-11-09,1980-01-06," Solteiro(a)",F
+3640,(12)3921-6595,fixo,75,NULL,75,"Ana Flavia T. Yamashita",22004909846,324442294,"Rua Sardônica N241,,","Jd. São José ","São José dos Campos",SP,12215-790,aflavia06@yahoo.com.br,1,2015-11-09,1980-01-06," Solteiro(a)",F
+3668,(12)99139-9907,VIVO,76,NULL,76,"Ana Flávia de C. Agra Costa",21702006816,29771099-1,"R: Corifeu de Azevedo Marques N: 3202  Apto81 b,,",Jd.Industrias,"São José dos Campos",SP,12241-040,agra.flavija@gmail.com,1,2015-09-03,1980-06-11," Casado(a)",F
+3669,(12)3937-5778,fixo,76,NULL,76,"Ana Flávia de C. Agra Costa",21702006816,29771099-1,"R: Corifeu de Azevedo Marques N: 3202  Apto81 b,,",Jd.Industrias,"São José dos Campos",SP,12241-040,agra.flavija@gmail.com,1,2015-09-03,1980-06-11," Casado(a)",F
+3764,(12)8181-1081,OI,77,NULL,77,"Ana Laura de Castro Junho",,,"Rua São Bernardo do Campo,,","Jd. Alvorada",SJCampos,SP,12240-520,ana.laura.junho@hotmail.com,0,NULL,1999-06-16," Solteiro(a)",F
+3765,(12)3204-6066,FIXO,77,NULL,77,"Ana Laura de Castro Junho",,,"Rua São Bernardo do Campo,,","Jd. Alvorada",SJCampos,SP,12240-520,ana.laura.junho@hotmail.com,0,NULL,1999-06-16," Solteiro(a)",F
+130,(12)8867-4258,NULL,78,NULL,78,"Ana Lucia Alves Lima",NULL,NULL,"Av. Jorge Madid Filho207 apto 61,,",Centro,Jacareí,SP,12308-207,anacoord@gmail.com,NULL,NULL,1975-01-10," Casado(a)",F
+131,(12)3351-4628,NULL,78,NULL,78,"Ana Lucia Alves Lima",NULL,NULL,"Av. Jorge Madid Filho207 apto 61,,",Centro,Jacareí,SP,12308-207,anacoord@gmail.com,NULL,NULL,1975-01-10," Casado(a)",F
+3766,(12)9793-9792,VIVO,79,NULL,79,"Ana Lucia P. Fernandes de Almeida",,,"Rua dos Arenques. 50 ap. 161,,","Jd. Aquarius",SJCAmpos,SP,12246-310,ana.prado1@hotmail.com,0,NULL,0000-00-00," ",F
+3767,(12)3307-3652,FIXO,79,NULL,79,"Ana Lucia P. Fernandes de Almeida",,,"Rua dos Arenques. 50 ap. 161,,","Jd. Aquarius",SJCAmpos,SP,12246-310,ana.prado1@hotmail.com,0,NULL,0000-00-00," ",F
+3768,(12)8204-4137,TIM,80,NULL,80,"Ana Luiza Cruz Gorgulho",,,"Rua Ilha do Sul,,","Jd. Paraíso","São José dos Campos ",SP,12235-490,ana_luiza_cruz@hotmail.com,0,NULL,1996-06-19," Solteiro(a)",F
+3769,(12)3917-1010,FIXO,80,NULL,80,"Ana Luiza Cruz Gorgulho",,,"Rua Ilha do Sul,,","Jd. Paraíso","São José dos Campos ",SP,12235-490,ana_luiza_cruz@hotmail.com,0,NULL,1996-06-19," Solteiro(a)",F
+3770,(12)9763-4026,TIM,82,NULL,82,"Ana Lúcia Braz Rios",,,"Rua Antonio Francisco do Nascimento35,,",Urbanova,SJCampos,SP,12244-160,anabras.rp@hotmail.com,0,NULL,1965-06-14," Casado(a)",F
+3771,(12)3949-2978,FIXO,82,NULL,82,"Ana Lúcia Braz Rios",,,"Rua Antonio Francisco do Nascimento35,,",Urbanova,SJCampos,SP,12244-160,anabras.rp@hotmail.com,0,NULL,1965-06-14," Casado(a)",F
+3772,(12)3923-6762,fixo,83,NULL,83,"Ana Maria Saraiva",,,"Rua Dr. Tertuliano Delphis N. 121 Ap.71,,",Jd.Aquarius,"São José dos Campos",SP,12246-001,anamaria.anamariasaira.nana@gmail.com,0,NULL,0000-00-00," Casado(a)",F
+3773,(12)9238-1665,vivo,84,NULL,84,"Ana Paula Bezerra dos Santos",,,"R das baleias ,95,,","Jd Aquarius",SJCampos,SP,,anny-correa@hotmail.com,0,NULL,0000-00-00," Casado(a)",F
+3774,(12)3308-5389,FIXO,85,NULL,85,"Ana Paula Bianchi Rainieri",,,"Rua Dr. Jorge de O. Coutinho,280,,","Jd. Aquarius",SJC,SP,12246-060,anapaulabianchi@hotmail.com,0,NULL,1984-04-10," Outros",F
+3775,(12)8803-4233,OI,86,NULL,86,"Ana Paula Bozzi",,,"rua dos piqueirões,,","Jd. Aquarius ","rua dos piqueirões",sp,12010-460,anapaula.bozzi@hotmail.com,0,2015-09-30,1986-03-22," ",F
+3635,"(12)9640-0047 ",vivo,87,NULL,87,"Ana Paula Candido Fernandes de Souza",376.311.438-62,46.471.759-0,"Av: das Letras 1019apto 94 bl1,,","Villa Branca",SJCampos,SP,12301-330,anapaulacfernandes@yahoo.com.br,0,NULL,1989-11-16," Casado(a)",F
+3636,(12)3934-4869,FIXO,87,NULL,87,"Ana Paula Candido Fernandes de Souza",376.311.438-62,46.471.759-0,"Av: das Letras 1019apto 94 bl1,,","Villa Branca",SJCampos,SP,12301-330,anapaulacfernandes@yahoo.com.br,0,NULL,1989-11-16," Casado(a)",F
+3776,(12)9702-4293,vivo,89,NULL,89,"Ana Paula Dias Kavassaki",,,"Rua Sete de Setembro,167,,",Centro,SJC,SP,12210-000,anakavassaki@yahoo.com.br,0,2015-09-16,1978-06-16," Outros",F
+3777,(12)3923-8846,FIXO,89,NULL,89,"Ana Paula Dias Kavassaki",,,"Rua Sete de Setembro,167,,",Centro,SJC,SP,12210-000,anakavassaki@yahoo.com.br,0,2015-09-16,1978-06-16," Outros",F
+3778,(12)8156-5699,TIM,91,NULL,91,"Ana Paula Pereira",,,"Rua dos Pintassilgos163,,","Vila Tatetuba",SJCampos,SP,12220-630,a.paula2102@yahoo.com.br,0,NULL,1986-02-21," ",F
+3779,(12)3912-2855,FIXO,91,NULL,91,"Ana Paula Pereira",,,"Rua dos Pintassilgos163,,","Vila Tatetuba",SJCampos,SP,12220-630,a.paula2102@yahoo.com.br,0,NULL,1986-02-21," ",F
+3780,(12)3209-1730,FIXO,92,NULL,92,"Ana Paula Ribeiro Cordeiro",,,"Rua: Dorival Domingos Silva53,,",Urbanova,SJCampos,SP,12244-170,paulacordeiro23@hotmail.com,0,2015-10-29,1979-03-24," Casado(a)",F
+3781,(12)9102-6999,vivo,92,NULL,92,"Ana Paula Ribeiro Cordeiro",,,"Rua: Dorival Domingos Silva53,,",Urbanova,SJCampos,SP,12244-170,paulacordeiro23@hotmail.com,0,2015-10-29,1979-03-24," Casado(a)",F
+3782,(12)9123-9175,VIVO,93,NULL,93,"Ana Paula de a Pellegrini Groppo",,,"Rua Heitor de Andrade2030,,","Jd. Industrias",SJCampos,SP,12241-000,ap.pops@hotmail.com,0,NULL,1984-04-28," ",F
+3783,(12)3322-1492,FIXO,93,NULL,93,"Ana Paula de a Pellegrini Groppo",,,"Rua Heitor de Andrade2030,,","Jd. Industrias",SJCampos,SP,12241-000,ap.pops@hotmail.com,0,NULL,1984-04-28," ",F
+3784,(12)98122-0001,CLARO,94,NULL,94,"Ana Silvia Secco",,,"Rua: Dom Pedro ll,222,  Jacareí",Centro,SJCampos,SP,12327-120,assecco@gmail.com,0,2015-12-09,1969-01-18," Casado(a)",F
+3667,(12)98148-1682,CLARO,95,NULL,95,"Ana Teresa Moreira",,,",,",,,,,anateresa_moreira@yahoo.com.br,0,2015-10-09,0000-00-00," ",F
+3785,(12)9159-6575,CLARO,96,NULL,96,"Ana Vilela Azevedo Silva",,,"Praça Shui27 ap. 27,,","Jd. Maringá",SJCampos,SP,12243-907,anavilela.silva@uol.com.br,0,NULL,1945-10-19," ",F
+3786,(12)3911-3003,FIXO,96,NULL,96,"Ana Vilela Azevedo Silva",,,"Praça Shui27 ap. 27,,","Jd. Maringá",SJCampos,SP,12243-907,anavilela.silva@uol.com.br,0,NULL,1945-10-19," ",F
+3787,(12)8819-2106,"OI ",97,NULL,97,"Andre Seixas Victorazzo",,,"Av. Tubarão n°300 ,,","Jd. Aquarius",SJCampos,SP,,"E-Mail Inválido",0,NULL,1973-06-09," Solteiro(a)",M
+3788,(12)3921-5262,FIXO,97,NULL,97,"Andre Seixas Victorazzo",,,"Av. Tubarão n°300 ,,","Jd. Aquarius",SJCampos,SP,,"E-Mail Inválido",0,NULL,1973-06-09," Solteiro(a)",M
+3662,(12)99104-7061,claro,98,NULL,98,"Andrea Agostini de Sousa",,,"R. Jose do Patrocinio n°21,,",Estiva,"São José dos Campos",SP,12050-550,a.agostini@gmail.com,0,NULL,0000-00-00," Casado(a)",F
+160,(12)3208-6741,NULL,99,NULL,99,"Andrea Agostini de Souza",NULL,NULL,"R.Jose do Patrocinio 21,,",estiva,Taubate,SP," 1050-550",a.agostinis@gmail.com,NULL,NULL,NULL," Casado(a)",F
+3789,(12)8139-1430,VIVO,100,NULL,100,"Andrea Cristina Santos Ferreira",,,"Rua Tubarão80 Apto 21,,","Jd. Aquarius",SJCampos,SP,12246-130,andrea.ferreira@embraer.com.br,0,NULL,0000-00-00," Casado(a)",F
+3790,(12)3209-3855,FIXO,100,NULL,100,"Andrea Cristina Santos Ferreira",,,"Rua Tubarão80 Apto 21,,","Jd. Aquarius",SJCampos,SP,12246-130,andrea.ferreira@embraer.com.br,0,NULL,0000-00-00," Casado(a)",F
+3791,(12)8831-3900,OI,101,NULL,101,"Andrea Laporta",,,"Rua Itajubá,,"," Ismeni",SJCampos,SP,,andrea.laporta@etep.edu.br,0,NULL,1977-02-24," Casado(a)",F
+3792,(12)3912-9002,FIXO,101,NULL,101,"Andrea Laporta",,,"Rua Itajubá,,"," Ismeni",SJCampos,SP,,andrea.laporta@etep.edu.br,0,NULL,1977-02-24," Casado(a)",F
+3793,(12)9768-6669,VIVO,102,NULL,102,"Andreia Gaspar Brito",,,"Av. Pres. Humberto A. C. Branco 379,,","Jd. Flórida",Jacareí,SP,,andrea@sadeltransmissao.com.br,0,NULL,0000-00-00," Casado(a)",F
+3794,(12)3953-6322,FIXO,102,NULL,102,"Andreia Gaspar Brito",,,"Av. Pres. Humberto A. C. Branco 379,,","Jd. Flórida",Jacareí,SP,,andrea@sadeltransmissao.com.br,0,NULL,0000-00-00," Casado(a)",F
+3795,(12)8805-9294,OI,103,NULL,103,"Andreia Maria de Carvalho",,,"R. Ricardo Verdellw,149,,","Jd. das Industrias",SJCampos,SP,12306-230,andream.carvalho@hotmail.com,0,NULL,1980-09-18," Casado(a)",F
+3796,(12)3958-6519,FIXO,103,NULL,103,"Andreia Maria de Carvalho",,,"R. Ricardo Verdellw,149,,","Jd. das Industrias",SJCampos,SP,12306-230,andream.carvalho@hotmail.com,0,NULL,1980-09-18," Casado(a)",F
+3442,(12)9763-8565,vivo,104,NULL,104,"Andressa Boschetti",,29.102.957-7,"Rua: Paulo Edson Blair65 apto 143A,,",,SJCampos,SP,12243-100,andressa.boschetti@gmail.com,0,2015-10-31,1978-05-14," Casado(a)",F
+2738,(12)3933-5501,FIXO,105,NULL,105,"Andressa Cristina Toledo Silva",,,"R. Abaré, 93","Jd. Vale do Sol",SJCampos,SP,,andressa.silva@embraer.com.br,0,2015-09-15,0000-00-00," ",F
+2739,(12)3931-5626,FIXO,105,NULL,105,"Andressa Cristina Toledo Silva",,,"R. Abaré, 93","Jd. Vale do Sol",SJCampos,SP,,andressa.silva@embraer.com.br,0,2015-09-15,0000-00-00," ",F
+2740,,,105,NULL,105,"Andressa Cristina Toledo Silva",,,"R. Abaré, 93","Jd. Vale do Sol",SJCampos,SP,,andressa.silva@embraer.com.br,0,2015-09-15,0000-00-00," ",F
+3797,(12)8127-0464,TIM,106,NULL,106,"Andreza Kely Rodrigues",,,"Rua Piaui10,,","Vila São Pedro",SJCampos,SP,12215-700,andrezakr@ig.com.br,0,NULL,1978-12-29," ",F
+3798,(12)3021-2729,FIXO,106,NULL,106,"Andreza Kely Rodrigues",,,"Rua Piaui10,,","Vila São Pedro",SJCampos,SP,12215-700,andrezakr@ig.com.br,0,NULL,1978-12-29," ",F
+3799,Casa,,107,NULL,107,"Andreza Nunes da Silva",,,"Rua Presidente Epitacio 175,,","Jd. Industrias",SJCampos,SP,12240-310,andreza.nunes@gmail.com,0,NULL,1980-12-23," ",F
+3800,(12)3946-8854,FIXO,107,NULL,107,"Andreza Nunes da Silva",,,"Rua Presidente Epitacio 175,,","Jd. Industrias",SJCampos,SP,12240-310,andreza.nunes@gmail.com,0,NULL,1980-12-23," ",F
+3801,(12)9123-7100,VIVO,107,NULL,107,"Andreza Nunes da Silva",,,"Rua Presidente Epitacio 175,,","Jd. Industrias",SJCampos,SP,12240-310,andreza.nunes@gmail.com,0,NULL,1980-12-23," ",F
+3802,(12)9744-3322,VIVO,108,NULL,108,"Andreza Sommerauer Franchim Viliotti",,,"Rua Dr. Jorge de Oliveira Coutinho120ap. 104,,",Aquarius,SJCampos,SP,12246-068,andreza.franchim@gmail.com,0,NULL,1980-03-08," ",F
+3803,(12)3911-4030,FIXO,108,NULL,108,"Andreza Sommerauer Franchim Viliotti",,,"Rua Dr. Jorge de Oliveira Coutinho120ap. 104,,",Aquarius,SJCampos,SP,12246-068,andreza.franchim@gmail.com,0,NULL,1980-03-08," ",F
+3804,Casa,,109,NULL,109,"Andrina Cristina Toledo Silva",,,"R. Abari 913,,","Jd. Vale do Sol",SJCampos,SP,,andrina.silva@embraer.com.br,0,NULL,0000-00-00," ",F
+3805,(12)3923-5501,FIXO,109,NULL,109,"Andrina Cristina Toledo Silva",,,"R. Abari 913,,","Jd. Vale do Sol",SJCampos,SP,,andrina.silva@embraer.com.br,0,NULL,0000-00-00," ",F
+3806,(12)9222-0908,CLARO,109,NULL,109,"Andrina Cristina Toledo Silva",,,"R. Abari 913,,","Jd. Vale do Sol",SJCampos,SP,,andrina.silva@embraer.com.br,0,NULL,0000-00-00," ",F
+3807,Claro,,110,NULL,110,"André Felipe Selga Braga",,,"R: Corifeu de Azevedo Marques1282,,","Jd. das Indústrias","São José dos Campos",SP,12241-040,andreselga@terra.com.br,0,NULL,1981-07-29," Casado(a)",F
+3808,(12)9123-8757,CLARO,110,NULL,110,"André Felipe Selga Braga",,,"R: Corifeu de Azevedo Marques1282,,","Jd. das Indústrias","São José dos Campos",SP,12241-040,andreselga@terra.com.br,0,NULL,1981-07-29," Casado(a)",F
+3809,(12)9195-6340,CLARO,110,NULL,110,"André Felipe Selga Braga",,,"R: Corifeu de Azevedo Marques1282,,","Jd. das Indústrias","São José dos Campos",SP,12241-040,andreselga@terra.com.br,0,NULL,1981-07-29," Casado(a)",F
+3810,(12)9170-3057,CLARO,111,NULL,111,"André Luiz Alves Pereira",,,"Francisco Aguade Gils60,,","Jd. Industrias",SJCampos,SP,12240-750,andre@gtacsoluctions.com,0,NULL,0000-00-00," Casado(a)",F
+3811,(12)3939-8063,FIXO,111,NULL,111,"André Luiz Alves Pereira",,,"Francisco Aguade Gils60,,","Jd. Industrias",SJCampos,SP,12240-750,andre@gtacsoluctions.com,0,NULL,0000-00-00," Casado(a)",F
+3812,(12)8813-1285,OI,112,NULL,112,"André Luiz de Aguiar",,,"Rua: Wlamir Rogério Friggi,172,,","Pq. Interlagos",SJCampos,SP,12229-120,"Não possui E-Mail",0,NULL,1980-02-25," Casado(a)",F
+3813,(12)3923-6545,FIXO,113,NULL,113,"Andréa de Freitas Miranda",,,"av.cassiano ricardo 735 apto 17,,","JD Aquarius ",SJCampos,Sp,,andréa@josephinenoivas.com.br,0,NULL,1972-03-15," Casado(a)",F
+3814,(12)9115-8370,CLARO,114,NULL,114,"Anette Vanessa de Moura",,,"Rua Porto Novo100,,","Jd. Satelite",SJCampos,SP,,moura_anette@hotmail.com,0,NULL,1979-09-12," ",F
+200,(12)9729-8905,NULL,115,NULL,115,"Angela Cristina da Rosa",NULL,NULL,"Travessa Sandra Rebeca,,",Freitas,SJCampos,SP,12240-420,alegnacris811@hotmail.com,NULL,NULL,1983-11-08," ",F
+201,(12)3948-1584,NULL,115,NULL,115,"Angela Cristina da Rosa",NULL,NULL,"Travessa Sandra Rebeca,,",Freitas,SJCampos,SP,12240-420,alegnacris811@hotmail.com,NULL,NULL,1983-11-08," ",F
+3815,(12)9715-1913,VIVO,116,NULL,116,"Angela M. B. Aparecido",,,"Rua Celio Jose Santos,72-ap.51,,","Jd. Aquarius",SJCampos,SP,12246-023,angelaaparecido@hotmail.com,0,NULL,0000-00-00," Casado(a)",F
+3816,Residencil,,116,NULL,116,"Angela M. B. Aparecido",,,"Rua Celio Jose Santos,72-ap.51,,","Jd. Aquarius",SJCampos,SP,12246-023,angelaaparecido@hotmail.com,0,NULL,0000-00-00," Casado(a)",F
+3817,(12)3922-9694,FIXO,116,NULL,116,"Angela M. B. Aparecido",,,"Rua Celio Jose Santos,72-ap.51,,","Jd. Aquarius",SJCampos,SP,12246-023,angelaaparecido@hotmail.com,0,NULL,0000-00-00," Casado(a)",F
+3818,(12)8219-8411,TIM,117,NULL,117,"Angela Maria Padoin Vale",,,"Av. Tubarão,,","Jd. Aquarius",SJCampos,SP,12246-140,angela.padoin@hotmail.com,0,NULL,0000-00-00," Casado(a)",F
+3819,(12)3341-8014,FIXO,117,NULL,117,"Angela Maria Padoin Vale",,,"Av. Tubarão,,","Jd. Aquarius",SJCampos,SP,12246-140,angela.padoin@hotmail.com,0,NULL,0000-00-00," Casado(a)",F
+3820,(12)3923-3841,FIXO,118,NULL,118,"Angela Maria Rosseto Quaresma",,,"R. Adhemar de Barros,1373,,","Jd. Renata",SJCampos,SP,12245-010,alegmar@ig.com.br,0,NULL,1958-10-10," Casado(a)",F
+3821,(12)9741-4828,VIVO,119,NULL,119,"Angela Mendes de Matos Voros",,,"RUA ARUANA 67  apto 113 B,,","aquarius ","SJCampos ",SP,12246-250,angela_sjc@hotmail.com,0,NULL,0000-00-00," Casado(a)",F
+3822,(12)3341-0471,FIXO,119,NULL,119,"Angela Mendes de Matos Voros",,,"RUA ARUANA 67  apto 113 B,,","aquarius ","SJCampos ",SP,12246-250,angela_sjc@hotmail.com,0,NULL,0000-00-00," Casado(a)",F
+3415,(12)8218-0970,tim,120,NULL,120,"Angela Raquel Segreto Córdoba",081.014.138-80,13.384.003-7,"Dom Pedro ll 275 D3",,SJCampos,SP,,angelarscm@hotmail.com,0,NULL,0000-00-00," Casado(a)",F
+3416,(12)3942-6718,fixo,120,NULL,120,"Angela Raquel Segreto Córdoba",081.014.138-80,13.384.003-7,"Dom Pedro ll 275 D3",,SJCampos,SP,,angelarscm@hotmail.com,0,NULL,0000-00-00," Casado(a)",F
+213,(12)9116-2909,NULL,121,NULL,121,"Angela de Aquino",NULL,NULL,",,",,"São josé dos Campos",,12243-870,angela.aquino@embraer.com.br,NULL,2015-11-09,NULL," Casado(a)",F
+214,(12)3927-6094,NULL,121,NULL,121,"Angela de Aquino",NULL,NULL,",,",,"São josé dos Campos",,12243-870,angela.aquino@embraer.com.br,NULL,2015-11-09,NULL," Casado(a)",F
+3823,(12)8160-0910,TIM,122,NULL,122,"Angelica Aparecida Rosa Santini",,,"Av. olivio Gomes735,,",Santana,SJCampos,SP,12211-290,angelrosasantini@hotmail.com,0,NULL,0000-00-00," ",F
+3824,(12)9240-0607,CLARO,123,NULL,123,"Angélica Alves Siqueira Madalena",,,"Salvador Isidorio da Silva,,",Mantiqueira,Pindamonhangaba,sp,12446-120,angelliandra@hotmail.com,0,NULL,0000-00-00," ",F
+3825,(12)3637-6464,FIXO,123,NULL,123,"Angélica Alves Siqueira Madalena",,,"Salvador Isidorio da Silva,,",Mantiqueira,Pindamonhangaba,sp,12446-120,angelliandra@hotmail.com,0,NULL,0000-00-00," ",F
+3441,(12)98106-1000,vivo,124,NULL,124,"Anielle P. Mathias",328.004.738-27,44.043.265-0,"Av: Cassinao Ricardo, 101, apto 113A","Jd Aquarius ",SJCampos,SP,12246-870,"Não possui E-Mail",0,2015-11-04,1983-08-10," ",F
+3826,(12)9121-8815,TIM,125,NULL,125,"Anita R. Simões",,,"Rua Maestro Egydio Pinto  N.158/604,,","São Dimas ","São José dos Campos",SP,12245-190,anitahars@hotmail.com,0,NULL,0000-00-00," ",F
+3827,(12)3308-8819,FIXO,125,NULL,125,"Anita R. Simões",,,"Rua Maestro Egydio Pinto  N.158/604,,","São Dimas ","São José dos Campos",SP,12245-190,anitahars@hotmail.com,0,NULL,0000-00-00," ",F
+3828,(12)9617-4608,VIVO,126,NULL,126,"Anna Beatriz Biazussi Franceschini",,,"Av: São João 2655 ap 54,,","Jd. das Colinas",SJCampos,SP,12242-000,annabebiazussi@gmail.com,0,2015-11-30,2001-08-19," Solteiro(a)",F
+3829,(12)3206-6900,FIXO,126,NULL,126,"Anna Beatriz Biazussi Franceschini",,,"Av: São João 2655 ap 54,,","Jd. das Colinas",SJCampos,SP,12242-000,annabebiazussi@gmail.com,0,2015-11-30,2001-08-19," Solteiro(a)",F
+3830,(12)9182-9814,CLARO,127,NULL,127,"Anna Christina Francisco Lopes Canelas",,,"Rua Ines Mariacuogui,50 Apto 146,,","Urbanova V",SJC,SP,12244-857,annachristinalopes@hotmail.com,0,NULL,1978-10-29," Outros",F
+3451,"(12) 98139-2218",tim,128,NULL,128,"Anne Caroline Borsato dos Santos",,48.613.729-5,"Rua das Carpas ,70,apto 51","Jd. Aquarius",SJCampos,SP,,caroline_borsato@hotmail.com,0,NULL,0000-00-00," ",F
+3831,(12)8232-2991,TIM,129,NULL,129,"Anne Caroline Correia Ferri",,," 120 apto 105,,",,,,12220-601,"Não possui E-Mail",0,NULL,0000-00-00," Solteiro(a)",F
+3832,(12)3302-6461,FIXO,129,NULL,129,"Anne Caroline Correia Ferri",,," 120 apto 105,,",,,,12220-601,"Não possui E-Mail",0,NULL,0000-00-00," Solteiro(a)",F
+3833,(12)8131-6846,TIM,130,NULL,130,"Anne Leticia B. dos Santos",,,"Rua das Carpas70,,","Jd. Aquarius",SJCampos,SP,12246-297,anneleticia_bsantos@hotmail.com,0,NULL,1994-09-30," ",F
+3834,resedencia,FIXO,130,NULL,130,"Anne Leticia B. dos Santos",,,"Rua das Carpas70,,","Jd. Aquarius",SJCampos,SP,12246-297,anneleticia_bsantos@hotmail.com,0,NULL,1994-09-30," ",F
+3835,(12)3911-6426,FIXO,130,NULL,130,"Anne Leticia B. dos Santos",,,"Rua das Carpas70,,","Jd. Aquarius",SJCampos,SP,12246-297,anneleticia_bsantos@hotmail.com,0,NULL,1994-09-30," ",F
+3836,(12)9167-2669,OI,131,NULL,131,"Antonia Maria Pinto da Cunha Gomes",,,"Av. Heitor Vila Lobos805 - apto 113,,","Vl. Ema",SJcampos,SP,12243-260,antoniamgomes@hotmail.com,0,NULL,1965-06-14," Casado(a)",F
+3837,(12)3941-5811,FIXO,131,NULL,131,"Antonia Maria Pinto da Cunha Gomes",,,"Av. Heitor Vila Lobos805 - apto 113,,","Vl. Ema",SJcampos,SP,12243-260,antoniamgomes@hotmail.com,0,NULL,1965-06-14," Casado(a)",F
+3838,(12)8144-2570,TIM,132,NULL,132,"Aparecida F. do Prado",,,"Rua Angelo Bravine,42,,","Jd. Oriente","São José dos Campos",sp,,socialcidinha@yahoo.com.br,0,NULL,1976-10-31," Solteiro(a)",F
+3839,(12)3925-2542,FIXO,132,NULL,132,"Aparecida F. do Prado",,,"Rua Angelo Bravine,42,,","Jd. Oriente","São José dos Campos",sp,,socialcidinha@yahoo.com.br,0,NULL,1976-10-31," Solteiro(a)",F
+2155,(12)3307-6854,,133,NULL,133,"Aparecida Fatima de Souza",,,"Rua Barra Velha581,,","Jd. Satelite",SJCampos,SP,12230-110,fasouza8-sjc@hotmail.com,0,NULL,1962-01-08," ",F
+3840,(12)3921-4117,FIXO,134,NULL,134,"Aparecida M. A. Melo Ferrari",,,"R. Irma Maria D. Kfuri487,,","Jd. Esplanada",SJCampos,SP,12242-500,aparecidafer@yahoo.com.br,0,NULL,1953-11-25," Casado(a)",F
+237,(12)9165-2864,NULL,135,NULL,135,"Ariane Ribeiro Mendes",NULL,NULL,"R. Kigoshi Enomoto n. 38 ,,","Jd. San Marino","São José dos Campos",Sp,12235-831,ariane_mendes1@hotmail.com,NULL,NULL,1989-08-14," Solteiro(a)",F
+3402,(12)3933-5130,FIXO,136,NULL,136,"Ariane Souza Avanço",314.850.408-92,43.572.143-4,"Rua Catu, 305","Vale do Sol",SJCampos,SP,12238-150,anesouza211@ig.com.br,0,NULL,1983-12-13," ",F
+3403,"(12) 98835-9966",OI,136,NULL,136,"Ariane Souza Avanço",314.850.408-92,43.572.143-4,"Rua Catu, 305","Vale do Sol",SJCampos,SP,12238-150,anesouza211@ig.com.br,0,NULL,1983-12-13," ",F
+3841,(12)9769-8571,TIM,137,NULL,137,"Audrey Soares Bochi Robles",,,"R. Aufredo Pereira Filho222,,","V. Industrial",SJCampos,SP," 1220-520",audrey.boschi@hubersuhner.com,0,NULL,0000-00-00," Casado(a)",F
+3842,(12)3929-8517,FIXO,137,NULL,137,"Audrey Soares Bochi Robles",,,"R. Aufredo Pereira Filho222,,","V. Industrial",SJCampos,SP," 1220-520",audrey.boschi@hubersuhner.com,0,NULL,0000-00-00," Casado(a)",F
+3843,(12)9133-4280,CLARO,138,NULL,138,"Augusto Marques da Rocha Ribeiro",,,"Rua Cidade de Bento Gonçalves,,","Palmeiras de São José",SJCampos,SP,12237-865,augusto_anrr@hotmail.com,0,NULL,1991-12-15," Solteiro(a)",M
+3844,(12)3029-8781,FIXO,138,NULL,138,"Augusto Marques da Rocha Ribeiro",,,"Rua Cidade de Bento Gonçalves,,","Palmeiras de São José",SJCampos,SP,12237-865,augusto_anrr@hotmail.com,0,NULL,1991-12-15," Solteiro(a)",M
+3845,(85)8874-2027,OI,139,NULL,139,"Aurilea Bessa Alves Pessoa",,,"Rua dos Sabian°697- ap.01,,",,Fortaleza,,,leabessa@yahoo.com.br,0,2015-11-08,1982-12-17," Casado(a)",F
+3846,(85)3087-9021,FIXO,139,NULL,139,"Aurilea Bessa Alves Pessoa",,,"Rua dos Sabian°697- ap.01,,",,Fortaleza,,,leabessa@yahoo.com.br,0,2015-11-08,1982-12-17," Casado(a)",F
+3851,(12)98111-0758,tim,141,NULL,141,"Barbara Ferraz Casali",,,"Rua Mario Alves de Almeida,,","Jd. Satélite",SJCampos,SP,,bah_casali@hotmail.com,0,NULL,1989-04-13," ",F
+3852,(12)3933-1192,fixo,141,NULL,141,"Barbara Ferraz Casali",,,"Rua Mario Alves de Almeida,,","Jd. Satélite",SJCampos,SP,,bah_casali@hotmail.com,0,NULL,1989-04-13," ",F
+3853,(12)9178-6656,vivo,142,NULL,142,"Barbara Mauro Rizzo de Oliveira",,,"Rua das Pescadas136ap. 74 A,,","Jd. Aquarius",SJCampos,SP,12246-291,barbararizzo@gmail.com,0,2015-10-16,1980-05-27," ",F
+3854,(12)3018-4211,fixo,142,NULL,142,"Barbara Mauro Rizzo de Oliveira",,,"Rua das Pescadas136ap. 74 A,,","Jd. Aquarius",SJCampos,SP,12246-291,barbararizzo@gmail.com,0,2015-10-16,1980-05-27," ",F
+3855,ba.ballet@hotmail.com,,143,NULL,143,"Barbara do Prado Vargas",,,"Rua José Colombani Filho801,,","Res. Ana Maria",SJCampos,SP,12224-816,ba.ballet@hotmail.com,0,NULL,0000-00-00," ",F
+3856,(12)3912-8159,fixo,143,NULL,143,"Barbara do Prado Vargas",,,"Rua José Colombani Filho801,,","Res. Ana Maria",SJCampos,SP,12224-816,ba.ballet@hotmail.com,0,NULL,0000-00-00," ",F
+3857,(12)99107-4597,CLARO,143,NULL,143,"Barbara do Prado Vargas",,,"Rua José Colombani Filho801,,","Res. Ana Maria",SJCampos,SP,12224-816,ba.ballet@hotmail.com,0,NULL,0000-00-00," ",F
+3858,(12)9165-3750,CLARO,144,NULL,144,"Barbára S. Barros Faria",,,"Rua: Exp. José Lopes Cruz 28,,",Urbanova,SJCampos,SP,12244-885,barbarabarros8@hotmail.com,0,NULL,0000-00-00," Solteiro(a)",F
+3859,(12)3209-3109,fixo,144,NULL,144,"Barbára S. Barros Faria",,,"Rua: Exp. José Lopes Cruz 28,,",Urbanova,SJCampos,SP,12244-885,barbarabarros8@hotmail.com,0,NULL,0000-00-00," Solteiro(a)",F
+3860,(12)98156-2627,tim,145,NULL,145,"Beatriz Bento Soares",,,"Av.Tubarão N180,,","Jd. Aquarios","São José dos Campos",sp,12246-140,bea.soares@hotmail.com,0,NULL,1972-09-30," Solteiro(a)",F
+3861,(12)3209-4717,fixo,145,NULL,145,"Beatriz Bento Soares",,,"Av.Tubarão N180,,","Jd. Aquarios","São José dos Campos",sp,12246-140,bea.soares@hotmail.com,0,NULL,1972-09-30," Solteiro(a)",F
+3862,(12)3923-3679,fixo,146,NULL,146,"Beatriz Canto Reis",,,"Rua Santo Agostinho,n° 123-ap. 63,,","V. Adyanna",SJCampos,SP,,bia-canto@hotmail.com,0,NULL,0000-00-00," Casado(a)",F
+3863,(12)3322-1080,fixo,146,NULL,146,"Beatriz Canto Reis",,,"Rua Santo Agostinho,n° 123-ap. 63,,","V. Adyanna",SJCampos,SP,,bia-canto@hotmail.com,0,NULL,0000-00-00," Casado(a)",F
+2537,(11)9695-9249,oi,147,NULL,147,"Beatriz Lima Cunha",,,"Rua:Reseadas135 ap 48,,","Jd. Aquarius",SJCampos,SP,,beatrizlimapereira@gmail.com,0,NULL,1986-11-29," Casado(a)",F
+2538,Casa,,148,NULL,148,"Beatriz Morgano Puccini",,,"Rua Fuadi Curi 105,,"," Jd. Aquarius",SJCampos,SP,12246-121,biabritsjc@hotmail.com,0,NULL,1958-09-22," ",F
+2539,(12)3941-2730,,148,NULL,148,"Beatriz Morgano Puccini",,,"Rua Fuadi Curi 105,,"," Jd. Aquarius",SJCampos,SP,12246-121,biabritsjc@hotmail.com,0,NULL,1958-09-22," ",F
+2540,(12)9208-4463,vivo,148,NULL,148,"Beatriz Morgano Puccini",,,"Rua Fuadi Curi 105,,"," Jd. Aquarius",SJCampos,SP,12246-121,biabritsjc@hotmail.com,0,NULL,1958-09-22," ",F
+2305,(12)98219-8668,TIM,149,2,149,"Beatriz Sartori T. Benozzati",,,"Rua Madre Paula de São José,354 ap. 64","Vila Ema",SJCampos,SP,12243-010,beatriz.benozzati@gmail.com,0,2015-11-07,1998-08-23," ",F
+2536,(12)9767-7392,tim,150,NULL,150,"Beatriz de Freitas Pires",,,"H25 A,,",CTA,SJCampos,SP,12228-590,beatrizpires1997@hotmail.com,0,NULL,1997-08-14," ",F
+2541,(12)9648-3188,vivo,151,NULL,151,"Betania Silveira de Faria",,,"av.bertolino cezario dos santos 101apto 601,,","bosque dos eucaliptos","SJCampos ",SP,,"Não possui E-Mail",0,NULL,1984-09-21," Solteiro(a)",F
+3864,(12)9713-1030,tim,152,NULL,152,"Bianca Iramina",,,"R. Aruanâ ,67 Ap. 151 - B,,","Jd. Aquarius",SJCampos,SP,12246-250,biaventurini@hotmail.com,0,NULL,0000-00-00," Casado(a)",F
+3865,(12)3302-8006,fixo,152,NULL,152,"Bianca Iramina",,,"R. Aruanâ ,67 Ap. 151 - B,,","Jd. Aquarius",SJCampos,SP,12246-250,biaventurini@hotmail.com,0,NULL,0000-00-00," Casado(a)",F
+2546,(12)8801-8702,oi,153,NULL,153,"Bianca P. dos Santos de Paula",,,"Av. Miquelina Adamimo,,","Jd. Sul",SJCampos,SP,12236-487,biancapotira@yahoo.com.br,0,NULL,1987-09-10," Solteiro(a)",F
+2542,(12)8828-7747,oi,154,NULL,154,"Bianca de Lima",,,"Rua Manoel Bosco Ribeiro,,","Jd. Industria","São José dos Campos",,12241-070,limabiancamais@hotmail.com,0,NULL,1968-06-16," Casado(a)",F
+3866,(12)3911-5307,fixo,155,NULL,155,"Brenda Jenn An Shu",,,"R. dr. Mario de Moura e Albuquerque400,,",,"Sao Paulo",SP,05633-010,brendashu@gmail.com,0,NULL,1974-12-27," ",F
+3867,(12)3911-5307,fixo,155,NULL,155,"Brenda Jenn An Shu",,,"R. dr. Mario de Moura e Albuquerque400,,",,"Sao Paulo",SP,05633-010,brendashu@gmail.com,0,NULL,1974-12-27," ",F
+3868,12," ",156,NULL,156,"Bruna Araujo Jorge",21843874873,34.218.5925,"Rua: Engenheiro Prudente M. Moraes706apto 402,,","Vila Adyana",SJCampos,SP,12243-750,bru_araujo@hotmail.com,0,2015-11-05,1981-01-21," Divorciado(a)",F
+3869,vivo," ",156,NULL,156,"Bruna Araujo Jorge",21843874873,34.218.5925,"Rua: Engenheiro Prudente M. Moraes706apto 402,,","Vila Adyana",SJCampos,SP,12243-750,bru_araujo@hotmail.com,0,2015-11-05,1981-01-21," Divorciado(a)",F
+3870,(12)9772-9070,vivo,156,NULL,156,"Bruna Araujo Jorge",21843874873,34.218.5925,"Rua: Engenheiro Prudente M. Moraes706apto 402,,","Vila Adyana",SJCampos,SP,12243-750,bru_araujo@hotmail.com,0,2015-11-05,1981-01-21," Divorciado(a)",F
+3871,(12)3923-4163," fixo",156,NULL,156,"Bruna Araujo Jorge",21843874873,34.218.5925,"Rua: Engenheiro Prudente M. Moraes706apto 402,,","Vila Adyana",SJCampos,SP,12243-750,bru_araujo@hotmail.com,0,2015-11-05,1981-01-21," Divorciado(a)",F
+3872,(12)8854-0678,oi,157,NULL,157,"Bruna Cristina Pinheiro Hashimoto",,,"R. Arequipa,549,,","Jd. America",SLCampos,SP,12235-110,bruna_hashimoto@yahoo.com.br,0,NULL,0000-00-00," ",F
+3873,(12)3876-7200,fixo,157,NULL,157,"Bruna Cristina Pinheiro Hashimoto",,,"R. Arequipa,549,,","Jd. America",SLCampos,SP,12235-110,bruna_hashimoto@yahoo.com.br,0,NULL,0000-00-00," ",F
+3874,(12)98810-5797,oi,158,NULL,158,"Bruna Cristina S. Sabino",,,"R. Monte Kilimanjaro,42","Jd. Altos de Santana",SJCampos,SP,12214-370,bruninha_sabino@yahoo.com.br,0,NULL,0000-00-00," Solteiro(a)",F
+3875,(12)3911-5748,fixo,158,NULL,158,"Bruna Cristina S. Sabino",,,"R. Monte Kilimanjaro,42","Jd. Altos de Santana",SJCampos,SP,12214-370,bruninha_sabino@yahoo.com.br,0,NULL,0000-00-00," Solteiro(a)",F
+2558,(12)8183-9529,NEXTEL,159,NULL,159,"Bruna E. G. Auglu Naides",,,"Rua: Shishina,,",Urbanova,SJCampos,SP,12244-000,brunaeduarda.bo@gmail.com,0,NULL,0000-00-00," ",F
+3876,(12)9152-7602,CLARO,160,NULL,160,"Bruna Gabriela C. Santiago",,,"R. Manoel Meneses Legal,925,,","Galo Branco",SJCampos,SP,12243-740,bruna_santiago9@hotmail.com,0,NULL,1987-12-25," Casado(a)",F
+3877,(12)3905-8334,fixo,160,NULL,160,"Bruna Gabriela C. Santiago",,,"R. Manoel Meneses Legal,925,,","Galo Branco",SJCampos,SP,12243-740,bruna_santiago9@hotmail.com,0,NULL,1987-12-25," Casado(a)",F
+3878,(12)8113-6001,oi,161,NULL,161,"Bruna Leonardi Cambusano",,,"R. General Carneiro,661-23A,,",Centro,Jacarei,SP,12308-061,brunaleonardi@hotmail.com,0,NULL,1983-07-08," Solteiro(a)",F
+3879,(12)3952-8865,fixo,161,NULL,161,"Bruna Leonardi Cambusano",,,"R. General Carneiro,661-23A,,",Centro,Jacarei,SP,12308-061,brunaleonardi@hotmail.com,0,NULL,1983-07-08," Solteiro(a)",F
+3880,(12)8814-8135,oi,163,NULL,163,"Bruna Monteiro",,,"R.Dr. Jorge de Oliveira Coutinho40ap. 42,,","JD. Aquarius",SJCampos,SP,12246-060,brunamonteiro17@hotmail.com,0,NULL,1993-06-17," ",F
+3881,(12)3911-6531,fixo,163,NULL,163,"Bruna Monteiro",,,"R.Dr. Jorge de Oliveira Coutinho40ap. 42,,","JD. Aquarius",SJCampos,SP,12246-060,brunamonteiro17@hotmail.com,0,NULL,1993-06-17," ",F
+3882,(12)9151-8072,claro,164,NULL,164,"Bruna Souza",,,"Rua São Bernardo do Campos,,","Jd. Alvorada",SJCampos,SP,,brunaalves12@yahoo.com.br,0,NULL,0000-00-00," ",F
+3883,(12)3018-3022,fixo,164,NULL,164,"Bruna Souza",,,"Rua São Bernardo do Campos,,","Jd. Alvorada",SJCampos,SP,,brunaalves12@yahoo.com.br,0,NULL,0000-00-00," ",F
+3449,(12)99701-9721,vivo,165,NULL,165,"Bruna de Souza Bérgamo",364.215.648-79,46.605.659-x,"Av.Tubarao ,331 apto 164","Jd. Aquarius",,Sp,12246-140,brunabergamo@outlook.com,0,2015-10-01,1989-12-03," Casado(a)",F
+3450,"012 32071709",fixo,165,NULL,165,"Bruna de Souza Bérgamo",364.215.648-79,46.605.659-x,"Av.Tubarao ,331 apto 164","Jd. Aquarius",,Sp,12246-140,brunabergamo@outlook.com,0,2015-10-01,1989-12-03," Casado(a)",F
+3884,(12)9770-0902,vivo,166,NULL,166,"Bruno Felipe Moreira Miranda",,,"Rua: Virginia303,,",Urbanova,SJCAMPOS,SP,,brunoindio@me.com,0,NULL,0000-00-00," Casado(a)",M
+3885,(12)9184-2954,vivo,167,NULL,167,"Bruno K. Castanha",,,"Raimundo B. Nogueira311 Apto 274,,","Parque Industrial",SJCampos,SP,12237-828,brucast@gmail.com,0,NULL,1980-02-18," Casado(a)",M
+3886,(12)8825-5743,oi,169,NULL,169,"Bruno M. Sincerre",,,"R. Cedro106,,","Jd. das Industrias",SJCampos,SP,12241-170,sincerre.bruno@gmail.com,0,NULL,1983-11-17," Solteiro(a)",M
+2568,(12)8192-2112,tim,170,NULL,170,"Bruno Menandro Dipp",,,"Rua: Abolição87apto 84bloco 4,,","Vila Bethania",SJCAMPOS,SP,,bruno.dipp@hotmail.com,0,NULL,1999-05-25," ",M
+3887,(12)8304-3334,tim,171,NULL,171,"Camila Bragança de Abreu",,,"Pescadas 75 ap 184,,","Jd. Aquarius",SJCampos,SP,12246-291,cacabragança@gmail.com,0,NULL,0000-00-00," Solteiro(a)",F
+3888,(12)3207-3214,fixo,171,NULL,171,"Camila Bragança de Abreu",,,"Pescadas 75 ap 184,,","Jd. Aquarius",SJCampos,SP,12246-291,cacabragança@gmail.com,0,NULL,0000-00-00," Solteiro(a)",F
+3889,(12)9174-3720,oi,172,NULL,172,"Camila Casado Zakarian",,,"R. Egle Carnevali161,,","Jd. das Industrias",SJCampos,SP,12240-490,camila_casado@yahoo.com.br,0,NULL,1981-06-10," Casado(a)",F
+3890,(12)3027-7660,fixo,172,NULL,172,"Camila Casado Zakarian",,,"R. Egle Carnevali161,,","Jd. das Industrias",SJCampos,SP,12240-490,camila_casado@yahoo.com.br,0,NULL,1981-06-10," Casado(a)",F
+3891,(12)3939-3362,fixo,173,NULL,173,"Camila Gaggini",,,"Rua Heitor de Andrade n. 552,,","Jd. das Industrias ","São José dos Campos",sp,,cg.22@hotmail.com,0,2015-10-22,1990-04-22," Solteiro(a)",F
+3460,(12)99168-5119,TIM,174,NULL,174,"Camila Gude Valandro",272.806.208-09,33.450.951-8,"Rua: Getúlio Dorneles Vargas,2170 casa  40",,,,12305-010,camilaconsultora@globomail.com,1,NULL,1990-04-01," ",F
+3461,(12)3023-8920,FIXO,174,NULL,174,"Camila Gude Valandro",272.806.208-09,33.450.951-8,"Rua: Getúlio Dorneles Vargas,2170 casa  40",,,,12305-010,camilaconsultora@globomail.com,1,NULL,1990-04-01," ",F
+3892,(12)9194-8852,vivo,175,NULL,175,"Camila Lopes de Campos",,,"Rua Fortaleza,221,,","Belv. Clube dos 500",Guaratingueta,SP,12523-560,camilalopesele@gmail.com,0,NULL,1990-10-13," Solteiro(a)",F
+3893,(12)3133-4964,fixo,175,NULL,175,"Camila Lopes de Campos",,,"Rua Fortaleza,221,,","Belv. Clube dos 500",Guaratingueta,SP,12523-560,camilalopesele@gmail.com,0,NULL,1990-10-13," Solteiro(a)",F
+2575,(12)9744-5354,vivo,176,NULL,176,"Camila Mendes Bonci",,,"Rua das pescadas135ap. 46,,","Jd. Aquarius",SJCampos,SP,12246-291,camila_bonci@yahoo.com.br,0,NULL,1983-05-09," ",F
+2576,(11)9859-0288,vivo,177,NULL,177,"Camila Thiago",,,"Rua. Joaquim Antunes ,1070 apt 12,,",Pinheiros,"São José dos Campos",sp,05415-001,camilathiago@gmail.com,0,NULL,1985-05-20," Solteiro(a)",F
+2577,(11)2738-9635,embratel,177,NULL,177,"Camila Thiago",,,"Rua. Joaquim Antunes ,1070 apt 12,,",Pinheiros,"São José dos Campos",sp,05415-001,camilathiago@gmail.com,0,NULL,1985-05-20," Solteiro(a)",F
+3894,(12)9166-0410,CLARO,178,NULL,178,"Camile V. Pacheco",,,"R. Jose L. Silvestre237,,",Morumbi,SJCampos,SP,12236-480,camile-vp@hotmail.com,0,NULL,1991-03-11," Solteiro(a)",F
+3895,(12)3931-0198,fixo,178,NULL,178,"Camile V. Pacheco",,,"R. Jose L. Silvestre237,,",Morumbi,SJCampos,SP,12236-480,camile-vp@hotmail.com,0,NULL,1991-03-11," Solteiro(a)",F
+3485,(12)98819-0403,OI,179,NULL,179,"Camili Pasquarelli G. M.",418.430.878-39,48.912.019-2,"Rua: Paulo Elias","Vila Adyana",,,12245-320,camilemarcondes@yahoo.com.br,0,NULL,1993-04-03," ",F
+3896,(12)9740-4129,VIVO,180,NULL,180,"Camilo Regis",,,"Heitor de Andrade,,","Jd. Industrial",SJCampos,SP,12241-000,camiloregis@bol.com.br,0,NULL,0000-00-00," Solteiro(a)",M
+3897,(12)3939-1816,fixo,180,NULL,180,"Camilo Regis",,,"Heitor de Andrade,,","Jd. Industrial",SJCampos,SP,12241-000,camiloregis@bol.com.br,0,NULL,0000-00-00," Solteiro(a)",M
+2583,(12)9788-9840,VIVO,181,NULL,181,"Caren Cristine M. S. Ribeiro",,,"Rua Bernardo de Grabois,,","Jd. Industrias",SJCampos,SP,12240-760,caren@coopervale.com.br,0,2015-10-27,0000-00-00," ",F
+3482,(11)8231-4695,TIM,182,NULL,182,"Carine Schunke Bertognolli",013.996.540.80,,"Rua: Joaquim Manoel de Freitas, 128, ","Jd. Rafael",Caçapava,SP,,cagirlsp@hotmail.com,0,2015-10-28,1986-09-15," Solteiro(a)",F
+2586,(12)8181-6556,VIVO,183,NULL,183,"Carla Cristiane da Cunha Franceschini",145.833.988-24,18.480.501-6,"Av: São João n° 2655 apto. 43,,","Jd. das Colinas",SJCampos,SP,12242-000,cccfranceschini@gmail.com,0,2015-10-19,1971-11-22," Casado(a)",F
+3456,"(12) 99207-0159",OI,184,NULL,184,"Carla Maria Martins",078.354.637-84,36.798.820-3,"Geraldo de Barros,147",,SJCampos,SP,,karlla_29@hotmail.com,0,NULL,1978-09-19," ",F
+3898,(12)7815-1776,NEXTEL,185,NULL,185,"Carla Poliana L. Manso",,,"Av. Aldemo Veneziani,411,,","Alto da Ponte",SJcampos,SP,,mamaepo@hotmail.com,0,NULL,1985-11-08," ",F
+3899,(12)3911-6465,fixo,185,NULL,185,"Carla Poliana L. Manso",,,"Av. Aldemo Veneziani,411,,","Alto da Ponte",SJcampos,SP,,mamaepo@hotmail.com,0,NULL,1985-11-08," ",F
+3900,(12)8723-1769,errado,186,NULL,186,"Carla Souza Salgado da Cruz",,,"Durvalino Isauro Conceição dos Santos, 201","P. Cristina",SJCampos,,22211-135,carla_maryray@live.com,0,NULL,0000-00-00," Solteiro(a)",F
+3901,(12)3941-3401,fixo,186,NULL,186,"Carla Souza Salgado da Cruz",,,"Durvalino Isauro Conceição dos Santos, 201","P. Cristina",SJCampos,,22211-135,carla_maryray@live.com,0,NULL,0000-00-00," Solteiro(a)",F
+3487,(12)98850-3363,OI,187,NULL,187,"Carla Graves Evangelista",319.435.708-50,43.412.835-1,"Av Cidade Jardim 2680 apto 24","Bosque dos Eucaliptos",SJCampos,SP,,tissigraves@yahoo.com.br,0,2015-10-05,1985-04-09," ",F
+2599,(12)9744-4000,VIVO,188,NULL,188,"Carlos Alberto Antonio Jr",,,"Av. Tubarão120 ap. 61,,","Jd. Aquarius",SJCampos,SP,12246-140,carlos.alberto.900@gmail.com,0,NULL,1979-06-18," ",F
+3902,(12)8137-6389,TIM,189,NULL,189,"Carlos Alberto Gomes Gorges",,,"R. Patativa 100ap. 114,,","Vila Tatetuba",SJCampos,SP,12220-140,carlos_gorges@hotmail.com,0,NULL,0000-00-00," Casado(a)",F
+3903,(12)3955-6115,fixo,189,NULL,189,"Carlos Alberto Gomes Gorges",,,"R. Patativa 100ap. 114,,","Vila Tatetuba",SJCampos,SP,12220-140,carlos_gorges@hotmail.com,0,NULL,0000-00-00," Casado(a)",F
+2603,(12)9147-2460,CLARO,190,NULL,190,"Carlos Eduardo Lopes",,,"Rua: Raul Pompeia726apto 72,,",Pompeia,"São Paulo",SP,05025-020,cel130772@gmail.com,0,NULL,1972-07-13," Casado(a)",F
+3904,(12)8176-4157,tim,191,NULL,191,"Carmem Lúcia Nassar de Carvalho",,,"R.Manoel Freire de Castro 235,,","Bosque dos Eucaliptos",SJCampos,SP,12233-110,carmencarvalho@uol.com.br,0,NULL,1958-10-27," Casado(a)",F
+3905,(12)3916-4346,casa,191,NULL,191,"Carmem Lúcia Nassar de Carvalho",,,"R.Manoel Freire de Castro 235,,","Bosque dos Eucaliptos",SJCampos,SP,12233-110,carmencarvalho@uol.com.br,0,NULL,1958-10-27," Casado(a)",F
+3906,(12)8111-8877,TIM,192,NULL,192,"Carolina Dipp Gimael Del Nero",,,"R.Coronel José Domingues de Vasconcelos 64 apto 602,,","Vila Adyana",SJCampos,Sp,12243-840,dippgimael@gmail.com,0,2015-10-13,1979-01-25," Casado(a)",F
+3907,(12)3207-2713,fixo,192,NULL,192,"Carolina Dipp Gimael Del Nero",,,"R.Coronel José Domingues de Vasconcelos 64 apto 602,,","Vila Adyana",SJCampos,Sp,12243-840,dippgimael@gmail.com,0,2015-10-13,1979-01-25," Casado(a)",F
+3908,(12)9709-6731,VIVO,193,NULL,193,"Carolina Jardim",,,"Alameda Mozartn °51,,","Jd. A quarios",SJCampos,SP,12242-032,acarolj@hotmail.com,0,NULL,1987-06-15," Casado(a)",F
+3909,(12)3911-3141,fixo,193,NULL,193,"Carolina Jardim",,,"Alameda Mozartn °51,,","Jd. A quarios",SJCampos,SP,12242-032,acarolj@hotmail.com,0,NULL,1987-06-15," Casado(a)",F
+3910,(12)9182-6510,claro,195,NULL,195,"Carolina Rodrigues de Paula",,,"Rua: Benedito Osvaldo Lecques300apto 14C,,","Jd. Aquarius",SJCampos,SP,12246-021,carolinamarialuiza@gmail.com,0,NULL,0000-00-00," Solteiro(a)",F
+3911,(12)3923-2346,fixo,195,NULL,195,"Carolina Rodrigues de Paula",,,"Rua: Benedito Osvaldo Lecques300apto 14C,,","Jd. Aquarius",SJCampos,SP,12246-021,carolinamarialuiza@gmail.com,0,NULL,0000-00-00," Solteiro(a)",F
+3912,(12)7898-0747,nextel,196,NULL,196,"Carolina Ruston Daler",,,"Rua Julio Cesar204,,","Jd. Coleginho",Jacarei,SP,12310-770,carolinaruston@bol.com.br,0,NULL,1973-08-30," Casado(a)",F
+3913,(12)9351-3616,"nao encontrado",196,NULL,196,"Carolina Ruston Daler",,,"Rua Julio Cesar204,,","Jd. Coleginho",Jacarei,SP,12310-770,carolinaruston@bol.com.br,0,NULL,1973-08-30," Casado(a)",F
+3914,(12)8116-4237,TIM,197,NULL,197,"Carolina do Amaral Desio Santana",,,"Rua Titto R. Liberato 63 - Apto. 1002,,","Jd. Aquarius",SJCampos,SP,12242-630,caroldesio@yahoo.com.br,0,NULL,1980-02-14," Casado(a)",F
+3915,(12)3902-4349,fixo,197,NULL,197,"Carolina do Amaral Desio Santana",,,"Rua Titto R. Liberato 63 - Apto. 1002,,","Jd. Aquarius",SJCampos,SP,12242-630,caroldesio@yahoo.com.br,0,NULL,1980-02-14," Casado(a)",F
+3916,(12)3956-2202,fixo,198,NULL,198,"Caroline Maria Ferreira",,,"Rua Professora Anita Oliveira C. Gomes699,,","Nova Jacarei",Jacarei,SP,12325-240,carol.lineferreira@hotmail.com,0,NULL,0000-00-00," ",F
+3917,(12)9604-7373,vivo,199,NULL,199,"Caroline Sanita Franco da Cunha",,,"Av. Cassiano Ricardo,,","Jd. Alvorada",S.J.Campos,SP,12240-540,carol_sanita@yahoo.com.br,0,NULL,1982-06-22," ",F
+3918,(12)3302-3381,fixo,199,NULL,199,"Caroline Sanita Franco da Cunha",,,"Av. Cassiano Ricardo,,","Jd. Alvorada",S.J.Campos,SP,12240-540,carol_sanita@yahoo.com.br,0,NULL,1982-06-22," ",F
+3919,(12)8162-0670,TIM,200,NULL,200,"Caroline Teles de Faria Oliveira",,,"Rua Laurent Martins479 ap. 63B,,","Jd. Esplanada",SJCampos,SP,12242-431,carol_mtf@hotmail.com,0,NULL,1979-05-08," ",F
+3920,(12)3302-4968,FIXO,200,NULL,200,"Caroline Teles de Faria Oliveira",,,"Rua Laurent Martins479 ap. 63B,,","Jd. Esplanada",SJCampos,SP,12242-431,carol_mtf@hotmail.com,0,NULL,1979-05-08," ",F
+3921,celeular,,201,NULL,201,"Cassia Garcia",,,"Rua Benedito Oswaldo Leques200  Ap. 41,,","Jd. Aquarius",SJCampos,SP,,c.glp@hotmail.com,0,NULL,1986-04-26," ",F
+3922,(12)8170-9332,tim,201,NULL,201,"Cassia Garcia",,,"Rua Benedito Oswaldo Leques200  Ap. 41,,","Jd. Aquarius",SJCampos,SP,,c.glp@hotmail.com,0,NULL,1986-04-26," ",F
+3923,(12)3913-3200,fixo,202,NULL,202,"Cassia Regina Fernandes",,,",,",,,,,cassiarrf@gmail.com,0,NULL,0000-00-00," ",F
+3924,(12)9756-4090,vivo,203,NULL,203,"Catarina Tressoldi Simão",,,"Major Dietrich Ott351,,","Jd. Colinas",SJCampos,SP,12243-111,cat_ts@hotmail.com,0,NULL,1998-06-26," ",F
+3925,(12)7898-7043,nextel,204,NULL,204,"Cecilia Carvalho Nascimento",,,"Rua Nascin Anis Mimessi111 Portal da Serra,,",Urbanova,SJCampos,SP,12244-070,ceciliacarvalho07@hotmail.com,1,2015-10-16,1980-04-07," ",F
+3926,(12)3937-9688,fixo,204,NULL,204,"Cecilia Carvalho Nascimento",,,"Rua Nascin Anis Mimessi111 Portal da Serra,,",Urbanova,SJCampos,SP,12244-070,ceciliacarvalho07@hotmail.com,1,2015-10-16,1980-04-07," ",F
+3605,(12)3931-4355,FIXO,205,NULL,205,"Cecilia Lima Colarini",368.213.218-09,44.006.967-1,"Rua: Porto Novo 120","Jd. Satélite",SJCampos,SP,12230-060,ceciliapower24@hotmail.com,0,NULL,1982-12-15," Casado(a)",F
+3927,(12)8145-2755,tim,206,NULL,206,"Cecilia Vecassani Secena",,,"R: Luiz Jacinton71 centro,,",Centro,"São josé dos Campos",sp,12245-710,cecisecena@yahoo.com,0,NULL,0000-00-00," ",F
+3928,(12)3307-6435,fixo,206,NULL,206,"Cecilia Vecassani Secena",,,"R: Luiz Jacinton71 centro,,",Centro,"São josé dos Campos",sp,12245-710,cecisecena@yahoo.com,0,NULL,0000-00-00," ",F
+3929,(12)9103-2726,"claro ",207,NULL,207,"Celia Regina G. Rodrigues",,,"Rua Maricá690,,","Jd. Satélite",SJCampos,SP,12230-100,celiaregina.g@gmail.com,0,NULL,1959-10-11," Casado(a)",F
+3930,(12)3934-7764,fixo,207,NULL,207,"Celia Regina G. Rodrigues",,,"Rua Maricá690,,","Jd. Satélite",SJCampos,SP,12230-100,celiaregina.g@gmail.com,0,NULL,1959-10-11," Casado(a)",F
+3931,(12)8112-4518,oi,208,NULL,208,"Celina Prado Medeiros",,,"Rua Francisco Camilo,42,,","Jd. Diamante","São josé dos Campos ",sp,12223-190,celizolda@yahoo.com.br,0,2015-10-23,1982-03-17," Casado(a)",F
+3932,(12)8858-1290,oi,210,NULL,210,"Celso Felipe C. Santos",,,"Meshy Moana Metene,,","Palmeiras de Sao Jose",SJCampos,SP,12237-837,"Não possui E-Mail",0,NULL,0000-00-00," Casado(a)",M
+3933,(12)3931-8221,fixo,210,NULL,210,"Celso Felipe C. Santos",,,"Meshy Moana Metene,,","Palmeiras de Sao Jose",SJCampos,SP,12237-837,"Não possui E-Mail",0,NULL,0000-00-00," Casado(a)",M
+3934,(11)8552-3666,tim,211,NULL,211,"Chiu Ching Ya",,,"R. Luiz B. Morais129,,","Jd. Luiza",SJCampos,SP,12305-250,kawai1912@hotmail.com,0,NULL,1985-12-19," Casado(a)",M
+3935,(12)3958-2491,fixo,211,NULL,211,"Chiu Ching Ya",,,"R. Luiz B. Morais129,,","Jd. Luiza",SJCampos,SP,12305-250,kawai1912@hotmail.com,0,NULL,1985-12-19," Casado(a)",M
+3550,(12)98122-9979,TIM,212,NULL,212,"Christiane de C. Mattos Lopes",,,"Rua: Major Francisco de Paula Elias","São Dimas",SJCAMPOS,SP,12245-300,chmattoslopes@gmail.com,0,2015-10-22,1970-09-27," Casado(a)",F
+3936,(12)8121-4560,oi,213,NULL,213,"Christyan Lucy Brienza de Oliveira",,,"Pça. Fuoridesn°141,,",,"Sao Paulo",SP,,chislucy@terra.com.br,0,NULL,1973-01-23," Solteiro(a)",M
+3937,(12)3207-4536,FIXO,213,NULL,213,"Christyan Lucy Brienza de Oliveira",,,"Pça. Fuoridesn°141,,",,"Sao Paulo",SP,,chislucy@terra.com.br,0,NULL,1973-01-23," Solteiro(a)",M
+3938,(12)3916-6900,fixo,214,NULL,214,"Cibele Silva Almeida",,,"Av: Cidade Jardim 3000 apto 124,,","Bosque dos Eucaliptos",SJCampos,SP,12233-002,"Não possui E-Mail",0,NULL,1977-07-08," Casado(a)",F
+3939,(12)3939-4575,fixo,214,NULL,214,"Cibele Silva Almeida",,,"Av: Cidade Jardim 3000 apto 124,,","Bosque dos Eucaliptos",SJCampos,SP,12233-002,"Não possui E-Mail",0,NULL,1977-07-08," Casado(a)",F
+3940,(12)8132-8811,tim,215,NULL,215,"Cibele Soares Silva Manhokr",,,"R.Marica541,,","Jardim Satelite",Sjcampos,SP,12230-100,cibelessilva@hotmail.com,0,NULL,0000-00-00," ",F
+3941,(12)3027-2666,fixo,215,NULL,215,"Cibele Soares Silva Manhokr",,,"R.Marica541,,","Jardim Satelite",Sjcampos,SP,12230-100,cibelessilva@hotmail.com,0,NULL,0000-00-00," ",F
+3294,(12)9137-9100,CLARO,216,NULL,216,"Cibelle Cleto Lopes",,,"Av. Fortaleza1110,,","Parque In dustrial",SJCampos,SP,12235-560,cibelle_cleto@hotmail.com,0,2015-10-29,0000-00-00," ",F
+3295,(12)3933-2542,FIXO,216,NULL,216,"Cibelle Cleto Lopes",,,"Av. Fortaleza1110,,","Parque In dustrial",SJCampos,SP,12235-560,cibelle_cleto@hotmail.com,0,2015-10-29,0000-00-00," ",F
+3942,(12)9604-9974,vivo,217,NULL,217,"Cintia Arouca",,,"Rua Nilza Ap. Silva36,,",Urbanova,SJCampos,SP,12244-608,ciarouca@bol.com.br,0,NULL,0000-00-00," Casado(a)",F
+3943,(12)8811-3119,oi,218,NULL,218,"Cintia Freitas Almeida",,,",,",,,,,"Não possui E-Mail",0,2015-09-28,0000-00-00," Casado(a)",F
+3944,(12)8829-8261,oi,219,NULL,219,"Cintia Hara",,,"Rua do Aruana117 ap.114,,","Jd. Aquarius",SJCampos,SP,12246-250,cintiahara@hotmail.com,0,NULL,0000-00-00," ",F
+3945,(12)9163-0693,claro,220,NULL,220,"Cintia Priscila Tavares",,,"R. Camocim,270 ap9,,","Pq. Industrial",SJCampos,SP,12235-520,cintiaptavares@gmail.com,0,NULL,1984-02-16," Solteiro(a)",F
+3946,(12)9706-1105,vivo,221,NULL,221,"Cintia Shoji",,,"Rua Santo André10850,,","Jd. Alvorada",SJCampos,SP,12240-521,cintiashoji@hotmail.com,0,NULL,1979-04-17," ",F
+3947,(12)3931-4981,fixo,221,NULL,221,"Cintia Shoji",,,"Rua Santo André10850,,","Jd. Alvorada",SJCampos,SP,12240-521,cintiashoji@hotmail.com,0,NULL,1979-04-17," ",F
+3948,Celualar,,222,NULL,222,"Cirlene Primon de Lima Silva",,,"Rua H 18 B 112,,","Campos CTA",SJCampos,SP,12228-700,ciprimon@gmail.com,0,NULL,1973-04-25," Solteiro(a)",F
+3949,(12)9611-6281,oi,222,NULL,222,"Cirlene Primon de Lima Silva",,,"Rua H 18 B 112,,","Campos CTA",SJCampos,SP,12228-700,ciprimon@gmail.com,0,NULL,1973-04-25," Solteiro(a)",F
+3950,(12)3947-3702,fixo,222,NULL,222,"Cirlene Primon de Lima Silva",,,"Rua H 18 B 112,,","Campos CTA",SJCampos,SP,12228-700,ciprimon@gmail.com,0,NULL,1973-04-25," Solteiro(a)",F
+3951,(12)3949-1599,fixo,223,NULL,223,"Clauciene Martins da Silva",,,"Rua: Pedro Medeira57,,","Res. São Francisco",SJCampos,SP,,"Não possui E-Mail",0,NULL,0000-00-00," Casado(a)",F
+3952,(12)3941-3993,fixo,223,NULL,223,"Clauciene Martins da Silva",,,"Rua: Pedro Medeira57,,","Res. São Francisco",SJCampos,SP,,"Não possui E-Mail",0,NULL,0000-00-00," Casado(a)",F
+3953,(12)98148-9373,tim,224,NULL,224,"Claudia Aparecida Santos",,,"Rua Ana Barreto Lima184,,","Sta. Barbara",Jambeiro,SP,12227-000,archclau@hotmail.com,0,2015-10-08,1969-12-08," Solteiro(a)",F
+3954,(12)3978-1535,fixo,224,NULL,224,"Claudia Aparecida Santos",,,"Rua Ana Barreto Lima184,,","Sta. Barbara",Jambeiro,SP,12227-000,archclau@hotmail.com,0,2015-10-08,1969-12-08," Solteiro(a)",F
+3955,(12)8115-7573,tim,225,NULL,225,"Claudia Cristina Xavier Guerra",,,"R. Benedito Osvaldo Lecques n180 apto 176,,","Jd. Aquarius ","São José dos Campos",sp,12246-021,cauguerra@hotmail.com,0,2015-11-12,1968-11-30," Solteiro(a)",F
+3956,(12)3958-4056,fixo,226,NULL,226,"Claudia Fialho Santana",,,"Rua: Roberto Santos N. 113,,","Vila Branca"," Jacarei ",sp,12301-601,clausakura@yahoo.com.br,0,NULL,1986-10-25," Solteiro(a)",F
+3957,(12)3912-5454,fixo,227,NULL,227,"Claudia Lida Rafoes Dalprat Sousa",,,"R.Corifeu de Azevedo Marques ,3202 apto 152 A,,","JD das Industrias",SJCampos,SP,12240-780,rafols21@yahoo.com.br,0,NULL,1978-11-16," Casado(a)",F
+3958,(12)98301-3109,tim,228,NULL,228,"Claudia Lorrayne de Souza Moraes",,,",,","Bosque dos Eucaliptos",SJCampos,SP,,lorrayne_claudia@hotmail.com,0,NULL,1997-09-12," Solteiro(a)",F
+3959,(12)3206-1480,fixo,229,NULL,229,"Claudia M. Siqueira Luiz",,,"Rua: José Cobra360 B1 Ap54,,","Pq. Industrial",SJCampos,SP,12237-000,claudiasluiz@hotmail.com,0,2015-11-09,1973-08-27," Casado(a)",F
+3960,1281008080,tim,229,NULL,229,"Claudia M. Siqueira Luiz",,,"Rua: José Cobra360 B1 Ap54,,","Pq. Industrial",SJCampos,SP,12237-000,claudiasluiz@hotmail.com,0,2015-11-09,1973-08-27," Casado(a)",F
+3961,(12)8148-8696,tim,230,NULL,230,"Claudia Maria L. Pedroso",,,"R. Joao Teixeira,,","Jd. Aquarius",SJCampos,SP,12246-160,claudiapedroso@yahoo.com.br,0,NULL,1966-03-30," Casado(a)",F
+3962,(12)3307-0441,fixo,230,NULL,230,"Claudia Maria L. Pedroso",,,"R. Joao Teixeira,,","Jd. Aquarius",SJCampos,SP,12246-160,claudiapedroso@yahoo.com.br,0,NULL,1966-03-30," Casado(a)",F
+2423,(12)9127-8086,,231,NULL,231,"Claudia Maria da Silva Montemor Barbosa",252.089.878-05,25.167.692-4,"Rua das Carpas n°100 apto 901,,","Jd Aquarius",SJCampos,SP,12246-292,claudiamontemor@hotmail.com,0,2015-11-03,1976-07-21," Casado(a)",F
+3963,(12)3878-7124,fixo,233,NULL,233,"Claudia Maria de Carvalho",,,"Rua Palmares,386","Pq. Industrial",SJCampos,SP,12235-620,claudia.carv@terra.com.br,0,2016-01-18,1966-11-30," ",F
+3964,(12)3913-7427,fixo,233,NULL,233,"Claudia Maria de Carvalho",,,"Rua Palmares,386","Pq. Industrial",SJCampos,SP,12235-620,claudia.carv@terra.com.br,0,2016-01-18,1966-11-30," ",F
+3488,(12)99704-3108,VIVO,234,NULL,234,"Claudia Mendes Augusto dos Santos",,,"Rua Shizuko Iida150 - Apto 63,,","Jd. América",SJCampos,SP,12235-051,claudiaaugusto13@gmail.com,0,2015-09-25,1968-04-13," Casado(a)",F
+3489,(12)3307-2468,FIXO,234,NULL,234,"Claudia Mendes Augusto dos Santos",,,"Rua Shizuko Iida150 - Apto 63,,","Jd. América",SJCampos,SP,12235-051,claudiaaugusto13@gmail.com,0,2015-09-25,1968-04-13," Casado(a)",F
+3965,(19)9781-6294,vivo,235,NULL,235,"Claudia Paixão da Silva",,,",,",,,,13185-250,"Não possui E-Mail",0,NULL,0000-00-00," ",F
+3966,(12)98826-4184,oi,237,NULL,237,"Claudinéia Souza Campbell",,,"Travessa Sexta",Capiava,"São José dos Campos",SP,,neiacampbell@hotmail.com,0,NULL,1976-05-15," Solteiro(a)",F
+3967,(12)3949-1919,fixo,237,NULL,237,"Claudinéia Souza Campbell",,,"Travessa Sexta",Capiava,"São José dos Campos",SP,,neiacampbell@hotmail.com,0,NULL,1976-05-15," Solteiro(a)",F
+3968,(12)8119-2493,tim,238,NULL,238,"Claudivania Santos da Paixao",,,"Av. Profº Olinda Almeida Mercadante,,","Jd.Pq. Santo Antonio",Jacarei,SP,12318-560,"Não possui E-Mail",0,NULL,0000-00-00," ",F
+405,(12)9132-5890,NULL,240,NULL,240,"Cleide Bessa",NULL,NULL,"R. Antonio Costa,46,,","Jd. Paulista",SJCampos,SP,12216-060,"Não possui E-Mail",NULL,NULL,1969-03-16," Solteiro(a)",F
+406,(12)3018-2307,NULL,240,NULL,240,"Cleide Bessa",NULL,NULL,"R. Antonio Costa,46,,","Jd. Paulista",SJCampos,SP,12216-060,"Não possui E-Mail",NULL,NULL,1969-03-16," Solteiro(a)",F
+3969,(12)8138-0332,tim,241,NULL,241,"Cleonice V. Dari",,,"Estr. Munic. Remédios2135,,","Itaim - Bavex",Taúbaté,SP,"    1-058",kuka.boa@hotmail.com,0,NULL,0000-00-00," ",F
+3970,(12)9707-4350,vivo,242,NULL,242,"Cleonice de Fatima Almeida Moraes",,,"Rua Caio Madureira308,,","Jd Paulista",SJCampos,SP,12216-200,cfamoraes@yahoo.com.br,0,NULL,0000-00-00," ",F
+3971,(12)3207-6544,fixo,242,NULL,242,"Cleonice de Fatima Almeida Moraes",,,"Rua Caio Madureira308,,","Jd Paulista",SJCampos,SP,12216-200,cfamoraes@yahoo.com.br,0,NULL,0000-00-00," ",F
+3972,(12)8243-1053,tim,243,NULL,243,"Cleusvaine A. de Lima",,,"Rua: Rui Sergio Rodrigues de Moura,,",Urbanova,"São josé dos Campos ",sp,12244-465,cleolima71@hotmail.com,0,NULL,1971-09-24," Casado(a)",F
+3973,(12)3302-2359,fixo,243,NULL,243,"Cleusvaine A. de Lima",,,"Rua: Rui Sergio Rodrigues de Moura,,",Urbanova,"São josé dos Campos ",sp,12244-465,cleolima71@hotmail.com,0,NULL,1971-09-24," Casado(a)",F
+3974,(12)9121-0295,claro,244,NULL,244,"Cleyre Carmem de Lima",,,"Rua Célio José dos Santos 72 - apto 142,,","Jd. Aquarius",SJCampos,SP,12246-023,cleyrelima@hotmail.com,0,NULL,1967-10-13," Solteiro(a)",F
+3483,(12)9618-0022,VIVO,245,NULL,245,"Cristiane A. M. de Lima Ferrari",273.362.228-54,29.451.589-6,"Rua : Benedito Freire n° 435",Urbanova,SJCampos,SP,12224-875,cris.martinsdelima@hotmail.com,0,2015-10-16,1978-04-13," Casado(a)",F
+3484,(12)3209-8220,FIXO,245,NULL,245,"Cristiane A. M. de Lima Ferrari",273.362.228-54,29.451.589-6,"Rua : Benedito Freire n° 435",Urbanova,SJCampos,SP,12224-875,cris.martinsdelima@hotmail.com,0,2015-10-16,1978-04-13," Casado(a)",F
+2378,(12)99771-7977,,246,NULL,246,"Cristiane Bellato",,,"R: 3B 124","E. do Sol",SJCampos,SP,12244-650,cristiane.bellato@gmail.com,0,2015-11-09,1965-08-30," ",F
+2379,(12)3941-3632,,246,NULL,246,"Cristiane Bellato",,,"R: 3B 124","E. do Sol",SJCampos,SP,12244-650,cristiane.bellato@gmail.com,0,2015-11-09,1965-08-30," ",F
+3975,(12)8195-3441,tim,247,NULL,247,"Cristiane Dias Ribas",,,"rua icatu390ap. 1001,,","31 de Março",SJCampos,SP,,cristianedribas@gmail.com,0,NULL,1976-01-15," ",F
+3976,(12)3933-2989,fixo,247,NULL,247,"Cristiane Dias Ribas",,,"rua icatu390ap. 1001,,","31 de Março",SJCampos,SP,,cristianedribas@gmail.com,0,NULL,1976-01-15," ",F
+3977,(12)9603-3518,vivo,248,NULL,248,"Cristiane Holanda Laporta",,,"R. Rubens L. Filho,260,,","Jd. Ismenia",SJCampos,SP,12221-020,crislaporta@hotmail.com,0,2015-09-30,1977-02-24," Solteiro(a)",F
+420,(12)8808-3909,NULL,249,NULL,249,"Cristiane Honorio da Silva",NULL,NULL,"Rua Cabo Antonio da Silva201,,","Jd. Nova Republica",SJCampos,SP,12234-876,cristianetemis@hotmail.com,NULL,NULL,1987-10-16," ",F
+3978,(12)9610-3640,vivo,250,NULL,250,"Cristiane Melissa Torolho Ribeiro",,,"Av. Tubarão80 apto 82,,","Jd. Aquarius",SJCampos,SP,12246-140,cristiane.melissa@hotmail.com,0,NULL,0000-00-00," Casado(a)",F
+3979,(12)3308-1730,fixo,250,NULL,250,"Cristiane Melissa Torolho Ribeiro",,,"Av. Tubarão80 apto 82,,","Jd. Aquarius",SJCampos,SP,12246-140,cristiane.melissa@hotmail.com,0,NULL,0000-00-00," Casado(a)",F
+3980,(12)8809-9909,oi,251,NULL,251,"Cristiane Nuan de Oliveira Marcilio",,,"R. Raimundo Barbosa Nogueira,450-BC -ap. 04,,","Palmeiras Sao Jose",SJCampos,SP,12237-828,crisnunan@yahoo.com.br,0,NULL,1981-02-20," Casado(a)",F
+3981,(12)3207-2191,fixo,251,NULL,251,"Cristiane Nuan de Oliveira Marcilio",,,"R. Raimundo Barbosa Nogueira,450-BC -ap. 04,,","Palmeiras Sao Jose",SJCampos,SP,12237-828,crisnunan@yahoo.com.br,0,NULL,1981-02-20," Casado(a)",F
+3982,(12)9971-9137,vivo,252,NULL,252,"Cristiane Silvestre",,,",,",,,,,"E-Mail Inválido",0,NULL,0000-00-00," ",F
+3606,"012 981225160",OI,253,NULL,253,"Cristiane dos Santos Sampaio",201.787.058-70,25.555.592-1,,,,,,"Não possui E-Mail",0,NULL,1996-10-05," ",F
+3462,(12)99156-8991,VIVO,254,NULL,254,"Cristina Aparecida da Silva",183.949.868-46,24.387.275-6,"Rua: Palmares 736 apto 23,,","Parque Industrial",SJCampos,SP,12223-562,cristina.silva@sp.senac.br,0,NULL,1971-09-23," Casado(a)",F
+3983,(12)8118-1817,claro,255,NULL,255,"Cristina Moniz A. Lopes",,,"R. das Pescadas135-apto. 202,,","Jd. Aquarius",SJCampos,SP,12224-829,cmoniz77@hotmail.com,0,NULL,1972-12-15," Casado(a)",F
+3457,"(12) 99165-5191",CLARO,256,NULL,256,"Cristina Pretko",222.198.658-00,33.944.529-4,"Rua: Prudente M. Moraes Apto. 1501,,",,SJCampos,SP,,cris.pretko@hotmail.com,0,NULL,1981-09-01," Solteiro(a)",F
+3984,(12)9718-9095,vivo,257,NULL,257,"Cristina de Fatima Alvarenga",,,"R:Virginia Rivoli Gomes,303,,",Urbanova,S.J.Campos,SP,12244-859,mjmoreira@hotmail.com,0,NULL,0000-00-00," ",F
+3985,(12)3204-4165,fixo,257,NULL,257,"Cristina de Fatima Alvarenga",,,"R:Virginia Rivoli Gomes,303,,",Urbanova,S.J.Campos,SP,12244-859,mjmoreira@hotmail.com,0,NULL,0000-00-00," ",F
+3986,Casa,,258,NULL,258,"Critina Auxiliadora Barbosa",,,"R. Benedito Osvaldo Lecquer180,,",Aquarius,SJCampos,SP,12246-021,crisbarbosa1412@gmail.com,0,NULL,1951-12-14," ",F
+3987,(12)3209-2812,fixo,258,NULL,258,"Critina Auxiliadora Barbosa",,,"R. Benedito Osvaldo Lecquer180,,",Aquarius,SJCampos,SP,12246-021,crisbarbosa1412@gmail.com,0,NULL,1951-12-14," ",F
+3988,(12)9771-2264,vivo,258,NULL,258,"Critina Auxiliadora Barbosa",,,"R. Benedito Osvaldo Lecquer180,,",Aquarius,SJCampos,SP,12246-021,crisbarbosa1412@gmail.com,0,NULL,1951-12-14," ",F
+3989,(12)9139-4944,"claro ",259,NULL,259,"Crristiane A. Godoi",,,"Rua dos Artus,54,,","Jd. Aquarius",SJCampos,SP,12246-320,"Não possui E-Mail",0,NULL,1981-03-15," Casado(a)",F
+3990,(12)3942-5331,fixo,259,NULL,259,"Crristiane A. Godoi",,,"Rua dos Artus,54,,","Jd. Aquarius",SJCampos,SP,12246-320,"Não possui E-Mail",0,NULL,1981-03-15," Casado(a)",F
+2610,(11)7580-3882,NEXTEL,260,NULL,260,"Daiani dos Santos Machado Silveira",,,"R. Da Aboliçao,87 - ap. 75 D,,","V. Betania",SJCampos,SP,12245-500,daianisilveira2008@hotmail.com,0,NULL,1984-02-14," Casado(a)",F
+3991,(12)3354-9009,fixo,261,NULL,261,"Daiany Maria da Silva Oliveirra",,,"Rua: José Michelettin°63,,","Cidade Jardim",Jacarei,SP,12320-530,oliveiradaiany@rocketmail.com,0,NULL,1981-06-26," Casado(a)",F
+3992,(12)8808-2098,OI,261,NULL,261,"Daiany Maria da Silva Oliveirra",,,"Rua: José Michelettin°63,,","Cidade Jardim",Jacarei,SP,12320-530,oliveiradaiany@rocketmail.com,0,NULL,1981-06-26," Casado(a)",F
+3993,(12)8208-9992,TIM,262,NULL,262,"Dalila de Paula Homem de Melo",,,"Rua do Aruanã67 ap. 14A,,","Jd. Aquarius",SJCampos,SP,12246-250,dalilinha@hotmail.com,0,NULL,1995-05-13," ",F
+3994,(12)3923-9501,fixo,262,NULL,262,"Dalila de Paula Homem de Melo",,,"Rua do Aruanã67 ap. 14A,,","Jd. Aquarius",SJCampos,SP,12246-250,dalilinha@hotmail.com,0,NULL,1995-05-13," ",F
+3995,(12)9717-0377,VIVO,263,NULL,263,"Dallyane de Oliveira Lima",,,"R. Jose I. M. Santos,153,,","Jd. Mourisco",Taubate,SP,12061-305,dallyanelime@isest.com.br,0,NULL,1987-05-26," Solteiro(a)",F
+3996,(12)3621-9589,fixo,263,NULL,263,"Dallyane de Oliveira Lima",,,"R. Jose I. M. Santos,153,,","Jd. Mourisco",Taubate,SP,12061-305,dallyanelime@isest.com.br,0,NULL,1987-05-26," Solteiro(a)",F
+3997,Casa,,264,NULL,264,"Daniel Carvalho Rabelo",,,"Rua Cidade de Montetevidbo 133,,","Vista Verde",SJCampos,SP,12223-660,dcarvalho21@bol.com.br,0,NULL,0000-00-00," ",M
+3998,(12)3027-0277,fixo,264,NULL,264,"Daniel Carvalho Rabelo",,,"Rua Cidade de Montetevidbo 133,,","Vista Verde",SJCampos,SP,12223-660,dcarvalho21@bol.com.br,0,NULL,0000-00-00," ",M
+3999,(12)8222-3927,TIM,264,NULL,264,"Daniel Carvalho Rabelo",,,"Rua Cidade de Montetevidbo 133,,","Vista Verde",SJCampos,SP,12223-660,dcarvalho21@bol.com.br,0,NULL,0000-00-00," ",M
+4000,(12)9728-3311,VIVO,265,NULL,265,"Daniel Silva Raad",,,"Rua José de San MArtin82,,","Jd. Coleginho",Jacarei,SP,12310-650,danielraad88@hotmail.com,0,NULL,0000-00-00," ",M
+4001,(12)3962-1138,fixo,265,NULL,265,"Daniel Silva Raad",,,"Rua José de San MArtin82,,","Jd. Coleginho",Jacarei,SP,12310-650,danielraad88@hotmail.com,0,NULL,0000-00-00," ",M
+2625,(12)9727-2225,VIVO,266,NULL,266,"Daniel Valdivia Hernadez",,,"Rua Benedito Alvarenga de Carvalho123ap. 41,,","Jd. Aquarius",SJCampos,SP,12242-530,danivh@hotmail.com,0,NULL,0000-00-00," ",M
+4002,SJC,,267,NULL,267,"Daniel dos Santos Pontes",,,"R: Gravataí110,,","Jd. Satélite","São José dos Campos",,12230-340,daniel.pontes@hotmail.com,0,NULL,0000-00-00," Solteiro(a)",M
+4003,(Claro),,267,NULL,267,"Daniel dos Santos Pontes",,,"R: Gravataí110,,","Jd. Satélite","São José dos Campos",,12230-340,daniel.pontes@hotmail.com,0,NULL,0000-00-00," Solteiro(a)",M
+4004,(12)9121-3028,CLARO,267,NULL,267,"Daniel dos Santos Pontes",,,"R: Gravataí110,,","Jd. Satélite","São José dos Campos",,12230-340,daniel.pontes@hotmail.com,0,NULL,0000-00-00," Solteiro(a)",M
+4005,(12)9101-4455,CLARO,268,NULL,268,"Daniela Borges de Arruda Costa",,,"Rua Joana M C. Laranjeiras273,,","Pq. Industrial",SJCampos,SP,12237-410,danielaborges@terra.com.br,0,NULL,1976-12-29," Casado(a)",F
+4006,(12)3931-5949,fixo,268,NULL,268,"Daniela Borges de Arruda Costa",,,"Rua Joana M C. Laranjeiras273,,","Pq. Industrial",SJCampos,SP,12237-410,danielaborges@terra.com.br,0,NULL,1976-12-29," Casado(a)",F
+3629,(12)9139-8007,CLARO,269,NULL,269,"Daniela Brandao Correa",278.246.158-39,24.924.202-3,"R. Jose Alves Dos Santos,391 Ap. 92,,","Jd. Satelite",SJCampos,SP,12243-630,danielabrand@yahoo.com.br,0,NULL,1975-01-19," ",F
+3630,(12)3208-6465,fixo,269,NULL,269,"Daniela Brandao Correa",278.246.158-39,24.924.202-3,"R. Jose Alves Dos Santos,391 Ap. 92,,","Jd. Satelite",SJCampos,SP,12243-630,danielabrand@yahoo.com.br,0,NULL,1975-01-19," ",F
+4007,(12)3931-3155,fixo,270,NULL,270,"Daniela Calderaro de Amorim",,,"Rua Saitama 322,,","Jd. Oriente",SJCampos,SP,12236-140,daniella.cal@hotmail.com,0,NULL,1984-09-21," Solteiro(a)",F
+4008,(12)3931-6791,fixo,270,NULL,270,"Daniela Calderaro de Amorim",,,"Rua Saitama 322,,","Jd. Oriente",SJCampos,SP,12236-140,daniella.cal@hotmail.com,0,NULL,1984-09-21," Solteiro(a)",F
+3164,(12)98117-2079,TIM,272,NULL,272,"Daniela Dantas",,,"Rua: Josefina Segata401,,",Urbanova,SJCampos,SP,12244-892,danidantas_9@hotmail.com,0,2015-10-30,1979-09-09," Casado(a)",F
+3165,(12)3204-8509,FIXO,272,NULL,272,"Daniela Dantas",,,"Rua: Josefina Segata401,,",Urbanova,SJCampos,SP,12244-892,danidantas_9@hotmail.com,0,2015-10-30,1979-09-09," Casado(a)",F
+3079,(12)9623-8533,VIVO,274,NULL,274,"Daniela Miranda Origuela",14472991837,,"Rua José Pereira dos Santos",Urbanova,"São José dos Campos",SP,"   12-244",danioriguela@hotmail.com,0,NULL,1977-01-13," Casado(a)",F
+3080,(12)3302-4937,fixo,274,NULL,274,"Daniela Miranda Origuela",14472991837,,"Rua José Pereira dos Santos",Urbanova,"São José dos Campos",SP,"   12-244",danioriguela@hotmail.com,0,NULL,1977-01-13," Casado(a)",F
+4009,(12)8841-6226,OI,275,NULL,275,"Daniela Morino Resende",,,"Av. Antonio Wedmur,130,,","Urbanova V",SJCampos,SP,12244-873,dan.mresende@gmail.com,0,NULL,0000-00-00," ",F
+4010,(12)3949-3210,fixo,275,NULL,275,"Daniela Morino Resende",,,"Av. Antonio Wedmur,130,,","Urbanova V",SJCampos,SP,12244-873,dan.mresende@gmail.com,0,NULL,0000-00-00," ",F
+2638,(12)7815-5166,NEXTEL,276,NULL,276,"Daniela Moura",,,"R. Haiti,331 - Ap.3 A,,","Jd. America",SJCampos,SP,12235-070,dmourasjc110@hotmail.com,0,NULL,1975-06-15," Divorciado(a)",F
+4011,(12)9129-7767,CLARO,277,NULL,277,"Daniela Pereira",,,"Rua Dr. Orlando F. Filho51 apto 42,,","Jd. Aquarius",SJCampos,SP,12246-190,danipereira@directnet.com.br,0,NULL,1974-11-25," Casado(a)",F
+4012,(12)3942-7757,fixo,277,NULL,277,"Daniela Pereira",,,"Rua Dr. Orlando F. Filho51 apto 42,,","Jd. Aquarius",SJCampos,SP,12246-190,danipereira@directnet.com.br,0,NULL,1974-11-25," Casado(a)",F
+4013,(12)3302-8671,fixo,278,NULL,278,"Daniela Santana Carneiro",,,"Rua: Sebastião Lourenço 14,,","Altos do Bosque",SJCampos,SP,12239-851,danielasilvasant@hotmail.com,0,2015-10-28,0000-00-00," Casado(a)",F
+4014,(12)0767-7957,"Ñ ENCONTRADO",279,NULL,279,"Daniela Souza Alves",,,"Rua Ismael Mery 112 Cond. Residence Club,,","Villa Branca",SJCampos,SP,,daniele.souzaalves@hotmail.com,0,NULL,1981-07-10," ",F
+4015,(12)3931-0455,fixo,279,NULL,279,"Daniela Souza Alves",,,"Rua Ismael Mery 112 Cond. Residence Club,,","Villa Branca",SJCampos,SP,,daniele.souzaalves@hotmail.com,0,NULL,1981-07-10," ",F
+3497,(12)98839-4677,OI,280,NULL,280,"Daniela de O. Marques",283.484.328-76,34.962.223,"R: Paulo Viriato Correa da Costa,,",,SJCampos,SP,12302-332,falardani@hotmail.com,0,NULL,1980-07-05," Casado(a)",F
+4016,(12)3944-2081,fixo,281,NULL,281,"Daniele Angelina Bezerra da Silva",,,"Rua Visconde de Cravelas,,",Putim,"São josé dos Campos",SP,12228-863,danielangelinalopes@yahoo.com.br,0,NULL,0000-00-00," Casado(a)",F
+476,(12)921-4117,NULL,282,NULL,282,"Daniele Melo Ferrari",NULL,NULL,"R. irma Maria Demetri Kfuri,487,,",Esplanda,SJCampos,SP,12242-500,eleinadinna@hotmail.com,NULL,NULL,NULL," Solteiro(a)",F
+4017,(12)8813-0478,oi,283,NULL,283,"Daniele Moreira da Silva",,,"R. Principado de Monaco,19 Ap.73,,","Jd. America",SJCampos,SP,12235-040,danims_silva@hotmail.com,0,NULL,0000-00-00," Solteiro(a)",F
+4018,(12)3909-0976,fixo,283,NULL,283,"Daniele Moreira da Silva",,,"R. Principado de Monaco,19 Ap.73,,","Jd. America",SJCampos,SP,12235-040,danims_silva@hotmail.com,0,NULL,0000-00-00," Solteiro(a)",F
+4019,(12)8192-2185,tim,284,NULL,284,"Daniele de Paula Ferreira Cristofani",,,"Rua: dos Arenques50 apto61,,","Jd. Aquarius",SJCampos,SP,12246-310,danielecristafani@bol.com.br,0,NULL,1972-11-28," Solteiro(a)",F
+4020,(12)3341-2185,fixo,284,NULL,284,"Daniele de Paula Ferreira Cristofani",,,"Rua: dos Arenques50 apto61,,","Jd. Aquarius",SJCampos,SP,12246-310,danielecristafani@bol.com.br,0,NULL,1972-11-28," Solteiro(a)",F
+481,(12)3921-6425,NULL,285,NULL,285,"Daniella Tavares Iori Luizon Miranda",NULL,NULL,"Rua Irma Asdente,37,,","Esplanada do Sol",SJC,SP,12241-840,dluizon@gmail.com,NULL,2015-10-16,1971-05-14," Casado(a)",F
+482,(12)3913-5035,NULL,285,NULL,285,"Daniella Tavares Iori Luizon Miranda",NULL,NULL,"Rua Irma Asdente,37,,","Esplanada do Sol",SJC,SP,12241-840,dluizon@gmail.com,NULL,2015-10-16,1971-05-14," Casado(a)",F
+4021,(12)8803-2711,oi,286,NULL,286,"Danielle C. Salles",,,"Rua Pelotas,,",,SJCampos,SP,,danielle.salles@hotmail.com,0,NULL,0000-00-00," Solteiro(a)",F
+4022,(12)3922-1525,fixo,286,NULL,286,"Danielle C. Salles",,,"Rua Pelotas,,",,SJCampos,SP,,danielle.salles@hotmail.com,0,NULL,0000-00-00," Solteiro(a)",F
+4023,(12)8195-6241,vivo,287,NULL,287,"Danielle Furquim Simão",,,"Rua Heitor Vieira Junior191,,","Altos do Esplanada",SJCampos,SP,12246-080,danifurquims@hotmail.com,0,NULL,1987-07-25," Solteiro(a)",F
+4024,(12)8831-0335,oi,288,NULL,288,"Danielle Gomidez",,,"raimundo BNogueira233 ap. 211,,","Parq. Industrial",SJCampos,SP,12237-828,danygomidez@hotmail.com,0,NULL,1973-12-29," ",F
+4025,(12)8115-9268,tim,289,NULL,289,"Danielle Matos Rocha",,,"Rua Jose Benedito da Costa Pereira210,,","Jd. Sul",SJCampos,SP,12236-488,daniellematos2007@bol.com.br,0,NULL,0000-00-00," ",F
+4026,(12)8831-0335,oi,290,NULL,290,"Danielle Monteiro Gomides",,,"Rua Raimundo BArbosa Nogueira233,,","Parque Industrial",SJCampos,SP,12237-828,danygomides@hotmail.com,0,NULL,1973-12-29," Solteiro(a)",F
+4027,(12)8813-0478,oi,291,NULL,291,"Danielle Moreira da Silva",,,"Rua Principado de Monaco19 apto 73,,","Jd. America",SJCampos,SP,12235-040,danims-silva@hotmail.com,0,NULL,0000-00-00," ",F
+4028,(12)3209-0976,fixo,291,NULL,291,"Danielle Moreira da Silva",,,"Rua Principado de Monaco19 apto 73,,","Jd. America",SJCampos,SP,12235-040,danims-silva@hotmail.com,0,NULL,0000-00-00," ",F
+4029,(12)9117-8404,claro,292,NULL,292,"Danielle Métene",,,"R Dr. Jorge de Oliveira Coutinho280 - apto 35,,","Jd. Aquarius",SJcampos,SP,12246-060,dmetene@hotmail.com,0,2015-10-30,1969-11-19," Solteiro(a)",F
+4030,(12)3029-1165,fixo,292,NULL,292,"Danielle Métene",,,"R Dr. Jorge de Oliveira Coutinho280 - apto 35,,","Jd. Aquarius",SJcampos,SP,12246-060,dmetene@hotmail.com,0,2015-10-30,1969-11-19," Solteiro(a)",F
+3499,(12)3913-5270,FIXO,293,NULL,293,"Danielle de Moura Anacleto",352.030.258-60,42.126.343-x,"Rua : Monte das Oliveiras 733",,SJCampos,SP,,danielle_ana_cleto@hotmail.com,0,NULL,0000-00-00," Casado(a)",F
+4031,(12)8235-4325,tim,294,NULL,294,"Danielli Ximenes",,,"Rua Marcelo Carlos Pereira108,,","Jd. Morumbi",SJCampos,SP,12236-530,danifiocello@hotmail.com,0,NULL,1986-05-17," Casado(a)",F
+4032,(12)3308-9134,fixo,294,NULL,294,"Danielli Ximenes",,,"Rua Marcelo Carlos Pereira108,,","Jd. Morumbi",SJCampos,SP,12236-530,danifiocello@hotmail.com,0,NULL,1986-05-17," Casado(a)",F
+4033,(12)8852-3651,oi,295,NULL,295,"Danusia Braga Ivanov",,,"Rua Baleias95 - Apto. 135,,",Aquarius,SJCampos,SP,,suporte1@denasg.com.br,0,NULL,1975-08-30," Casado(a)",F
+4034,(12)3019-1231,fixo,295,NULL,295,"Danusia Braga Ivanov",,,"Rua Baleias95 - Apto. 135,,",Aquarius,SJCampos,SP,,suporte1@denasg.com.br,0,NULL,1975-08-30," Casado(a)",F
+4035,(12)8852-3651,oi,296,NULL,296,"Danuzia Braga Ivanov",,,"R Baleias ,95 Ap.135,,","Jd. Aquarius",SJCampos,SP,12246-290,suporte1@denasg.com.br,0,NULL,1975-08-30," Casado(a)",F
+4036,(12)3019-1231,fixo,296,NULL,296,"Danuzia Braga Ivanov",,,"R Baleias ,95 Ap.135,,","Jd. Aquarius",SJCampos,SP,12246-290,suporte1@denasg.com.br,0,NULL,1975-08-30," Casado(a)",F
+4037,(12)3943-8391,fixo,297,NULL,297,"David Branco Filho",,,"Armando Cobra130/151,,",Aquarius,SJCAMPOS,SP,12246-002,davidbranco.sjk@gmail.com,0,NULL,1963-07-30," Casado(a)",F
+1987,(12)9700-4541,vivo,298,4,298,"Debora Cristina de Almeida",368662518-00,43009627-6,"Av: Boulevard Vila Lobos41apto 21 bloco 1,,","Jd. Aquarius",SJCampos,SP,12242-021,debora_c_almeida@hotmail.com,1,2015-06-13,1988-03-13," Solteiro(a)",F
+4060,(12)8125-0286,tim,299,NULL,299,"Debora Ferreira da Silva Siqueira",,,"Av. Abraham lincon,300,,",coleginho,Jacarei,SP,12310-800,debora@centurybr.com.br,0,NULL,1966-09-15," Casado(a)",F
+4061,(12)3921-1632,fixo,299,NULL,299,"Debora Ferreira da Silva Siqueira",,,"Av. Abraham lincon,300,,",coleginho,Jacarei,SP,12310-800,debora@centurybr.com.br,0,NULL,1966-09-15," Casado(a)",F

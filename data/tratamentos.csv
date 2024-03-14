@@ -1,0 +1,66 @@
+tyse_seq,tyse_parent_seq,tyse_desc,tyse_equipamento,tyse_duracao,tyse_valor
+1,0,"Tratamentos Faciais",NULL,NULL,NULL
+2,1,"Alogamento de Cílios",NULL,60,130
+3,1,Micro,NULL,380,500
+4,1,"Limpeza Pele",NULL,60,100
+5,1,Hidratação,NULL,90,100
+6,1,"Radio Facial",1,15,100
+7,0,Fotodepilação,1,60,NULL
+8,7,Áxila,1,40,65
+9,7,Buço,1,40,65
+10,7,Virilha,1,40,65
+11,7,"1/2 Perna",1,40,79
+12,7,Coxa,1,40,79
+13,7,PA,1,40,65
+14,7,Rosto,1,40,79
+15,7,Braço,1,40,79
+16,7,Mãos,1,40,65
+17,7,Pés,1,40,65
+18,7,"Linha Alba",NULL,40,65
+19,0,"Tratamentos Corporais",NULL,NULL,NULL
+20,19,"M. Relaxante",NULL,NULL,80
+21,19,Drenagem,NULL,NULL,80
+22,19,Modeladora,NULL,NULL,80
+23,19,"Radio Corporal",1,NULL,100
+24,19,Heccus,1,NULL,100
+25,19,Vacuoterapia,1,NULL,100
+26,19,Sonofocus,1,NULL,100
+27,19,Oligoterapia,NULL,NULL,80
+28,1,"P. Cristal",1,30,80
+29,1,"P. Diamante",1,30,80
+30,1,"Micropuntura Corp.",NULL,NULL,100
+31,1,"Peeling Químico",NULL,NULL,100
+32,1,"Aplicação de Ácido",NULL,NULL,100
+33,1,Vulcanice,NULL,NULL,500
+34,1,FotoRejuvenecimento,1,60,150
+35,0,Outros,NULL,NULL,NULL
+36,35,Nutricionista,NULL,NULL,90
+37,35,Podologia,NULL,NULL,80
+38,35,Reflexologia,NULL,NULL,90
+39,35,Massoterapia,NULL,NULL,90
+40,1,Design,NULL,NULL,25
+41,19,"Medida Certa",NULL,NULL,700
+42,1,"Promo Facial",NULL,NULL,89.90
+43,7,Costas,1,40,79
+44,7,Orelhas,1,40,65
+45,7,Mento,1,40,65
+46,7,Peito,1,40,79
+47,7,Abdômen,1,40,75
+48,7,Lombar,1,40,75
+50,1,"Clareamento Manchas",1,60,100
+51,1,"Acne Trate",1,60,100
+52,19,Criolipólise,1,90,600
+53,19,"Clareamento Manchas",1,60,100
+54,19,"Belle Slim",1,40,100
+55,19,"Pós Operatório",1,0,80
+56,1,Design+Henna,1,40,40
+57,19,"Promo Corporal",1,60,40
+58,7,Barba,1,40,75
+59,1,"Tratamento Capilar",1,30,0
+60,1,"Retoque de Micro",1,360,150
+61,19,Estrias,1,30,100
+62,1,"LED Facial",1,10,100
+63,35,"Dep. Cera",0,20,0
+64,35,Dep.Linha,0,20,0
+65,19,Celulite,0,20,100
+66,19,"Pós Crio",0,90,100

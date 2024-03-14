@@ -1,0 +1,1001 @@
+client_seq,client_name,client_cpf,client_rg,client_address,client_email,client_activate,client_data_ultimo_atend,client_data_nascimento,client_cep,client_bairro,client_cidade,client_uf
+1,"Maria Marluce Bessa Alves",878999333-72,11.104,"rua pedro frigi, 344",marluce_bessa@live.com,0,NULL,1972-05-14,12232-040,"Jd Estoril",NULL,NULL
+2,"﻿Adalberto Luis Moreno",NULL,NULL,NULL,aallmoreno@gmail.com,NULL,NULL,NULL,NULL,"Jd. Aquarius ","São josé dos Campos",NULL
+3,Adelaide,NULL,NULL,NULL,"Não possui E-Mail",NULL,NULL,NULL,NULL,,,NULL
+4,"Adriana Barcia",NULL,NULL,NULL,"Não possui E-Mail",NULL,NULL,NULL,NULL,"Jd. Aquarius",SJCampos,NULL
+5,"Adriana C. Pizzarro Machado",NULL,NULL,NULL,machadoepizzarro@gmail.com,NULL,NULL,NULL,NULL,"Jd. Aquarius",SJCampos,NULL
+6,"Adriana Cristina Fernandes",NULL,NULL,NULL,adrianafernandesterapy@yahoo.com.br,NULL,NULL,NULL,NULL,"Vl Tesouro",SJCampos,NULL
+7,"Adriana Cristina Teixeira Sales",NULL,NULL,NULL,fisio.asales@gmail.com,NULL,NULL,NULL,NULL,Centro,Caçapava,NULL
+8,"Adriana Ferreira de Faria",NULL,NULL,NULL,dricaferia41@gmail.com,NULL,NULL,NULL,NULL,"Jd. Flórida",SJCampos,NULL
+9,"Adriana Fidencio Gonçalves dos Santos",NULL,NULL,NULL,adriana.fidencio@yahoo.com.br,NULL,NULL,NULL,NULL,"Jd. Terras do Sul","São José dos Campos",NULL
+10,"Adriana Gomes Giovanelli Marini",NULL,NULL,NULL,adriana@vectratechnology.com.br,NULL,NULL,NULL,NULL,"Altos de Santana",Jacareí,NULL
+11,"Adriana Maria Gonçalves",NULL,NULL,NULL,"Não possui E-Mail",NULL,NULL,NULL,NULL,,,NULL
+12,"Adriana Régia Sales de Lima",NULL,NULL,NULL,adriana.regia@edpbr.com.br,NULL,NULL,NULL,NULL,"Jd. Aquarius",SJCampos,NULL
+13,"Adriana Tonissi",NULL,NULL,NULL,dricatonissi@hotmail.com,NULL,NULL,NULL,NULL,"Jd. Aquarius",SJCampos,NULL
+14,"Adrine Bueno Coutinho",NULL,NULL,NULL,"Não possui E-Mail",NULL,NULL,NULL,NULL,"Jd. Oriente",SJCampos,NULL
+15,"Agnaldo Ap. da Cruz",NULL,NULL,NULL,agnaldocruz@gmail.com,NULL,NULL,NULL,NULL,Santana,SJCampos,NULL
+16,"Alaisa Costa",NULL,NULL,NULL,arccosta14@hotmail.com,NULL,NULL,NULL,NULL,"Jd. Colinas",SJCampos,NULL
+17,"Alessandra Aparecida Guadagnin",NULL,NULL,NULL,aleguad@ig.com.br,NULL,NULL,NULL,NULL,"Parque Industrial",SJCampos,NULL
+18,"Alessandra B. R. Brandão",NULL,NULL,NULL,alessandra@inpulsebrasil.com.br,NULL,NULL,NULL,NULL,"Bosque Eucaliptos",SJCampos,NULL
+19,"Alessandra Carvalho Miranda",NULL,NULL,NULL,carvalhomiranda@hotmail.com,NULL,NULL,NULL,NULL,Urbanova,SJCampos,NULL
+20,"Alessandra Cristina Cestrin Targa",NULL,NULL,NULL,targaale@yahoo.com.br,NULL,NULL,NULL,NULL,"V. Guilherme",S.Paulo,NULL
+21,"Alessandra Lucy Brienza de Paula",NULL,NULL,NULL,alelucy@uol.com.br,NULL,NULL,NULL,NULL,,"Sao Paulo",NULL
+22,"Alessandra Maria Ebeller Prata Della Rosa",NULL,NULL,NULL,lprata@ig.com.br,NULL,NULL,NULL,NULL,"Urbanova 5",SJCampos,NULL
+23,"Alessandra Vieira A. M. Oliveira",NULL,NULL,NULL,"Não possui E-Mail",NULL,NULL,NULL,NULL,"Solar Girassois",SJCampos,NULL
+24,"Alex Douglas dos Santos",NULL,NULL,NULL,"alexdouglasdos santos@hotmail.com",NULL,NULL,NULL,NULL,"Vila das Flores",SJCampos,NULL
+25,"Alexandra Arestivo Nunes",NULL,NULL,NULL,2721alexandra@bradesco.com.br,NULL,NULL,NULL,NULL,"Jd Esplanada",SJCampos,NULL
+26,"Alexandra Ct Nobrega",NULL,NULL,NULL,xanda_nobrega@hotmail.com,NULL,NULL,NULL,NULL,"Vl Adyana",SJCampos,NULL
+27,"Alexandra G. Prestes",NULL,NULL,NULL,alexiafisio@yahoo.com.br,NULL,NULL,NULL,NULL,,SJCampos,NULL
+28,"Alexandre Cassiano Pinto",NULL,NULL,NULL,alexandrecassiano.pinto@gmail.com,NULL,NULL,NULL,NULL,"JD. Esplanada",SJCampos,NULL
+29,"Alexandre Fagundes de Souza",NULL,NULL,NULL,"Não possui E-Mail",NULL,NULL,NULL,NULL,"Jd. Palmeiras",SJCampos,NULL
+30,"Alexandre Gonçalves",NULL,NULL,NULL,isa_armani@yahoo.com.br,NULL,NULL,NULL,NULL,,SJCampos,NULL
+31,"Alexandre Paloschi Horta",NULL,NULL,NULL,alexandre.horta@gmail.com,NULL,NULL,NULL,NULL,"Jd. Aquarius",SJCampos,NULL
+32,"Aline Carvalho Fava Gomes",NULL,NULL,NULL,alinecfava@ig.com.br,NULL,NULL,NULL,NULL,"Jd. Industria ","São José dos Campos",NULL
+33,"Aline Cristina de Oliveira",NULL,NULL,NULL,aline_cris_oliveira@yahoo.com.br,NULL,NULL,NULL,NULL,"Vila Esther",SJCampos,NULL
+34,"Aline Cristina de Paula",NULL,NULL,NULL,aline.paula93@hotmail.com,NULL,NULL,NULL,NULL,"Bosque dos Eucaliptos",SJCampos,NULL
+35,"Aline Cristina de Paula",NULL,NULL,NULL,aline.paula93@hotmail.com,NULL,NULL,NULL,NULL,"Bosque dos Eucaliptos",SJCampos,NULL
+36,"Aline de Fatima Rangel de Solza",NULL,NULL,NULL,alinesouza@ig.com,NULL,NULL,NULL,NULL,"Vila Tesouro ","SJCampos ",NULL
+37,"Aline de Freitas Motta",NULL,NULL,NULL,afreitasmotta@yahoo.com.br,NULL,NULL,NULL,NULL,"Jd. Morumbi",SJCampos,NULL
+38,"Aline de Oliveira Campos",NULL,NULL,NULL,alineo.campos@gmail.com,NULL,NULL,NULL,NULL,,,NULL
+39,"Aline Gisele Soares",NULL,NULL,NULL,"Não possui E-Mail",NULL,NULL,NULL,NULL,,SJCampos,NULL
+40,"Aline Guimaraes Rodrigues",NULL,NULL,NULL,alineaai-@hotmail.com,NULL,NULL,NULL,NULL,"Jd. Aquarius",SJCampos,NULL
+41,"Aline Oliveira",NULL,NULL,NULL,"Não possui E-Mail",NULL,NULL,NULL,NULL,Santana,SJCampos,NULL
+42,"Aline Rieira da Silva",NULL,NULL,NULL,"Não possui E-Mail",NULL,NULL,NULL,NULL,Urbanova,SJcampos,NULL
+43,"Aline Tomazela",NULL,NULL,NULL,aline@santacasasjc.com.br,NULL,NULL,NULL,NULL,"Jardim das Industrias","SJCampos ",NULL
+44,"Altina Maria Mesquita",NULL,NULL,NULL,"Não possui E-Mail",NULL,NULL,NULL,NULL,"V. S. Pedro ","São José dos Campos",NULL
+45,"Amalrida Avellar Lopes dos Santos",NULL,NULL,NULL,avellar11@yahoo.com.br,NULL,NULL,NULL,NULL,"Jd. Jussara",SJCampos,NULL
+46,"Amanda C. Barreto da Silva",NULL,NULL,NULL,"Não possui E-Mail",NULL,NULL,NULL,NULL,,,NULL
+47,"Amanda Carpinetti Demento Alves",NULL,NULL,NULL,am6nda@hotmail.com,NULL,NULL,NULL,NULL,"Aquarius ","São José dos Campos",NULL
+48,"Amanda Cristina Barreto da Silva",NULL,NULL,NULL,Amandacbs13@hotmail.com,NULL,NULL,NULL,NULL,"Pq California",Jacareí,NULL
+49,"Amanda de Castro",NULL,NULL,NULL,amandadecastro@hotmail.com,NULL,NULL,NULL,NULL,Centro,Jacareí,NULL
+50,"Amanda Francolozo Silva",NULL,NULL,NULL,amandafrancolozo@hotmail.com,NULL,NULL,NULL,NULL,Santana,SJCampos,NULL
+51,"Amanda Izidio Mauro",NULL,NULL,NULL,amandaizidio@gmail.com,NULL,NULL,NULL,NULL,"Jd. Aquarius",SJC,NULL
+52,"Amanda P.gonzales",NULL,NULL,NULL,amandapgon@yahoo.com.br,NULL,NULL,NULL,NULL,JD.Aquarius,SJCampos,NULL
+53,"Amanda R. Bitencourt",NULL,NULL,NULL,"Não possui E-Mail",NULL,NULL,NULL,NULL,"Jd.das Industrias",SJCampos,NULL
+54,"Amarilda Avellar Lopes dos Santos",NULL,NULL,NULL,avellar11@yahoo.com.br,NULL,NULL,NULL,NULL,"monte Castelo",SJCampos,NULL
+55,"Ana Beatriz Bontorim",NULL,NULL,NULL,anabantorim@yahoo.com.br,NULL,NULL,NULL,NULL,"Jd. Aquarius",SJCampos,NULL
+56,"Ana Carolina Alonso",NULL,NULL,NULL,viva83@bol.com.be,NULL,NULL,NULL,NULL,"Jd. Aquarius",SJCampos,NULL
+57,"Ana Carolina Barbosa",NULL,NULL,NULL,anacarolina_sjc@hotmail.com,NULL,NULL,NULL,NULL,"Ch. Reunidas",SJCampos,NULL
+58,"Ana Carolina Berti",NULL,NULL,NULL,acarolinabdn@hotmail.com,NULL,NULL,NULL,NULL,"Vila Ema",SJCampos,NULL
+59,"Ana Carolina I. Locatelli",NULL,NULL,NULL,carol_locatelli@hotmail.com,NULL,NULL,NULL,NULL,"Jd. Aquarius",SJCampos,NULL
+60,"Ana Carolina R C de Barros",NULL,NULL,NULL,"Não possui E-Mail",NULL,NULL,NULL,NULL,"Jd. Aquarius",SJCampos,NULL
+61,"Ana Carolina Regly Andrade",NULL,NULL,NULL,Carolregly@msn.com,NULL,NULL,NULL,NULL,"Parque INdustrial",SJCampos,NULL
+62,"Ana Clara Reis",NULL,NULL,NULL,"Não possui E-Mail",NULL,NULL,NULL,NULL,"Jd. Aquarius",SJCampos,NULL
+63,"Ana Cristina Arice Junqueira de Paula",NULL,NULL,NULL,ana.cristina.ajp@hotmail.com,NULL,NULL,NULL,NULL,"Jd. Aquarius II",SJCampos,NULL
+64,"Ana Flávia de C. Agra Costa",NULL,NULL,NULL,agra.flavia@gmail.com,NULL,NULL,NULL,NULL,"Jd. São José ","São José dos Campos",NULL
+65,"Ana Flavia T. Yamashita",NULL,NULL,NULL,aflavia06@yahoo.com.br,NULL,NULL,NULL,NULL,Jd.Industrias,"São José dos Campos",NULL
+66,"Ana Laura de Castro Junho",NULL,NULL,NULL,ana.laura.junho@hotmail.com,NULL,NULL,NULL,NULL,"Jd. Alvorada",SJCampos,NULL
+67,"Ana Lucia Alves Lima",NULL,NULL,NULL,anacoord@gmail.com,NULL,NULL,NULL,NULL,Centro,Jacareí,NULL
+68,"Ana Lúcia Braz Rios",NULL,NULL,NULL,anabras.rp@hotmail.com,NULL,NULL,NULL,NULL,"Jd. Aquarius",SJCAmpos,NULL
+69,"Ana Lucia P. Fernandes de Almeida",NULL,NULL,NULL,ana.prado1@hotmail.com,NULL,NULL,NULL,NULL,"Jd. Paraíso","São José dos Campos ",NULL
+70,"Ana Luiza Cruz Gorgulho",NULL,NULL,NULL,ana_luiza_cruz@hotmail.com,NULL,NULL,NULL,NULL,"31 de março",SJCampos,NULL
+71,"Ana Luiza Lisboa Capella",NULL,NULL,NULL,"Não possui E-Mail",NULL,NULL,NULL,NULL,Urbanova,SJCampos,NULL
+72,"Ana Maria Saraiva",NULL,NULL,NULL,anamaria.anamariasaira.nana@gmail.com,NULL,NULL,NULL,NULL,Jd.Aquarius,"São José dos Campos",NULL
+73,"Ana Paula Bezerra dos Santos",NULL,NULL,NULL,anny-correa@hotmail.com,NULL,NULL,NULL,NULL,"Jd Aquarius",SJCampos,NULL
+74,"Ana Paula Bianchi Rainieri",NULL,NULL,NULL,anapaulabianchi@hotmail.com,NULL,NULL,NULL,NULL,"Jd. Aquarius",SJC,NULL
+75,"Ana Paula Bozzi",NULL,NULL,NULL,anapaula.bozzi@hotmail.com,NULL,NULL,NULL,NULL,"Jd. Aquarius ","rua dos piqueirões",NULL
+76,"Ana Paula Candido Fernandes de Souza",NULL,NULL,NULL,anapaulacfernandes@yahoo.com.br,NULL,NULL,NULL,NULL,"Villa Branca",SJCampos,NULL
+77,"Ana Paula D. Chaves",NULL,NULL,NULL,"Não possui E-Mail",NULL,NULL,NULL,NULL,,,NULL
+78,"Ana Paula de a Pellegrini Groppo",NULL,NULL,NULL,ap.pops@hotmail.com,NULL,NULL,NULL,NULL,Centro,SJC,NULL
+79,"Ana Paula Dias Kavassaki",NULL,NULL,NULL,anakavassaki@yahoo.com.br,NULL,NULL,NULL,NULL,"Pq. Mirante do Vale",SJCampos,NULL
+80,"Ana Paula Medeiros Gomes",NULL,NULL,NULL,"Não possui E-Mail",NULL,NULL,NULL,NULL,"Vila Tatetuba",SJCampos,NULL
+81,"Ana Paula Pereira",NULL,NULL,NULL,a.paula2102@yahoo.com.br,NULL,NULL,NULL,NULL,Urbanova,SJCampos,NULL
+82,"Ana Paula Ribeiro Cordeiro",NULL,NULL,NULL,paulacordeiro23@hotmail.com,NULL,NULL,NULL,NULL,"Jd. Industrias",SJCampos,NULL
+83,"Ana Silvia Secco",NULL,NULL,NULL,assecco@gmail.com,NULL,NULL,NULL,NULL,Centro,SJCampos,NULL
+84,"Ana Teresa Moreira",NULL,NULL,NULL,anateresa_moreira@yahoo.com.br,NULL,NULL,NULL,NULL,,,NULL
+85,"Ana Vilela Azevedo Silva",NULL,NULL,NULL,anavilela.silva@uol.com.br,NULL,NULL,NULL,NULL,"Jd. Maringá",SJCampos,NULL
+86,"André Felipe Selga Braga",NULL,NULL,NULL,andreselga@terra.com.br,NULL,NULL,NULL,NULL,"Jd. Aquarius",SJCampos,NULL
+87,"André Luiz Alves Pereira",NULL,NULL,NULL,andre@gtacsoluctions.com,NULL,NULL,NULL,NULL,Estiva,"São José dos Campos",NULL
+88,"André Luiz de Aguiar",NULL,NULL,NULL,"Não possui E-Mail",NULL,NULL,NULL,NULL,estiva,Taubate,NULL
+89,"Andre Seixas Victorazzo",NULL,NULL,NULL,"E-Mail Inválido",NULL,NULL,NULL,NULL,"Jd. Aquarius",SJCampos,NULL
+90,"Andrea Agostini de Sousa",NULL,NULL,NULL,a.agostini@gmail.com,NULL,NULL,NULL,NULL," Ismeni",SJCampos,NULL
+91,"Andrea Agostini de Souza",NULL,NULL,NULL,a.agostinis@gmail.com,NULL,NULL,NULL,NULL,"Jd. Flórida",Jacareí,NULL
+92,"Andrea Cristina Santos Ferreira",NULL,NULL,NULL,andrea.ferreira@embraer.com.br,NULL,NULL,NULL,NULL,"Jd. das Industrias",SJCampos,NULL
+93,"Andréa de Freitas Miranda",NULL,NULL,NULL,andréa@josephinenoivas.com.br,NULL,NULL,NULL,NULL,,SJCampos,NULL
+94,"Andrea Laporta",NULL,NULL,NULL,andrea.laporta@etep.edu.br,NULL,NULL,NULL,NULL,"Jd. Vale do Sol",SJCampos,NULL
+95,"Andreia Gaspar Brito",NULL,NULL,NULL,andrea@sadeltransmissao.com.br,NULL,NULL,NULL,NULL,"Vila São Pedro",SJCampos,NULL
+96,"Andreia Maria de Carvalho",NULL,NULL,NULL,andream.carvalho@hotmail.com,NULL,NULL,NULL,NULL,"Jd. Industrias",SJCampos,NULL
+97,"Andressa Boschetti",NULL,NULL,NULL,andressa.boschetti@gmail.com,NULL,NULL,NULL,NULL,Aquarius,SJCampos,NULL
+98,"Andressa Cristina Toledo Silva",NULL,NULL,NULL,andressa.silva@embraer.com,NULL,NULL,NULL,NULL,"Jd. Vale do Sol",SJCampos,NULL
+99,"Andreza Kely Rodrigues",NULL,NULL,NULL,andrezakr@ig.com.br,NULL,NULL,NULL,NULL,"Jd. das Indústrias","São José dos Campos",NULL
+100,"Andreza Nunes da Silva",NULL,NULL,NULL,andreza.nunes@gmail.com,NULL,NULL,NULL,NULL,"Jd. Industrias",SJCampos,NULL
+101,"Andreza Sommerauer Franchim Viliotti",NULL,NULL,NULL,andreza.franchim@gmail.com,NULL,NULL,NULL,NULL,"Pq. Interlagos",SJCampos,NULL
+102,"Andrina Cristina Toledo Silva",NULL,NULL,NULL,andrina.silva@embraer.com.br,NULL,NULL,NULL,NULL,"JD Aquarius ",SJCampos,NULL
+103,"Anette Vanessa de Moura",NULL,NULL,NULL,moura_anette@hotmail.com,NULL,NULL,NULL,NULL,"Jd. Satelite",SJCampos,NULL
+104,"Angela Cristina da Rosa",NULL,NULL,NULL,alegnacris811@hotmail.com,NULL,NULL,NULL,NULL,Freitas,SJCampos,NULL
+105,"Angela de Aquino",NULL,NULL,NULL,angela.aquino@embraer.com.br,NULL,NULL,NULL,NULL,"Jd. Aquarius",SJCampos,NULL
+106,"Angela M. B. Aparecido",NULL,NULL,NULL,angelaaparecido@hotmail.com,NULL,NULL,NULL,NULL,"Jd. Aquarius",SJCampos,NULL
+107,"Angela Maria Padoin Vale",NULL,NULL,NULL,angela.padoin@hotmail.com,NULL,NULL,NULL,NULL,"Jd. Renata",SJCampos,NULL
+108,"Angela Maria Rosseto Quaresma",NULL,NULL,NULL,alegmar@ig.com.br,NULL,NULL,NULL,NULL,"aquarius ","SJCampos ",NULL
+109,"Angela Mendes de Matos Voros",NULL,NULL,NULL,angela_sjc@hotmail.com,NULL,NULL,NULL,NULL,,SJCampos,NULL
+110,"Angela Raquel Segreto Córdoba",NULL,NULL,NULL,angelarscm@hotmail.com,NULL,NULL,NULL,NULL,,"São josé dos Campos",NULL
+111,"Angélica Alves Siqueira Madalena",NULL,NULL,NULL,angelliandra@hotmail.com,NULL,NULL,NULL,NULL,Santana,SJCampos,NULL
+112,"Angelica Aparecida Rosa Santini",NULL,NULL,NULL,angelrosasantini@hotmail.com,NULL,NULL,NULL,NULL,Mantiqueira,Pindamonhangaba,NULL
+113,"Anielle P. Mathias",NULL,NULL,NULL,"Não possui E-Mail",NULL,NULL,NULL,NULL,"Jd Aquarius ",SJCampos,NULL
+114,"Anita R. Simões",NULL,NULL,NULL,anitahars@hotmail.com,NULL,NULL,NULL,NULL,"São Dimas ","São José dos Campos",NULL
+115,"Anna Beatriz Biazussi Franceschini",NULL,NULL,NULL,annabebiazussi@gmail.com,NULL,NULL,NULL,NULL,"Jd. das Colinas",SJCampos,NULL
+116,"Anna Christina Francisco Lopes Canelas",NULL,NULL,NULL,annachristinalopes@hotmail.com,NULL,NULL,NULL,NULL,"Urbanova V",SJC,NULL
+117,"Anne Caroline Borsato dos Santos",NULL,NULL,NULL,caroline_borsato@hotmail.com,NULL,NULL,NULL,NULL,"Jd. Aquarius",SJCampos,NULL
+118,"Anne Caroline Correia Ferri",NULL,NULL,NULL,"Não possui E-Mail",NULL,NULL,NULL,NULL,,,NULL
+119,"Anne Leticia B. dos Santos",NULL,NULL,NULL,anneleticia_bsantos@hotmail.com,NULL,NULL,NULL,NULL,"Jd. Aquarius",SJCampos,NULL
+120,"Antonia Maria Pinto da Cunha Gomes",NULL,NULL,NULL,antoniamgomes@hotmail.com,NULL,NULL,NULL,NULL,"Vl. Ema",SJcampos,NULL
+121,"Aparecida F. do Prado",NULL,NULL,NULL,socialcidinha@yahoo.com.br,NULL,NULL,NULL,NULL,"Jd. Oriente","São José dos Campos",NULL
+122,"Aparecida Fatima de Souza",NULL,NULL,NULL,fasouza8-sjc@hotmail.com.br,NULL,NULL,NULL,NULL,"Jd. Satelite",SJCampos,NULL
+123,"Aparecida M. A. Melo Ferrari",NULL,NULL,NULL,aparecidafer@yahoo.com.br,NULL,NULL,NULL,NULL,"Jd. Esplanada",SJCampos,NULL
+124,"Ariane Ribeiro Mendes",NULL,NULL,NULL,ariane_mendes1@hotmail.com,NULL,NULL,NULL,NULL,"Jd. San Marino","São José dos Campos",NULL
+125,"Ariane Souza Avanço",NULL,NULL,NULL,anesouza211@ig.com.br,NULL,NULL,NULL,NULL,"Vale do Sol",SJCampos,NULL
+126,"Audrey Soares Bochi Robles",NULL,NULL,NULL,audrey.boschi@hubersuhner.com,NULL,NULL,NULL,NULL,"V. Industrial",SJCampos,NULL
+127,"Augusto Marques da Rocha Ribeiro",NULL,NULL,NULL,augusto_anrr@hotmail.com,NULL,NULL,NULL,NULL,"Palmeiras de São José",SJCampos,NULL
+128,"Aurilea Bessa Alves Pessoa",NULL,NULL,NULL,leabessa@yahoo.com.br,NULL,NULL,NULL,NULL,,Fortaleza,NULL
+129,"Barbara do Prado Vargas",NULL,NULL,NULL,ba.ballet@hotmail.com,NULL,NULL,NULL,NULL,,,NULL
+130,"Barbara Ferraz",NULL,NULL,NULL,"Não possui E-Mail",NULL,NULL,NULL,NULL,"Jd. Satélite",SJCampos,NULL
+131,"Barbara Ferraz Casali",NULL,NULL,NULL,bah_casali@hotmail.com,NULL,NULL,NULL,NULL,"Jd. Aquarius",SJCampos,NULL
+132,"Barbara Mauro Rizzo de Oliveira",NULL,NULL,NULL,barbararizzo@gmail.com,NULL,NULL,NULL,NULL,"Res. Ana Maria",SJCampos,NULL
+133,"Beatriz Bento Soares",NULL,NULL,NULL,bea.soares@hotmail.com,NULL,NULL,NULL,NULL,"Jd. Aquarios","São José dos Campos",NULL
+134,"Beatriz Canto Reis",NULL,NULL,NULL,bia-canto@hotmail.com,NULL,NULL,NULL,NULL,"V. Adyanna",SJCampos,NULL
+135,"Beatriz de Freitas Pires",NULL,NULL,NULL,beatrizpires1997@hotmail.com,NULL,NULL,NULL,NULL,"Jd. Aquarius",SJCampos,NULL
+136,"Beatriz Lima Cunha",NULL,NULL,NULL,beatrizlimapereira@gmail.com,NULL,NULL,NULL,NULL," Jd. Aquarius",SJCampos,NULL
+137,"Beatriz Morgano Puccini",NULL,NULL,NULL,biabritsjc@hotmail.com,NULL,NULL,NULL,NULL,"Vila Ema",SJCampos,NULL
+138,"Beatriz Sartori T. Benozzati",NULL,NULL,NULL,"Não possui E-Mail",NULL,NULL,NULL,NULL,CTA,SJCampos,NULL
+139,"Betania Silveira de Faria",NULL,NULL,NULL,"Não possui E-Mail",NULL,NULL,NULL,NULL,"bosque dos eucaliptos","SJCampos ",NULL
+140,"Bianca de Lima",NULL,NULL,NULL,limabiancamais@hotmail.com,NULL,NULL,NULL,NULL,"Jd. Aquarius",SJCampos,NULL
+141,"Bianca Iramina",NULL,NULL,NULL,biaventurini@hotmail.com,NULL,NULL,NULL,NULL,"Jd. Sul",SJCampos,NULL
+142,"Bianca P. dos Santos de Paula",NULL,NULL,NULL,biancapotira@yahoo.com.br,NULL,NULL,NULL,NULL,"Jd. Industria","São José dos Campos",NULL
+143,"Brenda Jenn An Shu",NULL,NULL,NULL,brendashu@gmail.com,NULL,NULL,NULL,NULL,,"Sao Paulo",NULL
+144,"Bruna Araujo Jorge",NULL,NULL,NULL,bru_araujo@hotmail.com,NULL,NULL,NULL,NULL,"Vila Adyana",SJCampos,NULL
+145,"Bruna Cristina Pinheiro Hashimoto",NULL,NULL,NULL,bruna_hashimoto@yahoo.com.br,NULL,NULL,NULL,NULL,"Jd. America",SLCampos,NULL
+146,"Bruna Cristina S. Sabino",NULL,NULL,NULL,"Não possui E-Mail",NULL,NULL,NULL,NULL,"Jd. Altos de Santana",SJCampos,NULL
+147,"Bruna de Souza Bérgamo '",NULL,NULL,NULL,"Não possui E-Mail",NULL,NULL,NULL,NULL,"Galo Branco",SJCampos,NULL
+148,"Bruna Gabriela C. Santiago",NULL,NULL,NULL,bruna_santiago9@hotmail.com,NULL,NULL,NULL,NULL,Centro,Jacarei,NULL
+149,"Bruna Leonardi Cambusano",NULL,NULL,NULL,brunaleonardi@hotmail.com,NULL,NULL,NULL,NULL,"Vila São Pedro",SJCampos,NULL
+150,"Bruna Luiza dos Santos Silva",NULL,NULL,NULL,"Não possui E-Mail",NULL,NULL,NULL,NULL,"JD. Aquarius",SJCampos,NULL
+151,"Bruna Monteiro",NULL,NULL,NULL,brunamonteiro17@hotmail.com,NULL,NULL,NULL,NULL,"Jd. Alvorada",SJCampos,NULL
+152,"Bruna Souza",NULL,NULL,NULL,brunaalves12@ahoo.com.br,NULL,NULL,NULL,NULL,,,NULL
+153,"Bruno Felipe Moreira Miranda",NULL,NULL,NULL,brunoindio@me.com,NULL,NULL,NULL,NULL,Urbanova,SJCAMPOS,NULL
+154,"Bruno K. Castanha",NULL,NULL,NULL,brucast@gmail.com,NULL,NULL,NULL,NULL,"Parque Industrial",SJCampos,NULL
+155,"Bruno Lemes de Freitas",NULL,NULL,NULL,bruno-lemes01@hotmail.com,NULL,NULL,NULL,NULL,"Jd. Satelite",SJCampos,NULL
+156,"Bruno M. Sincerre",NULL,NULL,NULL,sincerre.bruno@gmail.com,NULL,NULL,NULL,NULL,"Jd. das Industrias",SJCampos,NULL
+157,"Bruno Menandro Dipp",NULL,NULL,NULL,bruno.dipp@hotmail.com,NULL,NULL,NULL,NULL,"Vila Bethania",SJCAMPOS,NULL
+158,"Camila Bragança de Abreu",NULL,NULL,NULL,cacabragança@gmail.com,NULL,NULL,NULL,NULL,"Jd. Aquarius",SJCampos,NULL
+159,"Camila Casado Zakarian",NULL,NULL,NULL,camila_casado@yahoo.com.br,NULL,NULL,NULL,NULL,"Jd. das Industrias",SJCampos,NULL
+160,"Camila Gaggini",NULL,NULL,NULL,cg.22@hotmail.com,NULL,NULL,NULL,NULL,"Jd. das Industrias ","São José dos Campos",NULL
+161,"Camila Gude Valandro",NULL,NULL,NULL,"Não possui E-Mail",NULL,NULL,NULL,NULL,,,NULL
+162,"Camila Lopes de Campos",NULL,NULL,NULL,camilalopesele@gmail.com,NULL,NULL,NULL,NULL,"Belv. Clube dos 500",Guaratingueta,NULL
+163,"Camila Mendes Bonci",NULL,NULL,NULL,camila_bonci@yahoo.com.br,NULL,NULL,NULL,NULL,"Jd. Aquarius",SJCampos,NULL
+164,"Camila Thiago",NULL,NULL,NULL,camilathiago@gmail.com,NULL,NULL,NULL,NULL,Pinheiros,"São José dos Campos",NULL
+165,"Camile V. Pacheco",NULL,NULL,NULL,camile-vp@hotmail.com,NULL,NULL,NULL,NULL,Morumbi,SJCampos,NULL
+166,"Camili Pasquarelli G.m",NULL,NULL,NULL,"Não possui E-Mail",NULL,NULL,NULL,NULL,,,NULL
+167,"Camilo Regis",NULL,NULL,NULL,camiloregis@bol.com.br,NULL,NULL,NULL,NULL,"Jd. Industrial",SJCampos,NULL
+168,"Caren Cristine M. S. Ribeiro",NULL,NULL,NULL,caren@coopervale.com.br,NULL,NULL,NULL,NULL,"Jd. Industrias",SJCampos,NULL
+169,"Carine Schunke Bertognolli",NULL,NULL,NULL,cagirlsp@hotmail.com,NULL,NULL,NULL,NULL,"Jd. Ragael",Caçapava,NULL
+170,"Carla Cristiane da Cunha Franceschini",NULL,NULL,NULL,cccfranceschini@gmail.com,NULL,NULL,NULL,NULL,"Jd. das Colinas",SJCampos,NULL
+171,"Carla i Graus Evangelista",NULL,NULL,NULL,tissigraves@yahoo.com.br,NULL,NULL,NULL,NULL,"Alto da Ponte",SJcampos,NULL
+172,"Carla Poliana L. Manso",NULL,NULL,NULL,mamaepo@hotmail.com,NULL,NULL,NULL,NULL,"P. Cristina",SJCampos,NULL
+173,"Carla Souza Salgado da Cruz",NULL,NULL,NULL,carla_maryray@live.com,NULL,NULL,NULL,NULL,"Bosque dos Eucaliptos",SJCampos,NULL
+174,"Carlos Alberto Antonio Jr",NULL,NULL,NULL,carlos.alberto.900@gmail.com,NULL,NULL,NULL,NULL,"Jd. Aquarius",SJCampos,NULL
+175,"Carlos Alberto Gomes Gorges",NULL,NULL,NULL,carlos_gorges@hotmail.com,NULL,NULL,NULL,NULL,"Vila Tatetuba",SJCampos,NULL
+176,"Carlos Eduardo Lopes",NULL,NULL,NULL,cel130772@gmail.com,NULL,NULL,NULL,NULL,Pompeia,"São Paulo",NULL
+177,"Carmem Lúcia Nassar de Carvalho",NULL,NULL,NULL,carmencarvalho@uol.com.br,NULL,NULL,NULL,NULL,"Bosque dos Eucaliptos",SJCampos,NULL
+178,"Carolina Dipp Gimael Del Nero",NULL,NULL,NULL,dippgimael@gmail.com,NULL,NULL,NULL,NULL,"Vila Adyana",SJCampos,NULL
+179,"Carolina do Amaral Desio Santana",NULL,NULL,NULL,caroldesio@yahoo.com.br,NULL,NULL,NULL,NULL,"Jd. A quarios",SJCampos,NULL
+180,"Carolina Jardim",NULL,NULL,NULL,acarolj@hotmail.com,NULL,NULL,NULL,NULL,"Jd. Esplanada",SJCampos,NULL
+181,"Carolina Oliveira Altenfelder Silva",NULL,NULL,NULL,"Não possui E-Mail",NULL,NULL,NULL,NULL,"Jd. Aquarius",SJCampos,NULL
+182,"Carolina Rodrigues de Paula",NULL,NULL,NULL,carolinamarialuiza@gmail.com,NULL,NULL,NULL,NULL,"Jd. Coleginho",Jacarei,NULL
+183,"Carolina Ruston Daler",NULL,NULL,NULL,carolinaruston@bol.com.br,NULL,NULL,NULL,NULL,"Jd. Aquarius",SJCampos,NULL
+184,"Caroline Maria Ferreira",NULL,NULL,NULL,carol.lineferreira@hotmail.com,NULL,NULL,NULL,NULL,"Nova Jacarei",Jacarei,NULL
+185,"Caroline Sanita Franco da Cunha",NULL,NULL,NULL,carol_sanita@yahoo.com.br,NULL,NULL,NULL,NULL,"Jd. Alvorada",S.J.Campos,NULL
+186,"Caroline Teles de Faria Oliveira",NULL,NULL,NULL,carol_mtf@hotmail.com,NULL,NULL,NULL,NULL,"Jd. Esplanada",SJCampos,NULL
+187,"Cassia Garcia",NULL,NULL,NULL,c.glp@hotmail.com,NULL,NULL,NULL,NULL,"Jd. Aquarius",SJCampos,NULL
+188,"Cassia Regina Fernandes",NULL,NULL,NULL,cassiarrf@gmail.com,NULL,NULL,NULL,NULL,,,NULL
+189,"Catarina Tressoldi Simão",NULL,NULL,NULL,cat_ts@hotmail.com,NULL,NULL,NULL,NULL,"Jd. Colinas",SJCampos,NULL
+190,"Cecilia Carvalho Nascimento",NULL,NULL,NULL,ceciliacarvalho07@hotmail.com,NULL,NULL,NULL,NULL,Urbanova,SJCampos,NULL
+191,"Cecilia Vecassani Secena",NULL,NULL,NULL,cecisecena@yahoo.com,NULL,NULL,NULL,NULL,Centro,"São josé dos Campos",NULL
+192,"Celia Regina G. Rodrigues",NULL,NULL,NULL,celiaregina.g@gmail.com,NULL,NULL,NULL,NULL,"Jd. Satélite",SJCampos,NULL
+193,"Celina Prado Medeiros",NULL,NULL,NULL,celizolda@yahoo.com.br,NULL,NULL,NULL,NULL,"Jd. Diamante","São josé dos Campos ",NULL
+194,"Celio Adriano dos Santos",NULL,NULL,NULL,celia.jacarei@gmail.com,NULL,NULL,NULL,NULL,"Parque Imperial",Jacarei,NULL
+195,"Celso Felipe C. Santos",NULL,NULL,NULL,"Não possui E-Mail",NULL,NULL,NULL,NULL,"Palmeiras de Sao Jose",SJCampos,NULL
+196,"Chiu Ching Ya",NULL,NULL,NULL,kawai1912@hotmail.com,NULL,NULL,NULL,NULL,"Jd. Luiza",SJCampos,NULL
+197,"Christiane de C. Mattos Lopes",NULL,NULL,NULL,chmattoslopes@gmail.com,NULL,NULL,NULL,NULL,"São Dimas",SJCAMPOS,NULL
+198,"Christyan Lucy Brienza de Oliveira",NULL,NULL,NULL,chislucy@terra.com.br,NULL,NULL,NULL,NULL,,"Sao Paulo",NULL
+199,"Cibele Silva Almeida",NULL,NULL,NULL,"Não possui E-Mail",NULL,NULL,NULL,NULL,"Bosque dos Eucaliptos",SJCampos,NULL
+200,"Cibele Soares Silva Manhokr",NULL,NULL,NULL,cibelessilva@hotmail.com,NULL,NULL,NULL,NULL,"Jardim Satelite",Sjcampos,NULL
+201,"Cibelle Cleto Lopes",NULL,NULL,NULL,cibelle_cleto@hotmail.com,NULL,NULL,NULL,NULL,"Parque In dustrial",SJCampos,NULL
+202,"Cintia Arouca",NULL,NULL,NULL,ciarouca@bol.com.br,NULL,NULL,NULL,NULL,Urbanova,SJCampos,NULL
+203,"Cintia Freitas Almeida",NULL,NULL,NULL,"Não possui E-Mail",NULL,NULL,NULL,NULL,,,NULL
+204,"Cintia Hara",NULL,NULL,NULL,cintiahara@hotmail.com,NULL,NULL,NULL,NULL,"Jd. Aquarius",SJCampos,NULL
+205,"Cintia Priscila Tavares",NULL,NULL,NULL,cintiaptavares@gmail.com,NULL,NULL,NULL,NULL,"Pq. Industrial",SJCampos,NULL
+206,"Cintia Shoji",NULL,NULL,NULL,cintiashoji@hotmail.com,NULL,NULL,NULL,NULL,"Jd. Alvorada",SJCampos,NULL
+207,"Cirlene Primon de Lima Silva",NULL,NULL,NULL,ciprimon@gmail.com,NULL,NULL,NULL,NULL,"Campos CTA",SJCampos,NULL
+208,"Clauciene Martins da Silva",NULL,NULL,NULL,"Não possui E-Mail",NULL,NULL,NULL,NULL,"Res. São Francisco",SJCampos,NULL
+209,"Claudia Aparecida Santos",NULL,NULL,NULL,archclau@hotmail.com.br,NULL,NULL,NULL,NULL,"Sta. Barbara",Jambeiro,NULL
+210,"Claudia Cristina Xavier Guerra",NULL,NULL,NULL,cauguerra@hotmail.com,NULL,NULL,NULL,NULL,"Jd. Aquarius ","São José dos Campos",NULL
+211,"Claudia Fialho Santana",NULL,NULL,NULL,clausakura@yahoo.com.br,NULL,NULL,NULL,NULL,"Vila Branca"," Jacarei ",NULL
+212,"Claudia Lida Rafoes Dalprat Sousa",NULL,NULL,NULL,rafols21@yahoo.com.br,NULL,NULL,NULL,NULL,"JD das Industrias",SJCampos,NULL
+213,"Claudia Lorrayne de Souza Moraes",NULL,NULL,NULL,lorrayne_claudia@hotmai.com,NULL,NULL,NULL,NULL,"Bosque dos Eucaliptos",SJCampos,NULL
+214,"Claudia M. Siqueira Luiz",NULL,NULL,NULL,claudiasluiz@hotmail.com,NULL,NULL,NULL,NULL,"Pq. Industrial",SJCampos,NULL
+215,"Claudia Maria da Silva Montemor Barbosa",NULL,NULL,NULL,claudiamontemor@hotmail.com,NULL,NULL,NULL,NULL,"Jd. Aquarius",SJCampos,NULL
+216,"Claudia Maria de Carvalho",NULL,NULL,NULL,claudia.carv@terra.com.br,NULL,NULL,NULL,NULL,"Jd Aquarius",SJCampos,NULL
+217,"Claudia Maria de Carvalho",NULL,NULL,NULL,claudia.carv@terra.com.br,NULL,NULL,NULL,NULL,"Pq. Industrial",SJC,NULL
+218,"Claudia Maria L. Pedroso",NULL,NULL,NULL,claudiapedroso@yahoo.com.br,NULL,NULL,NULL,NULL,"Pq. Industrial",SJCampos,NULL
+219,"Claudia Mendes Augusto dos Santos",NULL,NULL,NULL,claudiaaugusto13@gmail.com,NULL,NULL,NULL,NULL,"Jd. América",SJCampos,NULL
+220,"Claudia Paixão da Silva",NULL,NULL,NULL,"Não possui E-Mail",NULL,NULL,NULL,NULL,,,NULL
+221,"Claudineia Souza Campbell",NULL,NULL,NULL,neiacampbell@hotmail.com,NULL,NULL,NULL,NULL,CApuava,Caçapava,NULL
+222,"Claudinéia Souza Campbell",NULL,NULL,NULL,neiacampbell@hotmail.com,NULL,NULL,NULL,NULL,Capiava,"São José dos Campos",NULL
+223,"Claudivania Santos da Paixao",NULL,NULL,NULL,"Não possui E-Mail",NULL,NULL,NULL,NULL,"Jd.Pq. Santo Antonio",Jacarei,NULL
+224,Cleide,NULL,NULL,NULL,"Não possui E-Mail",NULL,NULL,NULL,NULL,,,NULL
+225,"Cleide Bessa",NULL,NULL,NULL,"Não possui E-Mail",NULL,NULL,NULL,NULL,"Jd. Paulista",SJCampos,NULL
+226,"Cleonice de Fatima Almeida Moraes",NULL,NULL,NULL,cfamoraes@yahoo.com.br,NULL,NULL,NULL,NULL,"Itaim - Bavex",Taúbaté,NULL
+227,"Cleonice V. Dari",NULL,NULL,NULL,kuka.boa@hotmail.com,NULL,NULL,NULL,NULL,"Jd Paulista",SJCampos,NULL
+228,"Cleusvaine A. de Lima",NULL,NULL,NULL,cleolima71@hotmail.com,NULL,NULL,NULL,NULL,Urbanova,"São josé dos Campos ",NULL
+229,"Cleyre Carmem de Lima",NULL,NULL,NULL,cleyrelima@hotmail.com,NULL,NULL,NULL,NULL,"Jd. Aquarius",SJCampos,NULL
+230,"Cristiane A. M. de Lima Ferrari",NULL,NULL,NULL,cris.martinsdelima@hotmail.com,NULL,NULL,NULL,NULL,Urbanova,SJCampos,NULL
+231,"Cristiane Bellato",NULL,NULL,NULL,"Não possui E-Mail",NULL,NULL,NULL,NULL,"E. do Sol",SJCampos,NULL
+232,"Cristiane Dias Ribas",NULL,NULL,NULL,cristianedribas@gmail.com,NULL,NULL,NULL,NULL,"31 de Março",SJCampos,NULL
+233,"Cristiane Holanda Laporta",NULL,NULL,NULL,crislaporta@hotmail.com,NULL,NULL,NULL,NULL,"Jd. Ismenia",SJCampos,NULL
+234,"Cristiane Honorio da Silva",NULL,NULL,NULL,cristianetemis@hotmail.com,NULL,NULL,NULL,NULL,"Jd. Nova Republica",SJCampos,NULL
+235,"Cristiane Melissa Torolho Ribeiro",NULL,NULL,NULL,cristiane.melissa@hotmail.com,NULL,NULL,NULL,NULL,"Jd. Aquarius",SJCampos,NULL
+236,"Cristiane Nuan de Oliveira Marcilio",NULL,NULL,NULL,crisnunan@yahoo.com.br,NULL,NULL,NULL,NULL,"Palmeiras Sao Jose",SJCampos,NULL
+237,"Cristiane Silvestre",NULL,NULL,NULL,"E-Mail Inválido",NULL,NULL,NULL,NULL,,,NULL
+238,"Cristina Aparecida da Silva",NULL,NULL,NULL,cristina.silva@sp.senac.br,NULL,NULL,NULL,NULL,"Parque Industrial",SJCampos,NULL
+239,"Cristina de Fatima Alvarenga",NULL,NULL,NULL,mjmoreira@hotmail.com,NULL,NULL,NULL,NULL,"Jd. Aquarius",SJCampos,NULL
+240,"Cristina Moniz A. Lopes",NULL,NULL,NULL,cmoniz77@hotmail.com,NULL,NULL,NULL,NULL,,SJCampos,NULL
+241,"Cristina Pretko",NULL,NULL,NULL,cris.pretko@hotmail.com,NULL,NULL,NULL,NULL,Urbanova,S.J.Campos,NULL
+242,"Critina Auxiliadora Barbosa",NULL,NULL,NULL,crisbarbosa1412@gmail.com,NULL,NULL,NULL,NULL,Aquarius,SJCampos,NULL
+243,"Crristiane A. Godoi",NULL,NULL,NULL,"Não possui E-Mail",NULL,NULL,NULL,NULL,"Jd. Aquarius",SJCampos,NULL
+244,"Daiani dos Santos Machado Silveira",NULL,NULL,NULL,daianisilveira2008@hotmail.com,NULL,NULL,NULL,NULL,"V. Betania",SJCampos,NULL
+245,"Daiany Maria da Silva Oliveirra",NULL,NULL,NULL,oliveiradaiany@rocketmail.com,NULL,NULL,NULL,NULL,"Cidade Jardim",Jacarei,NULL
+246,"Dalila de Paula Homem de Melo",NULL,NULL,NULL,dalilinha@hotmail.com,NULL,NULL,NULL,NULL,"Jd. Aquarius",SJCampos,NULL
+247,"Dallyane de Oliveira Lima",NULL,NULL,NULL,dallyanelime@isest.com.br,NULL,NULL,NULL,NULL,"Jd. Mourisco",Taubate,NULL
+248,"Daniel Carvalho Rabelo",NULL,NULL,NULL,dcarvalho21@bol.com.br,NULL,NULL,NULL,NULL,"Vista Verde",SJCampos,NULL
+249,"Daniel dos Santos Pontes",NULL,NULL,NULL,daniel.pontes@hotmail.com,NULL,NULL,NULL,NULL,"Jd. Coleginho",Jacarei,NULL
+250,"Daniel Silva Raad",NULL,NULL,NULL,danielraad88@hotmail.com,NULL,NULL,NULL,NULL,"Jd. Aquarius",SJCampos,NULL
+251,"Daniel Valdivia Hernadez",NULL,NULL,NULL,danivh@hotmail.com,NULL,NULL,NULL,NULL,"Jd. Satélite","São José dos Campos",NULL
+252,"Daniela Borges de Arruda Costa",NULL,NULL,NULL,danielaborges@terra.com.br,NULL,NULL,NULL,NULL,"Pq. Industrial",SJCampos,NULL
+253,"Daniela Brandao Correa",NULL,NULL,NULL,danielabrand@yahoo.com.br,NULL,NULL,NULL,NULL,"Jd. Satelite",SJCampos,NULL
+254,"Daniela Calderaro de Amorim",NULL,NULL,NULL,daniella.cal@hotmail.com,NULL,NULL,NULL,NULL,"Jd. Oriente",SJCampos,NULL
+255,"Daniela D. Silva",NULL,NULL,NULL,"Não possui E-Mail",NULL,NULL,NULL,NULL,,,NULL
+256,"Daniela Dantas",NULL,NULL,NULL,danidantas_9@hotmail.com,NULL,NULL,NULL,NULL,Urbanova,SJCampos,NULL
+257,"Daniela de O. Marques",NULL,NULL,NULL,falardani@hotmail.com,NULL,NULL,NULL,NULL,,,NULL
+258,"Daniela Franco Cunha",NULL,NULL,NULL,danifrancocunha@hotmail.com,NULL,NULL,NULL,NULL,Urbanova,"São José dos Campos",NULL
+259,"Daniela Miranda Origuela",NULL,NULL,NULL,danioriguela@hotmail.com,NULL,NULL,NULL,NULL,"Urbanova V",SJCampos,NULL
+260,"Daniela Morino Resende",NULL,NULL,NULL,dan.mresende@gmail.com,NULL,NULL,NULL,NULL,"Jd. America",SJCampos,NULL
+261,"Daniela Moura",NULL,NULL,NULL,dmourasjc110@hotmail.com,NULL,NULL,NULL,NULL,"Jd. Aquarius",SJCampos,NULL
+262,"Daniela Pereira",NULL,NULL,NULL,danipereira@directnet.com.br,NULL,NULL,NULL,NULL,"Altos do Bosque",SJCampos,NULL
+263,"Daniela Santana Carneiro",NULL,NULL,NULL,danielasilvasant@hotmail.com,NULL,NULL,NULL,NULL,"Villa Branca",SJCampos,NULL
+264,"Daniela Souza Alves",NULL,NULL,NULL,daniele.souzaalves@hotmail.com,NULL,NULL,NULL,NULL,,SJCampos,NULL
+265,"Daniele Angelina Bezerra da Silva",NULL,NULL,NULL,danielangelinalopes@yahoo.com.br,NULL,NULL,NULL,NULL,Putim,"São josé dos Campos",NULL
+266,"Daniele de Paula Ferreira Cristofani",NULL,NULL,NULL,danielecristafani@bol.com.br,NULL,NULL,NULL,NULL,Esplanda,SJCampos,NULL
+267,"Daniele Melo Ferrari",NULL,NULL,NULL,eleinadinna@hotmail.com,NULL,NULL,NULL,NULL,"Jd. America",SJCampos,NULL
+268,"Daniele Moreira da Silva",NULL,NULL,NULL,danims_silva@hotmail.com,NULL,NULL,NULL,NULL,"Jd. Aquarius",SJCampos,NULL
+269,"Daniella Tavares Iori Luizon Miranda",NULL,NULL,NULL,dluizon@gmail.com,NULL,NULL,NULL,NULL,"Esplanada do Sol",SJC,NULL
+270,"Danielle C. Salles",NULL,NULL,NULL,danielle.salles@hotmail.com,NULL,NULL,NULL,NULL,,SJCampos,NULL
+271,"Danielle Furquim Simão",NULL,NULL,NULL,danifurquims@hotmail.com,NULL,NULL,NULL,NULL,"Altos do Esplanada",SJCampos,NULL
+272,"Danielle Gomidez",NULL,NULL,NULL,danygomidez@hotmail.com,NULL,NULL,NULL,NULL,"Parq. Industrial",SJCampos,NULL
+273,"Danielle Matos Rocha",NULL,NULL,NULL,daniellematos2007@bol.com.br,NULL,NULL,NULL,NULL,"Jd. Sul",SJCampos,NULL
+274,"Danielle Métene",NULL,NULL,NULL,dmetene@hotmail.com,NULL,NULL,NULL,NULL,"Parque Industrial",SJCampos,NULL
+275,"Danielle Monteiro Gomides",NULL,NULL,NULL,danygomides@hotmail.com,NULL,NULL,NULL,NULL,"Jd. America",SJCampos,NULL
+276,"Danielle Moreira da Silva",NULL,NULL,NULL,danims-silva@hotmail.com,NULL,NULL,NULL,NULL,"Jd. Aquarius",SJcampos,NULL
+277,"Danielli Ximenes",NULL,NULL,NULL,danifiocello@hotmail.com,NULL,NULL,NULL,NULL,"Jd. Morumbi",SJCampos,NULL
+278,"Danusia Braga Ivanov",NULL,NULL,NULL,suporte1@denasg.com.br,NULL,NULL,NULL,NULL,Aquarius,SJCampos,NULL
+279,"Danuzia Braga Ivanov",NULL,NULL,NULL,suporte1@denasg.com.br,NULL,NULL,NULL,NULL,"Jd. Aquarius",SJCampos,NULL
+280,"David Branco Filho",NULL,NULL,NULL,davidbranco.sjk@gmail.com,NULL,NULL,NULL,NULL,Aquarius,SJCAMPOS,NULL
+281,"Debora Ferreira da Silva Siqueira",NULL,NULL,NULL,debora@centurybr.com.br,NULL,NULL,NULL,NULL,coleginho,Jacarei,NULL
+282,"Debora Iwashita",NULL,NULL,NULL,"Não possui E-Mail",NULL,NULL,NULL,NULL,"Chacar Sao Jose",SJC,NULL
+283,"Debora Soares da Silva",NULL,NULL,NULL,kakansjc@yahoo.com.br,NULL,NULL,NULL,NULL,Putim,SJCampos,NULL
+284,"Deborah A. Silva Oliveira Berlato",NULL,NULL,NULL,deborahberlato@yahoo.com.br,NULL,NULL,NULL,NULL,"Jd. Aquarius",SJCampos,NULL
+285,"Deborah Minuz Ali de Carvalho",NULL,NULL,NULL,debmuniz@gmail.com,NULL,NULL,NULL,NULL,"Bosque dos Eucaliptos",SJCAMPOS,NULL
+286,"Deborah Scotton de Souza Freitas",NULL,NULL,NULL,deborah.scotton@hotmail.com,NULL,NULL,NULL,NULL,"Jd. Coleginho",Jacareí,NULL
+287,"Deina Melo Penteado",NULL,NULL,NULL,deinamelo@hotmail.com,NULL,NULL,NULL,NULL,"Vila Ema",SJCampos,NULL
+288,"Deise de A. O. Palazon",NULL,NULL,NULL,"Não possui E-Mail",NULL,NULL,NULL,NULL,"Esplanada do Sol",SJCampos,NULL
+289,"Dejanira A. M. Costa",NULL,NULL,NULL,"Não possui E-Mail",NULL,NULL,NULL,NULL,"St Cecilia 1","São josé dos Campos",NULL
+290,"Denildo Charles da Silva",NULL,NULL,NULL,charles-valeria@hotmail.com,NULL,NULL,NULL,NULL,"Jd. das Industrias",SJCampos,NULL
+291,"Denis Mancilha Cunha",NULL,NULL,NULL,denis.mancilha@hotmail.com,NULL,NULL,NULL,NULL,"Altos de Santana",SJCampos,NULL
+292,"Denise Cristiane de Oliveira",NULL,NULL,NULL,cristiane-denise@hotmail.com,NULL,NULL,NULL,NULL,"Bosque dos Eucaliptos",SJCampos,NULL
+293,"Denise da Silva Reis",NULL,NULL,NULL,denisedasilvareis@hotmail.com,NULL,NULL,NULL,NULL,"Vila Industrial",SJCampos,NULL
+294,"Denise Maria Garcez Gorges",NULL,NULL,NULL,deniseandeiros@gmail.com,NULL,NULL,NULL,NULL,Urbanova,SJCampos,NULL
+295,"Deny Mutti",NULL,NULL,NULL,denymutti@gmail.com,NULL,NULL,NULL,NULL,Urbanova,SJCampos,NULL
+296,"Diallyne Menegatti",NULL,NULL,NULL,diallyne@hotmail.com,NULL,NULL,NULL,NULL,"Vila Ema ","São José dos Campos",NULL
+297,"Diana R. B. Feitosa",NULL,NULL,NULL,diafeitosa@hotmail.com,NULL,NULL,NULL,NULL,"Jd. Aquarius",SJCampos,NULL
+298,"Diana Ramos Ferreira",NULL,NULL,NULL,dianall@ig.com.br,NULL,NULL,NULL,NULL,"Jd. Amélia",SJCAMPOS,NULL
+299,"Diana Régia F.",NULL,NULL,NULL,"Não possui E-Mail",NULL,NULL,NULL,NULL,,,NULL
+300,"Diana Trece",NULL,NULL,NULL,dlmtrece@terra.com.br,NULL,NULL,NULL,NULL,"Jd. Aquarius",SJCampos,NULL
+301,"Diego Ferreira Batista",NULL,NULL,NULL,"Não possui E-Mail",NULL,NULL,NULL,NULL,"Dom Pedro 1",SJC,NULL
+302,"Dieine Silva",NULL,NULL,NULL,ana_dieine@hotmail.com,NULL,NULL,NULL,NULL,"Jd. Paraiso",SJCampos,NULL
+303,"Dilian Gonçalves da Silva",NULL,NULL,NULL,"Não possui E-Mail",NULL,NULL,NULL,NULL,"Santa Ines I",SJCampos,NULL
+304,"Diogo Augusto da Costa",NULL,NULL,NULL,diogoac.info@gmail.com,NULL,NULL,NULL,NULL,santana,"São José dos Campos ",NULL
+305,"Dulcineia de Camargo dos Santos",NULL,NULL,NULL,victoria-camargo2011@bol.com,NULL,NULL,NULL,NULL,"Jd. Americano",SJCampos,NULL
+306,"Dunia Sarout",NULL,NULL,NULL,dusarout@hotmail.com,NULL,NULL,NULL,NULL,"Jd. das Industrias",SJCampos,NULL
+307,"Ebert Carlos Goulart",NULL,NULL,NULL,ebertgoulart@hotmail.com,NULL,NULL,NULL,NULL,Urbanova,SJCAMPOS,NULL
+308,"Eder Rodrigues Estima",NULL,NULL,NULL,estima.eder@gmail.com,NULL,NULL,NULL,NULL,"Jd. Colinas",SJCampos,NULL
+309,"Edima Sonia de Sousa Assis",NULL,NULL,NULL,sonjasaes@hotmail.com,NULL,NULL,NULL,NULL,"Jd. Satelite",SJCampos,NULL
+310,"Edith Fernanda Fontes",NULL,NULL,NULL,"Não possui E-Mail",NULL,NULL,NULL,NULL,,,NULL
+311,"Edma Sonia de Souza Assis",NULL,NULL,NULL,sonyasals@hotmail.com,NULL,NULL,NULL,NULL,"Jd. Satélite",SJCampos,NULL
+312,"Edson Lopes Cassimiro",NULL,NULL,NULL,"Não possui E-Mail",NULL,NULL,NULL,NULL,"Dom Pedro 1",SJC,NULL
+313,"Eduardo Gil",NULL,NULL,NULL,dudagil@hotmail.com,NULL,NULL,NULL,NULL,"Jd. Colinas",SJCampos,NULL
+314,"Eduardo Ramalho Pereira Gama",NULL,NULL,NULL,eduardopgama@yahoo.com.br,NULL,NULL,NULL,NULL,"Jd. Aquarius",SJCampos,NULL
+315,"Egle R. O. Valadares",NULL,NULL,NULL,octolento@hotmail.com,NULL,NULL,NULL,NULL,"Portal de Igarata",Igarata,NULL
+316,"Egle Valadares",NULL,NULL,NULL,"Não possui E-Mail",NULL,NULL,NULL,NULL,,,NULL
+317,"Elaine Ap. da Silva Guimaraes",NULL,NULL,NULL,elaineasg@yahoo.com.br,NULL,NULL,NULL,NULL,"Santa Ines 1",SJCampos,NULL
+318,"Elaine C. G. Andrade Idalgo",NULL,NULL,NULL,elaine.idalgo@freudenberg,NULL,NULL,NULL,NULL,"Jd. Florida","São José dos Campos",NULL
+319,"Elaine Cristina Oliveira",NULL,NULL,NULL,elaine.oliveira.ti@gmail.com,NULL,NULL,NULL,NULL,urbanova,SJCampos,NULL
+320,"Elaine Cristina Soares Muriano Carvalho",NULL,NULL,NULL,emurian@terra.com.br,NULL,NULL,NULL,NULL,"JD aquarius",,NULL
+321,"Elaine D. dos Santos",NULL,NULL,NULL,elaineds2003@yahoo.com.br,NULL,NULL,NULL,NULL,"Jd. Renata",SJCampos,NULL
+322,"Elaine do Vale Lima",NULL,NULL,NULL,lanedovale@superig.com.br,NULL,NULL,NULL,NULL,"Santa Ines 2",SJCampos,NULL
+323,"Elaine F. Moura",NULL,NULL,NULL,elaine.moreira@gm.com,NULL,NULL,NULL,NULL,"Jd. Aquarius",SJCampos,NULL
+324,"Elaine Lima",NULL,NULL,NULL,elainecolima@hotmail.com,NULL,NULL,NULL,NULL,"Bosque dos Eucaliptos","São José dos Campos",NULL
+325,"Elaine Petroff",NULL,NULL,NULL,elaine.bissada@live.com,NULL,NULL,NULL,NULL,"V. Betania",SJCampos,NULL
+326,"Elaine S. Rocha",NULL,NULL,NULL,elaine@semedic.com.br,NULL,NULL,NULL,NULL,"Jd. Aquarirus",SJCampos,NULL
+327,"Elenice Aparecida M. Siqueira",NULL,NULL,NULL,elenicemoreira@yahoo.com.br,NULL,NULL,NULL,NULL,"31 de Março",SJCAMPOS,NULL
+328,"Elezete Alves Lima",NULL,NULL,NULL,elizete.bessa@yahoo.com.br,NULL,NULL,NULL,NULL,"Jd. Aquarius",SJCampos,NULL
+329,"Eliana Claudino Gomes da Silva",NULL,NULL,NULL,elclaudino@hotmail.com,NULL,NULL,NULL,NULL,"Jd. Aquarius ",SJCampos,NULL
+330,"Eliana Giraux Leitão Figueiredo",NULL,NULL,NULL,elianagiraux@hotmail.com,NULL,NULL,NULL,NULL,"Jd. Aquarius",SJCampos,NULL
+331,"Eliana Giraux Leitão Figueiredo",NULL,NULL,NULL,elianagiraux@hotmail.com,NULL,NULL,NULL,NULL,Aquarius,SJCampos,NULL
+332,"Eliana Martins Rosa Ferreira",NULL,NULL,NULL,elimartins@live.com,NULL,NULL,NULL,NULL,"Jd. Aquarius",SJCAMPOS,NULL
+333,"Eliana Yuri Shiino",NULL,NULL,NULL,elianayur@ig.com.br,NULL,NULL,NULL,NULL,"Floradas de São Jose","São jose dos Campos",NULL
+334,"Eliane Claudino Gomes da Silva",NULL,NULL,NULL,elclaudino@hotmail.com,NULL,NULL,NULL,NULL,"Jd. Aquarius",SJCampos,NULL
+335,"Eliane Soares Garcia",NULL,NULL,NULL,eliane.garcia@ericsson.com.br,NULL,NULL,NULL,NULL,"Altos de Santana",SJCampos,NULL
+336,"Elisa Maria P. A. Gama",NULL,NULL,NULL,lantunes10@hotmail.com,NULL,NULL,NULL,NULL,"Jd. Aquarius",SJCampos,NULL
+337,"Elisa Ogaia",NULL,NULL,NULL,eogava@ig.com.br,NULL,NULL,NULL,NULL,"B. dos Eucaliptos",SJCampos,NULL
+338,"Elisa Teixeira de Faria Braga",NULL,NULL,NULL,elisatx.braga@hotmail.com,NULL,NULL,NULL,NULL,"Jd. Alvorada",SJCampos,NULL
+339,"Elisabete Silva Barbosa",NULL,NULL,NULL,elisabete.barbosa40@gmail.com,NULL,NULL,NULL,NULL,"Jd. Souto",SJCampos,NULL
+340,"Elisabeth Kikko",NULL,NULL,NULL,bethkikko@hotmail.com,NULL,NULL,NULL,NULL,"Jd. Aquarius 2","São José dos Campos",NULL
+341,"Elisane Cristina Oliveira Santos",NULL,NULL,NULL,isaias.lopes@hotmail.com,NULL,NULL,NULL,NULL,"Jardim Apolo",SJCampos,NULL
+342,"Eliseu M. Gomes",NULL,NULL,NULL,eliseu.gomes@gmail.com,NULL,NULL,NULL,NULL,"Jd. Souto",SJCampos,NULL
+343,"Eliza Ogaza",NULL,NULL,NULL,"Não possui E-Mail",NULL,NULL,NULL,NULL,,,NULL
+344,"Elizabeth Corrêa de Vasconcelos Oliveira",NULL,NULL,NULL,elizabethlavo@ig.com.br,NULL,NULL,NULL,NULL,"Pq. Independência ","São José dos Campos",NULL
+345,"Elizangela Soares Coelho",NULL,NULL,NULL,elizangelacoelho@bol.com.br,NULL,NULL,NULL,NULL,"Jd. Sta Ines 3",SJCAMPOS,NULL
+346,"Elizete Alves Bessa",NULL,NULL,NULL,elizete.bessa@yahoo.com.br,NULL,NULL,NULL,NULL,"Jardim Aquarius",SJCampos,NULL
+347,"Ellen Cristina Malavasi",NULL,NULL,NULL,ellen.malavasi@hotmail.com,NULL,NULL,NULL,NULL,"Jd. flórida",Jacareí,NULL
+348,"Ellen Merely Espito Santo",NULL,NULL,NULL,ellenmerely@hotmail.com,NULL,NULL,NULL,NULL,"Jd. Industrias",SJCampos,NULL
+349,"Elza Aparecida da Silva",NULL,NULL,NULL,"E-Mail Inválido",NULL,NULL,NULL,NULL,"Altos de Santana",SJCampos,NULL
+350,"Elza Marques",NULL,NULL,NULL,"Não possui E-Mail",NULL,NULL,NULL,NULL,,,NULL
+351,"Emílio Vieira Lopes Rosa",NULL,NULL,NULL,emilio.rosa274@gmail.com,NULL,NULL,NULL,NULL,Aquarius,"São josé dos Campos",NULL
+352,"Eni Aparecida Marcondes de Oliveira",NULL,NULL,NULL,enimarcondes@hotmail.com,NULL,NULL,NULL,NULL,"Jd. Telespark",SJCampos,NULL
+353,"Eric Marques Evangelista",NULL,NULL,NULL,vitoriasjc@hotmail.com,NULL,NULL,NULL,NULL,Bosque,"S.J. Campos ",NULL
+354,"Erica A. Ds Silva Kogue",NULL,NULL,NULL,"erica _als@hotmail.com",NULL,NULL,NULL,NULL,"Jd América",SJCampos,NULL
+355,"Erika Almeida da Silva Kogue",NULL,NULL,NULL,erika_als@hotmail.com,NULL,NULL,NULL,NULL,"Jd. América",SJC,NULL
+356,"Erika Cesar Ribeiro",NULL,NULL,NULL,erikacr83@gmail.com,NULL,NULL,NULL,NULL,"Jd. Aquarius",SJCampos,NULL
+357,"Esmeralda Dias",NULL,NULL,NULL,edias693@ig.com.br,NULL,NULL,NULL,NULL,"Jd Aquarius",SJCampos,NULL
+358,"Estela Palazon",NULL,NULL,NULL,stelapalazon@hotmail.com,NULL,NULL,NULL,NULL,"Esplanada do Sol",SJCampos,NULL
+359,"Etiene A. S. V. Lima",NULL,NULL,NULL,etisouza@yahoo.com.br,NULL,NULL,NULL,NULL,"Jd. Aquarius",SJC,NULL
+360,"Eva Maria da Costa",NULL,NULL,NULL,eva.salgado16@hotmail.com,NULL,NULL,NULL,NULL,,SJCampos,NULL
+361,"Fabiana Barbosa",NULL,NULL,NULL,pcbi@ig.com.br,NULL,NULL,NULL,NULL,,SJCampos,NULL
+362,"Fabiana Casarin",NULL,NULL,NULL,fabiana.casarin@yahoo.com.br,NULL,NULL,NULL,NULL,"Vila Maria",SJCampos,NULL
+363,"Fabiana Lourenço C s Ferreira",NULL,NULL,NULL,Fabianalour@hotmail.com,NULL,NULL,NULL,NULL,Urbanova,SJCampos,NULL
+364,"Fabiana Pereira Castro Junho",NULL,NULL,NULL,fabiana.junho@hotmail.com,NULL,NULL,NULL,NULL,"Jd. Alvorada",SJCampos,NULL
+365,"Fabiana Renata Carvalho",NULL,NULL,NULL,carvalho_fabiana@yahoo.com.br,NULL,NULL,NULL,NULL,"Chacara Sao Jose",SJCampos,NULL
+366,"Fabiana Ribeiro Veloso",NULL,NULL,NULL,fabiana.veloso@embraer.com.br,NULL,NULL,NULL,NULL,Santana,SJCampos,NULL
+367,"Fabiana Ruston Canto",NULL,NULL,NULL,fabiana@defaconstrutora.com.br,NULL,NULL,NULL,NULL,"Jd. Coleginho",Jacarei,NULL
+368,"Fabiane Accioly M. Faria",NULL,NULL,NULL,fabiane@mundialsjc.com.br,NULL,NULL,NULL,NULL,,"São josé dos Campos ",NULL
+369,"Fabiane Beracochea",NULL,NULL,NULL,fberaco@hotmail.com,NULL,NULL,NULL,NULL,"Jd. Aquarius",SJCampoos,NULL
+370,"Fabiane Cruz de Carvalho",NULL,NULL,NULL,fabiane.cruz@uol.com.br,NULL,NULL,NULL,NULL,"Jd. Paraíso",SJCampos,NULL
+371,"Fabiane dos Santos Relvão Faim",NULL,NULL,NULL,fabianefaim@hotmail.com,NULL,NULL,NULL,NULL,Urbanova,"São josé dos Campos",NULL
+372,"Fabiano Augusto da Silva",NULL,NULL,NULL,fabiano_aug@yahoo.com.br,NULL,NULL,NULL,NULL,"Cidade Salvador",Jacarei,NULL
+373,"Fabio Gomes S. da Silva",NULL,NULL,NULL,fabio.silva@gerdau.com.br,NULL,NULL,NULL,NULL,"Jd. Marcondes",SJCampos,NULL
+374,"Fabio Jr. Ferreira da Silva",NULL,NULL,NULL,fabio.dudu@ig.com.br,NULL,NULL,NULL,NULL,"Parque Meia Lua",SJCampos,NULL
+375,"Fabio Luis Agra Costa",NULL,NULL,NULL,"Não possui E-Mail",NULL,NULL,NULL,NULL,"Jr. das Industrias",SJCampos,NULL
+376,"Fabiola Esteves Floriano",NULL,NULL,NULL,ffloriano@its.jnj.com,NULL,NULL,NULL,NULL,"Jd. augusta",SJCampos,NULL
+377,"Fabiola Sarao",NULL,NULL,NULL,fabiola.sarao@terra.com.br,NULL,NULL,NULL,NULL,"Vila Zeze",Jacarei,NULL
+378,"Fatima Teodora Wollmam",NULL,NULL,NULL,"Não possui E-Mail",NULL,NULL,NULL,NULL,Esplanada,"São José dos Campos",NULL
+379,"Felipe Carone",NULL,NULL,NULL,fecarone@yahoo.com.br,NULL,NULL,NULL,NULL,Moema,"São Paulo",NULL
+380,"Felipe de Carvalho França Maciel",NULL,NULL,NULL,"Não possui E-Mail",NULL,NULL,NULL,NULL,"Portal da Colinas",Guaratingueta,NULL
+381,"Fernanda B. Merhy",NULL,NULL,NULL,nandabraconnot@hotmail.com,NULL,NULL,NULL,NULL,"Jd. Aquarius",SJC,NULL
+382,"Fernanda Bila Santos",NULL,NULL,NULL,fbilla-s@hotmail.com,NULL,NULL,NULL,NULL,"V. Verde ",SJCampos,NULL
+383,"Fernanda Carla Bragatto",NULL,NULL,NULL,fernanda.bragatto@yahoo.com.br,NULL,NULL,NULL,NULL,"Jd. Satelite",SJCampos,NULL
+384,"Fernanda Carolina Carvalho",NULL,NULL,NULL,carvalho_fernanda@yahoo.com.br,NULL,NULL,NULL,NULL,"Ch. Sao José",SJCampos,NULL
+385,"Fernanda Cunha Fernandes",NULL,NULL,NULL,fernandacunha320@hotmail.com,NULL,NULL,NULL,NULL,Centro,SJCampos,NULL
+386,"Fernanda Helena Cardoso",NULL,NULL,NULL,fehelenacardoso@hotmail.com,NULL,NULL,NULL,NULL,"Jd. São Dimas",SJCampos,NULL
+387,"Fernanda Naomi Matubara",NULL,NULL,NULL,fn_matubara@hotmail.com,NULL,NULL,NULL,NULL,"Altos do Esplanada",SJC,NULL
+388,"Fernanda Neri de Souza",NULL,NULL,NULL,fezinha.neri@gmail.com,NULL,NULL,NULL,NULL,"Jd. Aquarius",SJCAmpos,NULL
+389,"Fernanda Panciera Monteiro",NULL,NULL,NULL,fernandapanciera@yahoo.com.br,NULL,NULL,NULL,NULL,CTA,SJCampos,NULL
+390,"Fernanda Pereira de Oliveira Rocha",NULL,NULL,NULL,fernandaporocha@gmail.com,NULL,NULL,NULL,NULL,"Jd. Paraíso",Jacareí,NULL
+391,"Fernanda Radtke Hinz Santos",NULL,NULL,NULL,fernanda.radtke@uol.com.br,NULL,NULL,NULL,NULL,"Jd. Aquarius",SJCapos,NULL
+392,"Fernanda Ribeiro da Silva",NULL,NULL,NULL,fersilva84@gmail.com,NULL,NULL,NULL,NULL,"Cidade Jardim",SJCampos,NULL
+393,"Fernanda Torres Conte",NULL,NULL,NULL,fernandatorress@hotmail.com,NULL,NULL,NULL,NULL,"Jd. Aquarius",SJCampos,NULL
+394,"Fiama Santana",NULL,NULL,NULL,"Não possui E-Mail",NULL,NULL,NULL,NULL,"Jardim Oriente",SJCampos,NULL
+395,"Flavia Correa Bernardo",NULL,NULL,NULL,flaviacorrea20@hotmail.com,NULL,NULL,NULL,NULL,"Jd. Aquarius",SJCAMPOS,NULL
+396,"Flávia Heidorne",NULL,NULL,NULL,flaviaheidorne@uol.com.br,NULL,NULL,NULL,NULL,"Sta. Cruz Lazaros",Jacarei,NULL
+397,"Flavia Miranda N. Anselmo",NULL,NULL,NULL,fla.nascimento@hotmail.com,NULL,NULL,NULL,NULL,"Jd. Aquarius",SJCampos,NULL
+398,"Flavia Oracic Heidorne",NULL,NULL,NULL,flaviaheidorne@uol.com.br,NULL,NULL,NULL,NULL,Urbanova,"São José dos Campos",NULL
+399,"Flavia Renata Fernandes dos Santos",NULL,NULL,NULL,flaviarfs@yahoo.com.br,NULL,NULL,NULL,NULL,"JD Diamante ",SJCampos,NULL
+400,"Flavia S. do Prado Girand",NULL,NULL,NULL,flavia_girand@hotmail.com,NULL,NULL,NULL,NULL,"Jd. América",SJCampos,NULL
+401,"Flaviane M. Mendonça",NULL,NULL,NULL,flavimendonca@yahoo.com.br,NULL,NULL,NULL,NULL,"Jd. Aquarius ","São José dos Campos",NULL
+402,"Flordenice das Neves Bettiol",NULL,NULL,NULL,flordenice@gmail.com,NULL,NULL,NULL,NULL,Satélite,SJCampos,NULL
+403,"Florinda Ribeiro Campos",NULL,NULL,NULL,florindarcampos@gmail.com,NULL,NULL,NULL,NULL,,,NULL
+404,"Francine Alves R. Almeida",NULL,NULL,NULL,francinealves@yahoo.com.br,NULL,NULL,NULL,NULL,"Jd. Morumbi",SJCampos,NULL
+405,"Francisca Alessandra Silva",NULL,NULL,NULL,franciscanlvabr@hotmail.com,NULL,NULL,NULL,NULL,"Vila Ema",SJCampos,NULL
+406,"Francisco Ramos da Silva Filho",NULL,NULL,NULL,francis.civil@yahoo.com.br,NULL,NULL,NULL,NULL,"Santana ",SJCampos,NULL
+407,"Frederico Gabriel",NULL,NULL,NULL,"Não possui E-Mail",NULL,NULL,NULL,NULL,"Jd. Aquarius",SJCampos,NULL
+408,"Frediane Cecile de Almeida Machado Mesquita Vieira",NULL,NULL,NULL,anemcjg@hotmail.com,NULL,NULL,NULL,NULL," Bq. dos Eucaliptos",SJC,NULL
+409,"Gabriela Costa de Oliveira",NULL,NULL,NULL,"Não possui E-Mail",NULL,NULL,NULL,NULL,,,NULL
+410,"Gabriela Costa de Oliveira",NULL,NULL,NULL,gabicostadeoliveira@gamil.com,NULL,NULL,NULL,NULL,"Jd. Satelite",SJCampos,NULL
+411,"Gabriela de Faria Chagas",NULL,NULL,NULL,gabrielafchagas@hotmail.com,NULL,NULL,NULL,NULL,"Aquarius ","São José dos Campos",NULL
+412,"Gabriela de Paula Ferraz",NULL,NULL,NULL,gabrieladepaulaferraz@gmail.com,NULL,NULL,NULL,NULL,"Jd. Apolo",SJCAMPOS,NULL
+413,"Gabriela do Amaral Desio",NULL,NULL,NULL,gabidesio@yahoo.com.br,NULL,NULL,NULL,NULL,,,NULL
+414,"Gabriela Elias Porto",NULL,NULL,NULL,gabiep@yahoo.com.br,NULL,NULL,NULL,NULL,"Jd. Aquarius",SJCAMPOS,NULL
+415,"Gabriela Fernandes Bolonia Bueno",NULL,NULL,NULL,gabrielaf.bueno@hotmail.com,NULL,NULL,NULL,NULL,"Jd. Aquarius",SJCampos,NULL
+416,"Gabriela Ferreira Leite S.",NULL,NULL,NULL,"Não possui E-Mail",NULL,NULL,NULL,NULL,"Bosque dos Eucaliptos",SJCampos,NULL
+417,"Gabriela Matos Amado",NULL,NULL,NULL,amado.gabriela@hotmail.com,NULL,NULL,NULL,NULL,"Jd Aquarius","São josé dos Campos",NULL
+418,"Gabriela Tiecher Elias",NULL,NULL,NULL,gabi.tiecher@hotmail.com,NULL,NULL,NULL,NULL,"Jd. Aquarius",SJCampos,NULL
+419,"Gabriella G. Petricelli",NULL,NULL,NULL,ggpetricelli@gmail.com,NULL,NULL,NULL,NULL,"Real Park",SJCampos,NULL
+420,"Geise Cristina Batistella Carvalho",NULL,NULL,NULL,gcvida@hotmail.com,NULL,NULL,NULL,NULL,"31 de Março",SJCampos,NULL
+421,"Geovana Monteiro",NULL,NULL,NULL,geovana.monteiro_96@hotmail.com,NULL,NULL,NULL,NULL,"Jd. Aquarius",SJCampos,NULL
+422,"Geovane Sidnei da Silva",NULL,NULL,NULL,geovanesidnei@yahoo.com.br,NULL,NULL,NULL,NULL,"Cidade Salvador",Jacarei,NULL
+423,Giane,NULL,NULL,NULL,"Não possui E-Mail",NULL,NULL,NULL,NULL,,,NULL
+424,"Giane Farias Dias",NULL,NULL,NULL,gianefd@yahoo.com.br,NULL,NULL,NULL,NULL,"Jd. Primavera",SJCampos,NULL
+425,"Giane Q.q. Massardi",NULL,NULL,NULL,gianeqc@gmail.com,NULL,NULL,NULL,NULL,"Altos de Santana",SJCampos,NULL
+426,"Gilmar Rodrigues de Toledo",NULL,NULL,NULL,gilmar.rtoledo@gmail.com,NULL,NULL,NULL,NULL,"Vila São Pedro",SJCAMPOS,NULL
+427,"Gilmara Rosa de Carvalho",NULL,NULL,NULL,mara261@hotmail.com.br,NULL,NULL,NULL,NULL,"Jd. California",SJC,NULL
+428,"Gilsimara Rosa de Carvalho",NULL,NULL,NULL,gilsimaracarvalho@yahoo.com.br,NULL,NULL,NULL,NULL,"Jd. California",SJCampos,NULL
+429,"Giovana Carlo de Lima Ducca Souza",NULL,NULL,NULL,giovanaducco@hotmail.com,NULL,NULL,NULL,NULL,"Jd. Aquarius","Sao Jose dos Campos",NULL
+430,"Giovanna Caroline Aparecida do Vale",NULL,NULL,NULL,gica.vale@hotmail.com,NULL,NULL,NULL,NULL,"Jd. Aquarius",SJCampos,NULL
+431,Gisele,NULL,NULL,NULL,"Não possui E-Mail",NULL,NULL,NULL,NULL,,,NULL
+432,"Gisele Cabral Florentino",NULL,NULL,NULL,"Não possui E-Mail",NULL,NULL,NULL,NULL,"Monte Castelo",SJCampos,NULL
+433,"Gisele Farias Dias",NULL,NULL,NULL,gifadi@yahoo.com.br,NULL,NULL,NULL,NULL,"Jd. Primavera",Jacarei,NULL
+434,"Giselle Gonçalves",NULL,NULL,NULL,giselle.fenix@yahoo.com.br,NULL,NULL,NULL,NULL,"Jd. Aquarius",SJCampos,NULL
+435,"Giselle Pereira Nobrega Franco",NULL,NULL,NULL,giselle.franco@gmail.com,NULL,NULL,NULL,NULL,"Jardim das Nações",Taubaté,NULL
+436,"Gislaine Aparecida de Souza",NULL,NULL,NULL,gislainesouza@ymail.com,NULL,NULL,NULL,NULL,"Jd. Colonial","São José dos Campos ",NULL
+437,"Gislaine Ferreira Connata",NULL,NULL,NULL,giferreira_connata@hotmail.com,NULL,NULL,NULL,NULL,"Jd. Aquarios",SJCampos,NULL
+438,"Gislaine Truzzi",NULL,NULL,NULL,gtruzzi@hotmail.com,NULL,NULL,NULL,NULL,V.Ema,SJCampos,NULL
+439,"Giulia David Bianchini dos Santos",NULL,NULL,NULL,giuliabike@hotmail.com,NULL,NULL,NULL,NULL,"Jd. Esplanada 2",SJCAMPOS,NULL
+440,"Giuliana Ferrareze de F. Pires",NULL,NULL,NULL,giupires@hotmail.com,NULL,NULL,NULL,NULL,CTA,SJCampos,NULL
+441,"Giuliana Savage",NULL,NULL,NULL,giulyzaccaro@hotmail.com,NULL,NULL,NULL,NULL,"Jd. das Industruias",SJCampos,NULL
+442,"Gizele Ribeiro",NULL,NULL,NULL,gizaribeiro@gmail.com,NULL,NULL,NULL,NULL,"V. Verde",SJCampos,NULL
+443,"Glauber Souza Gomes",NULL,NULL,NULL,glaubersgomes@hotmail.com,NULL,NULL,NULL,NULL,"Bosque dos Eucaliptos",SJCampos,NULL
+444,"Glauco Valente Moreira",NULL,NULL,NULL,glaucovalente.cms@gmail.com,NULL,NULL,NULL,NULL,"Jd: Rafael ","São josé dos Campos",NULL
+445,"Grace Cristine Rodrigues de Siqueira",NULL,NULL,NULL,grace@vitalcontabilidade.com.br,NULL,NULL,NULL,NULL,"Jd. Topázio","São José dos Campos",NULL
+446,"Grace da Silva",NULL,NULL,NULL,grace_silva@ig.com.br,NULL,NULL,NULL,NULL,"Jd. Morumbi",SJCampos,NULL
+447,"Graziele Medeiros Braga",NULL,NULL,NULL,grazi.com.@ibest.com.br,NULL,NULL,NULL,NULL,"Jd. Aquarius",SJCampos,NULL
+448,"Grazielle Ribeiro",NULL,NULL,NULL,rigra@bol.com.br,NULL,NULL,NULL,NULL,"Jd. Uira",SJCampos,NULL
+449,"Gunar Monteiro Andrade Junior",NULL,NULL,NULL,gunarfiorelli@hotmail.com,NULL,NULL,NULL,NULL,"Res. Aquarius","São José dos Campos",NULL
+450,"Gustavo Milena Franceschini",NULL,NULL,NULL,"E-Mail Inválido",NULL,NULL,NULL,NULL,"Jd. das Colinas",SJCampos,NULL
+451,"Hanna Clara Sene de Freitas",NULL,NULL,NULL,hannasene@gmail.com,NULL,NULL,NULL,NULL,"Jd. São José",SJCampos,NULL
+452,"Helaine Cristina Moreira",NULL,NULL,NULL,"Não possui E-Mail",NULL,NULL,NULL,NULL,"São José dos Campos","São josé dos Campos",NULL
+453,"Helen Toledo Moreira",NULL,NULL,NULL,helen-tm20@hotmail.com,NULL,NULL,NULL,NULL,"Vila Industrial",SJCampos,NULL
+454,"Helena Cecilia G. Santos",NULL,NULL,NULL,lele-cica@hotmail.com,NULL,NULL,NULL,NULL,"Jd. Aquarios",SJCampos,NULL
+455,"Helena Cristina da Silva Sabino",NULL,NULL,NULL,"Não possui E-Mail",NULL,NULL,NULL,NULL," Jardim Altos Santana","SJCampos ",NULL
+456,"Helena Sabione Vantine",NULL,NULL,NULL,helenavantine@gmail.com,NULL,NULL,NULL,NULL,"Esplanada do Sol",SJCampos,NULL
+457,"Helida Scarpim Wei",NULL,NULL,NULL,helida.scarpim@uol.com.br,NULL,NULL,NULL,NULL,,SJCampos,NULL
+458,"Hellen Vieira Neves",NULL,NULL,NULL,hellenvieira@hotmail.com,NULL,NULL,NULL,NULL,"Jd. Aquarius",SJCAMPOS,NULL
+459,"Heloisa Bomjardim",NULL,NULL,NULL,hbomjardim@yahoo.com.br,NULL,NULL,NULL,NULL,"Res. Flamboyant",SJCampos,NULL
+460,"Heloisa Sanches",NULL,NULL,NULL,heloisa@rivoliperfumaria.com.br,NULL,NULL,NULL,NULL,"Jd. Apolo",SJCampos,NULL
+461,"Henryk N. de Castro Silva",NULL,NULL,NULL,henryknogcastro@hotmail.com,NULL,NULL,NULL,NULL,"Jd. das Colinas ",SJCampos,NULL
+462,"Hernani Schmidt",NULL,NULL,NULL,hernanisc@uol.com.br,NULL,NULL,NULL,NULL,"Vila Adyana",SJCampos,NULL
+463,"Hilze das Gr. Moreli",NULL,NULL,NULL,"Não possui E-Mail",NULL,NULL,NULL,NULL,,SJCAMPOS,NULL
+464,"Icaro Lima Pereira Bispo",NULL,NULL,NULL,kikobispo@hotmail.com,NULL,NULL,NULL,NULL,Centro,"São José dos Campos",NULL
+465,"Ilana Marcondes Cardial de Oliveira Farias",NULL,NULL,NULL,ilana_cardial@yahoo.com.br,NULL,NULL,NULL,NULL,Aquarius,"São José dos Campos",NULL
+466,"Ilma Tiecher Elias",NULL,NULL,NULL,il_tiecher@hothotmail.com,NULL,NULL,NULL,NULL,"Jd. Aquarius",SJCampos,NULL
+467,"Indira Ferreira Guimaraes Nagai",NULL,NULL,NULL,indirag@ig.com.br,NULL,NULL,NULL,NULL,"Eugenio de Melo",SJCampos,NULL
+468,"Ingrid Coelho A. da Costa",NULL,NULL,NULL,ingridcoelho@hotmail.com,NULL,NULL,NULL,NULL,Urbanova,SJCampos,NULL
+469,"Ingrid de Lima Bitencourt",NULL,NULL,NULL,ingridlbitencourt@yahoo.com.br,NULL,NULL,NULL,NULL,,,NULL
+470,"Ingrid Juliane dos Santos Ferreira",NULL,NULL,NULL,ingrid_jsf@hotmail.com,NULL,NULL,NULL,NULL,"Jd. Industrias",SJCampos,NULL
+471,"Iracema Rocha de Souza",NULL,NULL,NULL,"Não possui E-Mail",NULL,NULL,NULL,NULL,Santana,SJCAMPOS,NULL
+472,"Irani Priscila de Oliveira",NULL,NULL,NULL,irpri@hotmail.com,NULL,NULL,NULL,NULL,,Jacarei,NULL
+473,"Irení Schoba Antonio Santana Martins",NULL,NULL,NULL,ireni_ss@hotmail.com,NULL,NULL,NULL,NULL,"Jd. América","SJCampos ",NULL
+474,"Isabel C. Armani",NULL,NULL,NULL,"Não possui E-Mail",NULL,NULL,NULL,NULL,"Jd. Aquarius",SJC,NULL
+475,"Isabel Cristina G. de A. Kusahara",NULL,NULL,NULL,isa_bel_andrade@yahoo.com.br,NULL,NULL,NULL,NULL,"Jd. Santa Emilia",Jacareí,NULL
+476,"Isabel Daoud",NULL,NULL,NULL,isabeldaoud@ig.com.br,NULL,NULL,NULL,NULL,"Jd. Esplanada",SJCampos,NULL
+477,"Isabela Andrade Baltazar",NULL,NULL,NULL,isabelabaltazar@gmail.com,NULL,NULL,NULL,NULL,"Royal Park",SJCampos,NULL
+478,"Isabela Aquino Neves Baxhix",NULL,NULL,NULL,baxhix@hotmail.com,NULL,NULL,NULL,NULL,"Jd. Aquarius",SJCampos,NULL
+479,"Isabela Carlos da Silva",NULL,NULL,NULL,beladasilva@uol.com.br,NULL,NULL,NULL,NULL,Urbanova,Sjcampos,NULL
+480,"Isabela do Vale",NULL,NULL,NULL,bebela-vale@hotmail.com,NULL,NULL,NULL,NULL,"Jd Aquarius ","São josé dos Campos",NULL
+481,"Isabela Ribeiro Matias Pereira",NULL,NULL,NULL,matias-ais@ig.com.br,NULL,NULL,NULL,NULL,Jd.Aquarius,SJCampos,NULL
+482,"Isabela Teixeira Arduini",NULL,NULL,NULL,isabelabelinha_53@hotmail.com,NULL,NULL,NULL,NULL,"Vl. Industrial",SJCampos,NULL
+483,"Isabella Marques Rodrigues",NULL,NULL,NULL,bellarodrigues@outlook.com.br,NULL,NULL,NULL,NULL,"Monte castelo",SJCampos,NULL
+484,"Isabella Vidal Garcez",NULL,NULL,NULL,isabellavidal.garcez@gmail.com,NULL,NULL,NULL,NULL,"Jardim das Nações","Taubaté ",NULL
+485,"Isadora Costa Carriço",NULL,NULL,NULL,"isadora carriço@hotmail.com",NULL,NULL,NULL,NULL,"Jd Esplanada",SJCampos,NULL
+486,"Isadora Espindola de Oliveira",NULL,NULL,NULL,espindolaisadora06@gmail.com,NULL,NULL,NULL,NULL,"Vila Adyana","SJCampos ",NULL
+487,"Ivanete Mendes de Matos",NULL,NULL,NULL,netemmatos@hotmail.com,NULL,NULL,NULL,NULL,"Jd. das Industrias",SJCampos,NULL
+488,"Ivani Ferreira da Silva",NULL,NULL,NULL,arq_ivaniferreira@yahoo.com,NULL,NULL,NULL,NULL,"Jd. Aquarius",SJCampos,NULL
+489,"Ivanice Faria",NULL,NULL,NULL,ivanice.faria@terra.com.br,NULL,NULL,NULL,NULL,"Jd. Aquarius ","São José dos Campos ",NULL
+490,"Ivanilce C P Faria",NULL,NULL,NULL,ivanilce.faria@terra.com.br,NULL,NULL,NULL,NULL,,SJCampos,NULL
+491,"Ivete Sescon da Silva Araujo",NULL,NULL,NULL,isescon@yahoo.com.br,NULL,NULL,NULL,NULL,"JD. Aquarios",SJCampos,NULL
+492,"Ivonete Pereira da Silva",NULL,NULL,NULL,ivonetepsilva@gmail.com,NULL,NULL,NULL,NULL,"Jd. Sateleite",SJCampos,NULL
+493,"Izabel Cristina Armani",NULL,NULL,NULL,isa_armani@yahoo.com.br,NULL,NULL,NULL,NULL,"Jd. Aquarius ","São José dos Campos",NULL
+494,"Izilda Maria Penedo Passos",NULL,NULL,NULL,izilda.passos@hotmail.com,NULL,NULL,NULL,NULL,"Jd. Esplanada",SJC,NULL
+495,"Jacqueline Costa Franco",NULL,NULL,NULL,kelinefranco@hotmail.com,NULL,NULL,NULL,NULL,"Jd. Aquarius",SJCampos,NULL
+496,"Jacqueline Ramalho da Silva",NULL,NULL,NULL,"Não possui E-Mail",NULL,NULL,NULL,NULL,"Jd. Augusta",SJCampos,NULL
+497,Janaína,NULL,NULL,NULL,janaina.nd11@hotmail.com,NULL,NULL,NULL,NULL,"Jd. das Industrias",SJCAMPOS,NULL
+498,"Janaina D. Souza",NULL,NULL,NULL,janasjk@gmail.com,NULL,NULL,NULL,NULL,"Jd. Aquarius","São José dos Campos",NULL
+499,"Janaina dos Santos Pereira",NULL,NULL,NULL,naina133@hotmail.com,NULL,NULL,NULL,NULL,,,NULL
+500,"Janaina Leandra Nardi de Oliveira",NULL,NULL,NULL,janaina.nardi@gmail.com,NULL,NULL,NULL,NULL,"Jd. Flórida",Jacareí,NULL
+501,"Janaina Novaes",NULL,NULL,NULL,"Não possui E-Mail",NULL,NULL,NULL,NULL,"Vila Adriana",SJCampos,NULL
+502,"Janaina Novais Lacerda Machado",NULL,NULL,NULL,lacerda.janaina@yahoo.com.br,NULL,NULL,NULL,NULL,Centro,Jacarei,NULL
+503,"Jefferson de Camargo Estevão",NULL,NULL,NULL,"E-Mail Inválido",NULL,NULL,NULL,NULL,"Vila São Pedro",SJCampos,NULL
+504,"Jefferson F Portella",NULL,NULL,NULL,portella99@hotmail.com,NULL,NULL,NULL,NULL,"Jd. Aquarius",SJCampos,NULL
+505,"Jefferson Fernandes Martins",NULL,NULL,NULL,jefernandes@hotmail.com,NULL,NULL,NULL,NULL,"V. Sao Pedro","SJCampos ",NULL
+506,"Jefferson Fernandes Portela",NULL,NULL,NULL,porttela99@hotmail.com,NULL,NULL,NULL,NULL,"Jd. Aquarius",SJCampos,NULL
+507,"Jefferson Willian de Andrade",NULL,NULL,NULL,"Não possui E-Mail",NULL,NULL,NULL,NULL,"Altos do Esplanada",SJCAMPOS,NULL
+508,"Jeryceia Alves Chaves dos Santos",NULL,NULL,NULL,alvescr@bol.com.br,NULL,NULL,NULL,NULL,"Jd. América",SJcampos,NULL
+509,"Jessica Bianca Alvez Zucareli",NULL,NULL,NULL,jbiancaaz@gmail.com,NULL,NULL,NULL,NULL,"Pq. Interlagos",SJCampos,NULL
+510,"Jessica Christine Camões",NULL,NULL,NULL,jessicacamoes@gmail.com,NULL,NULL,NULL,NULL,Centro,SJCampos,NULL
+511,"Jéssica Fagundes",NULL,NULL,NULL,"Não possui E-Mail",NULL,NULL,NULL,NULL,"Jd. resende",SJCampos,NULL
+512,"Jessica Fagundes Policarpo Pinto",NULL,NULL,NULL,kinha2909@hotmail.com,NULL,NULL,NULL,NULL,"Jd. América"," São josé dos Campos",NULL
+513,"Jéssica Helena Nunes",NULL,NULL,NULL,jess-helena.sjc@bol.com.br,NULL,NULL,NULL,NULL,Santana,SJCampos,NULL
+514,"Jessica Malu Miraguaia Mendes Cesar",NULL,NULL,NULL,jessica_miraguaia@yahoo.com.br,NULL,NULL,NULL,NULL,,SJCampos,NULL
+515,"Jessica Rocha de Souza",NULL,NULL,NULL,jessicaunip@hotmail.com,NULL,NULL,NULL,NULL,"Jd Aquarius",SJCampos,NULL
+516,"Jéssica Santos Nogueira",NULL,NULL,NULL,jessica_santosnogueira@hotmail.com,NULL,NULL,NULL,NULL,,SJC,NULL
+517,"Joana Dora S. da Silva",NULL,NULL,NULL,joana_dora@hotmail.com,NULL,NULL,NULL,NULL,"Vl. Adyanna",SJCampos,NULL
+518,"Jose Verginio dos Santos",NULL,NULL,NULL,verginio@acavale.com.br,NULL,NULL,NULL,NULL,"JD. industrias",SJCAmpos,NULL
+519,"Joseane Goulart Dellamonica",NULL,NULL,NULL,joseane_goulart@hotmail.com,NULL,NULL,NULL,NULL,"Jd. Aquarius",SJCampos,NULL
+520,"Josefina M. S. Assad",NULL,NULL,NULL,jjosy.09@hotmail.com,NULL,NULL,NULL,NULL,"Bosque dos Eucaliptos",SJCampos,NULL
+521,"Joverci Rodrigues",NULL,NULL,NULL,joverci10@yahoo.com.br,NULL,NULL,NULL,NULL,"Jardim Olimpia","Santa Branca",NULL
+522,"Joyce Ramos Rodrigues",NULL,NULL,NULL,joycespitti@hotmail.com,NULL,NULL,NULL,NULL,Aquarios,"São José dos Campos",NULL
+523,"Jucelia Cristina dos Santos",NULL,NULL,NULL,santos.jucelia@hotmail.com,NULL,NULL,NULL,NULL,"Jd. Augusta",SJCampos,NULL
+524,"Juciara Aparecida Pereira",NULL,NULL,NULL,jociara_apr@hotmail.com,NULL,NULL,NULL,NULL,"Jd. Satelite",SJCampos,NULL
+525,"Julia Resende Rodrigues",NULL,NULL,NULL,juliarez@terra.com.br,NULL,NULL,NULL,NULL,"Jd. Alvorada",SJCampos,NULL
+526,"Juliana Arantes Martinez Ramos",NULL,NULL,NULL,juliana_ia2004@yahoo.com.br,NULL,NULL,NULL,NULL,,,NULL
+527,"Juliana Carvalho Hirayama",NULL,NULL,NULL,"E-Mail Inválido",NULL,NULL,NULL,NULL,"Centro ",Jacarei,NULL
+528,"Juliana Cristina B. Negrão Palma,410",NULL,NULL,NULL,ovar@itelefonica.com.br,NULL,NULL,NULL,NULL,"Jd. Satelite",SJCampos,NULL
+529,"Juliana Cursino Brás",NULL,NULL,NULL,"Não possui E-Mail",NULL,NULL,NULL,NULL,Jd.Ismenia,SJCampos,NULL
+530,"Juliana de Godoy Silva",NULL,NULL,NULL,juhfisio@yahoo.com.br,NULL,NULL,NULL,NULL,,,NULL
+531,"Juliana Francoloso Silva Gonçalves",NULL,NULL,NULL,julianafrancolozo@hotmail.com,NULL,NULL,NULL,NULL,"Jd. Aquarius",SJCampos,NULL
+532,"Juliana Guimarães Andrade",NULL,NULL,NULL,guimaraes_andrade@yahoo.com.br,NULL,NULL,NULL,NULL,"Jd. Valparaiba","São José dos Campos",NULL
+533,"Juliana M. D. das Neves",NULL,NULL,NULL,juprojetos2011@hotmail.com,NULL,NULL,NULL,NULL,"Jd. Aquarius",SJCampos,NULL
+534,"Juliana Martins da Silva",NULL,NULL,NULL,"E-Mail Inválido",NULL,NULL,NULL,NULL,"Jd. Del Rey",SJCampos,NULL
+535,"Juliana Maximo Ribeiro",NULL,NULL,NULL,julianamaximor@gmail.com,NULL,NULL,NULL,NULL,,SJCampos,NULL
+536,"Juliana Peres de Barros",NULL,NULL,NULL,juliana_p13@yahoo.com.br,NULL,NULL,NULL,NULL,Urbanova,SJCampos,NULL
+537,"Juliana Sampaio",NULL,NULL,NULL,luciana.sampaio@pisovale.com.br,NULL,NULL,NULL,NULL,Urbanova,SJCampos,NULL
+538,"Juliana Vidal de Paula",NULL,NULL,NULL,julianapaula84@yahoo.com.br,NULL,NULL,NULL,NULL,"Jd. das Colinas",SJCampos,NULL
+539,"Juliane Marcele Moro Cuoghi",NULL,NULL,NULL,julianemoro@mgm-ts.com.br,NULL,NULL,NULL,NULL,,,NULL
+540,"Juliane Schmidt",NULL,NULL,NULL,julianeschimidtsouza@hotmail.com,NULL,NULL,NULL,NULL,"Jd.Altos de Santana","São José dos Campos",NULL
+541,"Juraci Aparecida Nogueira Silva",NULL,NULL,NULL,"Não possui E-Mail",NULL,NULL,NULL,NULL,"Jd. Aquarius","São José dos Campos",NULL
+542,"Kacy Lin",NULL,NULL,NULL,kacylin@tvglobo.com.br,NULL,NULL,NULL,NULL,"Jd. Paulistano","São Paulo",NULL
+543,"Kareen Patrícia Bandeira Pereira Ferreira",NULL,NULL,NULL,kareen_ferreira@yahoo.com.br,NULL,NULL,NULL,NULL,Urbanova,"São José dos Campos",NULL
+544,"Karen da Costa Santos Gonzaga",NULL,NULL,NULL,karen_csantos@yahoo.com.br,NULL,NULL,NULL,NULL,"Jd. Oriente",SJCampos,NULL
+545,"Karen Janaina da Silva",NULL,NULL,NULL,karen.anjo21@gmail.com,NULL,NULL,NULL,NULL,"Palmeiras de Sao Jose",SJC,NULL
+546,"Karin Lin",NULL,NULL,NULL,karinlin10@gmail.com,NULL,NULL,NULL,NULL,"Jd Esplanada",SJCampos,NULL
+547,"Karin Linhares e Silva",NULL,NULL,NULL,karinlinhares@bol.com.br,NULL,NULL,NULL,NULL,,,NULL
+548,"Karina Bueno Francisco",NULL,NULL,NULL,karina.bueno.francisco@hotmail.com,NULL,NULL,NULL,NULL,"Vila Ema",SJCampos,NULL
+549,"Karina Sampaio de Andrade",NULL,NULL,NULL,karindrade@hotmail.com,NULL,NULL,NULL,NULL,Centro,SJCampos,NULL
+550,"Karina Sanches Garcia",NULL,NULL,NULL,ksanchesgarcia@yahoo.com.br,NULL,NULL,NULL,NULL,"Vila Jaci",SJCampos,NULL
+551,"Karine F. Reis Gavioli",NULL,NULL,NULL,"Não possui E-Mail",NULL,NULL,NULL,NULL,Urbanova,SJCampos,NULL
+552,"Karine M. Felix",NULL,NULL,NULL,"Não possui E-Mail",NULL,NULL,NULL,NULL,"Jardim Estoril",SJCAmpos,NULL
+553,"Karla Izabella S. Bandeira",NULL,NULL,NULL,kizabella@hotmail.com,NULL,NULL,NULL,NULL,"Jd. Aquarius",SJCampos,NULL
+554,"Karla Maria Paiva de Carvalho",NULL,NULL,NULL,karla.p.carvalho@uol.com.br,NULL,NULL,NULL,NULL,"Jd. Aquarius",SJCampos,NULL
+555,"Katia Aparecida Silva Florencio",NULL,NULL,NULL,katiaflorencio8@hotmail.com,NULL,NULL,NULL,NULL,"Jd. Aquarius",SJCAMPOS,NULL
+556,"Kátia Kellen Assis Lima",NULL,NULL,NULL,katia.kelen@yahoo.com.br,NULL,NULL,NULL,NULL,Jd.Motorama,SJCampos,NULL
+557,"Keila Aparecida Diniz Rocha",NULL,NULL,NULL,klkdini7@gmail.com,NULL,NULL,NULL,NULL,"Jd. Aquarius",SJCampos,NULL
+558,"Keila Baruel",NULL,NULL,NULL,keilabaruel@gmail.com,NULL,NULL,NULL,NULL,Jd.Satelite,SJC,NULL
+559,"Keila Cristiane de Medeiros",NULL,NULL,NULL,kcmedeiros83@gmail.com,NULL,NULL,NULL,NULL,"Jd. Oriente",SJCampos,NULL
+560,"Keila de Aquino Araujo Dumas",NULL,NULL,NULL,kei_dumas@yahoo.com.br,NULL,NULL,NULL,NULL,"Pq. Industrial","São José dos Campos",NULL
+561,"Keley Fróes de Castro Macedo",NULL,NULL,NULL,kcastro23@hotmail.com,NULL,NULL,NULL,NULL,"Vl Guaianases",SJCampos,NULL
+562,"Keller Sanches Garcia",NULL,NULL,NULL,kelsanches@yahoo.com.br,NULL,NULL,NULL,NULL,"Jd. Aquarius",SJCampos,NULL
+563,"Kelly  Takiu",NULL,NULL,NULL,kellyjag@yahoo.com,NULL,NULL,NULL,NULL,Urbanova,SJCampos,NULL
+564,"Kelly Lúcia Carneiro Arantes",NULL,NULL,NULL,carneirokelly3@gmail.com,NULL,NULL,NULL,NULL,"Jd. Aquarius",SJCampos,NULL
+565,"Kelly Vasconcelos Porta",NULL,NULL,NULL,kelly.vasc@hotmail.com,NULL,NULL,NULL,NULL,"Vila Ema ",SJCampos,NULL
+566,"Kellyn Cristina Ricardo de Queiroz",NULL,NULL,NULL,kellyn_ricardo@hotmail.com,NULL,NULL,NULL,NULL,"Vila Branca",SJCampos,NULL
+567,"Kethlyn Ferraz de Souza Ivo",NULL,NULL,NULL,ketferraz@yahoo.com.br,NULL,NULL,NULL,NULL,"N. Florida",SJCampos,NULL
+568,"Laís Campos Arenari",NULL,NULL,NULL,lalinha_eco@hotmail.com,NULL,NULL,NULL,NULL,"Jd. das Industrias",SJCampos,NULL
+569,"Lais Jardim Selga",NULL,NULL,NULL,lais.jardim@ig.com.br,NULL,NULL,NULL,NULL,"Vila Tatetuba",SJCAMPOS,NULL
+570,"Lais Machado Cardoso",NULL,NULL,NULL,laismcardoso@gmail.com,NULL,NULL,NULL,NULL,"Jd Alvorada","São josé dos Campos",NULL
+571,"Laís Pereira Rossi",NULL,NULL,NULL,laisrossi@live.com,NULL,NULL,NULL,NULL,"Jd. Aquarius",SJCampos,NULL
+572,"Lara Gabriela Pereira",NULL,NULL,NULL,"Não possui E-Mail",NULL,NULL,NULL,NULL,Urbanova,SJCampos,NULL
+573,"Lara Tavares Rigobello",NULL,NULL,NULL,larafono@gmail.com,NULL,NULL,NULL,NULL,Morumbi,SJCampos,NULL
+574,"Larissa Almeida da Silva",NULL,NULL,NULL,larissaleandro@terra.com.br,NULL,NULL,NULL,NULL,"Campos de São José","São José dos Campos",NULL
+575,"Larissa Alves Reis de Almeida",NULL,NULL,NULL,larissaalves@yahoo.com.br,NULL,NULL,NULL,NULL,Urbanova,"São José dos Campos",NULL
+576,"Larissa Alves Souto",NULL,NULL,NULL,larissaalvessouto@gmail.com,NULL,NULL,NULL,NULL,Urbanova,SJCampos,NULL
+577,"Larissa Berlato",NULL,NULL,NULL,laberlato@hotmail.com,NULL,NULL,NULL,NULL,"Jd. Maringa",SJCampos,NULL
+578,"Larissa Carvalho Miragaia Costa",NULL,NULL,NULL,larissamiragaia@hotmail.com,NULL,NULL,NULL,NULL,"Jd. Aquarius",SJcampos,NULL
+579,"Larissa de Oliveira Amado Moreira",NULL,NULL,NULL,rosana_aoalmeida@hotmail.com,NULL,NULL,NULL,NULL,"Jd. Aquarios","SJCampos ",NULL
+580,"Larissa Machado Cardoso",NULL,NULL,NULL,lari001@gmail.com,NULL,NULL,NULL,NULL,"Jd. Aquarius","São José dos Campos",NULL
+581,"Laura Barcia de C. Gonçalves",NULL,NULL,NULL,laura_barcio@hotmail.com,NULL,NULL,NULL,NULL,Aquarius,SJCampos,NULL
+582,"Laura Cursino da Silva",NULL,NULL,NULL,mp22@uol.com.br,NULL,NULL,NULL,NULL,"Bosque dos Eucaliptos ","São José dos Campos",NULL
+583,"Laura Linhares e Silva",NULL,NULL,NULL,luaralinhares@bol.com,NULL,NULL,NULL,NULL,"Vila Adyana",SJCampos,NULL
+584,"Laura Nunes Mendes",NULL,NULL,NULL,"Não possui E-Mail",NULL,NULL,NULL,NULL,"Jd. Aquarius",SJCAMPOS,NULL
+585,"Laura Rodrigues Figueiredo da Silva",NULL,NULL,NULL,laurarfs@gmail.com,NULL,NULL,NULL,NULL,"Vila Adyana",SJCampos,NULL
+586,"Leandra Gonçalves Leite Meneses",NULL,NULL,NULL,leandra.sjc@gmail.com,NULL,NULL,NULL,NULL,"Bosque Dos Eucaliptos",SJCampos,NULL
+587,"Leandro Lopes Batista",NULL,NULL,NULL,larissaleandro@terra.com.br,NULL,NULL,NULL,NULL,Urbanova,SJCampos,NULL
+588,"Leda - Maria Lucileide Bessa",NULL,NULL,NULL,ledabessa@hotmail.com,NULL,NULL,NULL,NULL,"Eug. Melo",SJCampos,NULL
+589,"Leila Sales de Araujo",NULL,NULL,NULL,leilla_sa@hotmail,NULL,NULL,NULL,NULL,Centro,SJCampos,NULL
+590,"Lenita Stefa Figueiredo",NULL,NULL,NULL,lenitsfigueiredo@hotmail.com,NULL,NULL,NULL,NULL,Jd.Aquarios,"São José dos Campos",NULL
+591,"Leomar de Jesus Lima",NULL,NULL,NULL,maralimamartins@hotmail.com,NULL,NULL,NULL,NULL,Urbanova,SJCampos,NULL
+592,"Leonardo Gustavo Alves",NULL,NULL,NULL,ghostleo@live.com,NULL,NULL,NULL,NULL,"Bosque Eucaliptos",SJCAMPOS,NULL
+593,"Leonardo Saloni do Amaral",NULL,NULL,NULL,leonardo.saloni@castelloseguros.com.br,NULL,NULL,NULL,NULL,"Vila Maria"," SJCAmpos",NULL
+594,"Leticia Fernanda C. Molina",NULL,NULL,NULL,lefernanda@yahoo.com.br,NULL,NULL,NULL,NULL,"Jd. Santa Maria",Jacarei,NULL
+595,"Leticia Sartori Thiago Benozzati",NULL,NULL,NULL,"Não possui E-Mail",NULL,NULL,NULL,NULL,"Vila Ema",SJCampos,NULL
+596,"Lia Blanco Fernandes",NULL,NULL,NULL,blancolia@yahoo.com.br,NULL,NULL,NULL,NULL,"Vila Adyana",SJCampos,NULL
+597,"Liandra Maria Figueira Madalena",NULL,NULL,NULL,madalena_liandra@hotmail.com,NULL,NULL,NULL,NULL,Mantiqueira,Pindamonhangaba,NULL
+598,"Liane Sati Nagai",NULL,NULL,NULL,lianenagari@ig.com.br,NULL,NULL,NULL,NULL,"Parque Senhor do Bonfim",Taubaté,NULL
+599,"Ligia Maria Costa Pelegrini",NULL,NULL,NULL,ligiapelegrini@hotmail.com,NULL,NULL,NULL,NULL,"Jd. Aquarius",SJCampos,NULL
+600,"Ligia S. Tiago da Silva Torres",NULL,NULL,NULL,ligia.s.tiago@gmail.com,NULL,NULL,NULL,NULL,"Jd. Aquarius",SJCampos,NULL
+601,"Lilian Costa Anami",NULL,NULL,NULL,lianami@gmail.com,NULL,NULL,NULL,NULL,,,NULL
+602,"Lilian P. Cruz",NULL,NULL,NULL,Lilian_frances@gmail.com,NULL,NULL,NULL,NULL,"Vila Industrial",SJCampos,NULL
+603,"Lilian Regina Barbosa Pereira",NULL,NULL,NULL,lilian.regina08@gmail.com,NULL,NULL,NULL,NULL,"Jd. das Industrias","São José dos Campos ",NULL
+604,"Liliana Maria Pereira",NULL,NULL,NULL,"Não possui E-Mail",NULL,NULL,NULL,NULL,,,NULL
+605,"Liliane de Oliveira Alcantara Correa",NULL,NULL,NULL,lilianeoalcantara@hotmail.com,NULL,NULL,NULL,NULL,"Vila Ema",SJCampos,NULL
+606,"Liliane Pilotto Pereira",NULL,NULL,NULL,liliane@turix.com.br,NULL,NULL,NULL,NULL,"Nova Jacarei",Jacarei,NULL
+607,"Liria V. Machado",NULL,NULL,NULL,"Não possui E-Mail",NULL,NULL,NULL,NULL,,,NULL
+608,"Liv Roberta Alves Bessa",NULL,NULL,NULL,lilibessa@yahoo.com.br,NULL,NULL,NULL,NULL,"Jd. Aquarius",SJCampos,NULL
+609,"Livia Barcia de Carvalho Gonçalves",NULL,NULL,NULL,"Não possui E-Mail",NULL,NULL,NULL,NULL,"Jd. Aquarius",SJCampos,NULL
+610,"Livia Correia Tinoco",NULL,NULL,NULL,livia_correia@yahoo.com.br,NULL,NULL,NULL,NULL,"Cidade Salvador",Jacarei,NULL
+611,"Livian Cristina de Oliveira Barbosa",NULL,NULL,NULL,livian.barbosa@hotmail.com,NULL,NULL,NULL,NULL,"Jd. das Industrias",SJCampos,NULL
+612,"Louise Helene Lopes Batista",NULL,NULL,NULL,"Não possui E-Mail",NULL,NULL,NULL,NULL,,,NULL
+613,"Luana Marques",NULL,NULL,NULL,lluanama@hotmail.com,NULL,NULL,NULL,NULL,,SJCampos,NULL
+614,"Luana Pereira do Amaral",NULL,NULL,NULL,lu_x001F__amaral2@yahool.com.br,NULL,NULL,NULL,NULL,"Jd. Aquarius",SJCampos,NULL
+615,"Lucas Barros Vierira",NULL,NULL,NULL,d.2201@hotmail.com,NULL,NULL,NULL,NULL,"Jd. Aquarius","SJCampos ",NULL
+616,"Lucas Emidio Roque",NULL,NULL,NULL,lucaserds@gmail.com,NULL,NULL,NULL,NULL,"Jd. Aquarius","São josé dos Campos",NULL
+617,"Lucia Helena Caetano",NULL,NULL,NULL,"Não possui E-Mail",NULL,NULL,NULL,NULL,,"campinas ",NULL
+618,"Luciana Gil de Castro Jorge",NULL,NULL,NULL,lucianagc@hotmail.com,NULL,NULL,NULL,NULL,"Vila Ema",SJCampos,NULL
+619,"Luciana Gonçalves C. Leite",NULL,NULL,NULL,lucianachimello@ig.com.br,NULL,NULL,NULL,NULL,"Jd. Vale do Sol",SJCampos,NULL
+620,"Luciana Guerhart da Costa",NULL,NULL,NULL,lucianaguerhart@yahoo.com.br,NULL,NULL,NULL,NULL,"Jd. Aquarius","São José dos Campos",NULL
+621,"Luciana Lopes de Lima",NULL,NULL,NULL,"Não possui E-Mail",NULL,NULL,NULL,NULL,Centro,Jacareí,NULL
+622,"Luciana Maria de A. Antunes",NULL,NULL,NULL,luantunes2007@hotmail.com,NULL,NULL,NULL,NULL,"Comj. 31 de Março",SJCampos,NULL
+623,"Luciana Marques Goulart",NULL,NULL,NULL,luciana_mgoulart@hotmail.com,NULL,NULL,NULL,NULL,Urbanova,SJCampos,NULL
+624,"Luciana Nicolodi",NULL,NULL,NULL,lnicolodi@gmail.com,NULL,NULL,NULL,NULL,"Jd. Esplanada",SJCampos,NULL
+625,"Luciana Quadros da Silva",NULL,NULL,NULL,luquadrosilva@yahoo.com.br,NULL,NULL,NULL,NULL,"Jd. Aquarius",SJCampos,NULL
+626,"Luciana S. Ribeiro Cerqueira Leite",NULL,NULL,NULL,mauroccleite@hotmail.com,NULL,NULL,NULL,NULL,"Jd. Industrias ","São José dos Campos",NULL
+627,"Luciana Sampaio de Carvalho",NULL,NULL,NULL,luciana.sampaio@pisovale.com.br,NULL,NULL,NULL,NULL,"Jd. Aquarius",SJCampos,NULL
+628,"Luciana Silva Tona",NULL,NULL,NULL,lucianatona@gmail.com,NULL,NULL,NULL,NULL,"Vila Ema",SJCampos,NULL
+629,"Luciana Spolon Maciel",NULL,NULL,NULL,luciana.spolon@bol.com.br,NULL,NULL,NULL,NULL,"Jd. Aquarius",SJCampos,NULL
+630,"Luciane Campos de Oliveira",NULL,NULL,NULL,lucampos@hotmail.com,NULL,NULL,NULL,NULL,"Jd. Esplanada",SJCampos,NULL
+631,"Luciane P. Cruz",NULL,NULL,NULL,lucianecruznogueir@gmail.com,NULL,NULL,NULL,NULL,"Vila Rosi",SJCampos,NULL
+632,"Luciano Malaquias da Silva",NULL,NULL,NULL,lucipepo@hotmail.com,NULL,NULL,NULL,NULL,"Jd. Aquarius",S.J.Campos,NULL
+633,"Luciano Soares Silva",NULL,NULL,NULL,lussjac@hotmail.com,NULL,NULL,NULL,NULL,"Jd. Santa Maria",SJCampos,NULL
+634,"Luciene de Oliveira",NULL,NULL,NULL,lunna-mu@hotmail.com,NULL,NULL,NULL,NULL,"Parque Santo Antonio",Jacarei,NULL
+635,"Lucilene Aparecida das Neves de Farias",NULL,NULL,NULL,Lucileneneves@ibest.com.br,NULL,NULL,NULL,NULL,"JD Val Paraiba",SJCampos,NULL
+636,"Lucimar Lopes Carneiro Lima",NULL,NULL,NULL,repmara@bol.com.br,NULL,NULL,NULL,NULL,"Jd. Colinas",SJCampos,NULL
+637,"Lucimara Bernadino Rosa",NULL,NULL,NULL,lucimarab.rosa@ig.com.br,NULL,NULL,NULL,NULL,"Res. União",SJCampos,NULL
+638,"Lucy Mara Salin Mendes",NULL,NULL,NULL,lucy.mendes@gmail.com,NULL,NULL,NULL,NULL,CTA,SJC,NULL
+639,"Ludmila Mendes Ferreira",NULL,NULL,NULL,ludmilamf12@hotmail.com,NULL,NULL,NULL,NULL,"Bosque Eucaliptos",SJCampos,NULL
+640,"Luis Cesar Pereira Moraes",NULL,NULL,NULL,lcmoraes@gmail.com,NULL,NULL,NULL,NULL,Urbanova,SJCampos,NULL
+641,"Luisa Billa Santos Amaral",NULL,NULL,NULL,luisabilla@hotmail.com,NULL,NULL,NULL,NULL,Jd.Colinas,SJCampos,NULL
+642,"Luisa Kalvala Nagata",NULL,NULL,NULL,lkalvala@yahoo.com.br,NULL,NULL,NULL,NULL,"Jd. Aquarius",SJCampos,NULL
+643,"Luisa Oliveira Vilela dos Reis",NULL,NULL,NULL,luisareis94@hotmail.com,NULL,NULL,NULL,NULL,"Jd. Aquarius",SJCampos,NULL
+644,"Luiz Fabio Machado",NULL,NULL,NULL,lfmachado.39@hotmail.com,NULL,NULL,NULL,NULL,"Jardim Osvaldo Cruz",SJCAmpos,NULL
+645,"Luiz Moisés Kfouri Junior",NULL,NULL,NULL,juniorkfouri@pisovale.com.br,NULL,NULL,NULL,NULL,"Jd. Esplanada",SJCampos,NULL
+646,"Luiza Nogueira Gonçalves Fernandes Mota Mello",NULL,NULL,NULL,luiza-nogueira@hotmail.com,NULL,NULL,NULL,NULL,"Jd. Aquarius",SJCampos,NULL
+647,"Luiza O. de Castro",NULL,NULL,NULL,"Não possui E-Mail",NULL,NULL,NULL,NULL,"Pq. Industrial",SJCampos,NULL
+648,"Magda Regina Lopes Marques",NULL,NULL,NULL,magda.rlm@hotmail.com,NULL,NULL,NULL,NULL,"Jd. Aquarius",SJCampos,NULL
+649,"Mahara Noses de Farias",NULL,NULL,NULL,Lucilene_Mahara@hotmail.com,NULL,NULL,NULL,NULL,"Val Paraiba",SJcampos,NULL
+650,"Maiara Carvalho da Silva",NULL,NULL,NULL,maiara.carvalho@gmail.com,NULL,NULL,NULL,NULL,"Jd. Satélite",SJCampos,NULL
+651,"Maiara M. Melo",NULL,NULL,NULL,mamunhoes@hotmail.com,NULL,NULL,NULL,NULL,"Jd. São Dimas",SJCampos,NULL
+652,"Maiara Rodrigues Ramos Pinto",NULL,NULL,NULL,maiara.ramos@yahoo.com.br,NULL,NULL,NULL,NULL,"Jd. Satelite",SJCampos,NULL
+653,"Maira Malhone Dauanny",NULL,NULL,NULL,maira.malhone@hotmail.com,NULL,NULL,NULL,NULL,"Jd. Morumbi",SJCampos,NULL
+654,"Manielly Oliveira Vitor Ramos",NULL,NULL,NULL,moninha_apv@hotmail.com,NULL,NULL,NULL,NULL,"Jd. São José",Caçapava,NULL
+655,"Mara Andrea Moreira",NULL,NULL,NULL,deia-sscsp@yahoo.com.br,NULL,NULL,NULL,NULL,Urbanova,"SJCampos ",NULL
+656,"Mara Rúbia Carvalho",NULL,NULL,NULL,mrubiac6@hotmail.com,NULL,NULL,NULL,NULL,"Jd. Colinas",SJCAMPOS,NULL
+657,"Marcela Almeida",NULL,NULL,NULL,"Não possui E-Mail",NULL,NULL,NULL,NULL,,,NULL
+658,"Marcela Costa Isack",NULL,NULL,NULL,ma_cost@hotmail.com,NULL,NULL,NULL,NULL,"Jd. Aquarius",SJCampos,NULL
+659,"Marcela Lilia Camargo",NULL,NULL,NULL,mcamargo@gmail.com,NULL,NULL,NULL,NULL,"Jd. Aquarius",SJCampos,NULL
+660,"Marcela Pereira da Costa Barros",NULL,NULL,NULL,jvamed@gmail.com,NULL,NULL,NULL,NULL,"jd aquarius",SJCampos,NULL
+661,"Marcela Ribeiro de Melo",NULL,NULL,NULL,ma.ribeiromelo@hotmail.com,NULL,NULL,NULL,NULL,"Santana ",SJCampos,NULL
+662,"Marcelo Cid Tadeu Garcia",NULL,NULL,NULL,marcelocidtadeu@gmail.com,NULL,NULL,NULL,NULL,"Santo Amaro","São Paulo",NULL
+663,"Marcelo Fernandes Ortiz",NULL,NULL,NULL,marcelo@atoadm.com.br,NULL,NULL,NULL,NULL,"Jd. Jaboticabeira",Taubaté,NULL
+664,"Marcia Bitencourt dos Santos",NULL,NULL,NULL,moulinsantos@hotmail.com,NULL,NULL,NULL,NULL,"Jd. Aquarius",SJCampos,NULL
+665,"Marcia Cristina Ferreira Teixeira",NULL,NULL,NULL,marciacfteixeira@ig.com.br,NULL,NULL,NULL,NULL,"Jd. Aquarius",SJCampos,NULL
+666,"Marcia de Oliveira Santos",NULL,NULL,NULL,marcia_osautos@hotmail.com,NULL,NULL,NULL,NULL,"Jd. Aquarius","São José dos Campos",NULL
+667,"Marcia de Paula Santos",NULL,NULL,NULL,marciadp@yahoo.com.br,NULL,NULL,NULL,NULL,"Jd. Bela Vista",SJCampos,NULL
+668,"Marcia Garcia",NULL,NULL,NULL,mag.maltos@uol.com.br,NULL,NULL,NULL,NULL,"JD. das Industrias",SJCampos,NULL
+669,"Márcia Moura",NULL,NULL,NULL,mamoura76@yahoo.com.br,NULL,NULL,NULL,NULL,"Jd. Aquarius",SJCampos,NULL
+670,"Marcia P. Santos",NULL,NULL,NULL,marciadp.@yahoo.com.br,NULL,NULL,NULL,NULL,"Vl. A. Augusto",Caçapava,NULL
+671,"Marcia Piassal de Mesquita Casagrande",NULL,NULL,NULL,mcasagrande42@yahoo.com.br,NULL,NULL,NULL,NULL,"Jd. Bela Vista",SJcampos,NULL
+672,"Márcia Regina Machado de Brito",NULL,NULL,NULL,brito.marcia2006@ig.com.br,NULL,NULL,NULL,NULL,"Vl Sanches",SJCampos,NULL
+673,"Marcia s .w.swaid",NULL,NULL,NULL,swaid.satomi@gmail.com,NULL,NULL,NULL,NULL,Santana,SJCampos,NULL
+674,"Marcia Schiochet de Azevedo",NULL,NULL,NULL,marciaschio@gmail.com,NULL,NULL,NULL,NULL,"Res. De Ville","São josé dos Campos",NULL
+675,"Marcio Fabio Cunha da Silva",NULL,NULL,NULL,mmsilva51@yahoo.com.br,NULL,NULL,NULL,NULL,"Jd. Aquarius",SJCampos,NULL
+676,"Marcio Leandro de Carvalho",NULL,NULL,NULL,lmarcioleandro@yahoo.com.br,NULL,NULL,NULL,NULL,"Jd. Aquarius",SJCampos,NULL
+677,"Marcio Miranda",NULL,NULL,NULL,pilotmiranda@hotmail.com,NULL,NULL,NULL,NULL,Centro,Jacareí,NULL
+678,"Marcio Miranda",NULL,NULL,NULL,pilotmiranda@hotmail.com,NULL,NULL,NULL,NULL,JD.SOUTO,S.J.CAMPOS,NULL
+679,"Marcio Ricardo Pereira",NULL,NULL,NULL,marcio.epc@gmail.com,NULL,NULL,NULL,NULL,"Jd. Industrias",SJCAmpos,NULL
+680,"Marco Antonio Ferraz de Carvalho",NULL,NULL,NULL,marcoferrazcarvalho@gmal.com,NULL,NULL,NULL,NULL,"Jd. Satélite","São José dos Campos",NULL
+681,"Marcos Paulo Portugal da Silva",NULL,NULL,NULL,marcos_portugal@hotmail.com,NULL,NULL,NULL,NULL,"Jd: São Dimas","São José dos Campos",NULL
+682,"Marcos Paulo Vieira Mendes",NULL,NULL,NULL,mendes.mr@terra.com.br,NULL,NULL,NULL,NULL,"Jd. Industrias",SJCampos,NULL
+683,"Maressa Tafnes Zózimo da Silva",NULL,NULL,NULL,maressatafnes@gmail.com,NULL,NULL,NULL,NULL,"Jd.Santa Luzia ","São josé dos Campos",NULL
+684,"Margarete Flavia de F Camurça",NULL,NULL,NULL,magedu@ibest.com.br,NULL,NULL,NULL,NULL,"Jd estoril",SJCampos,NULL
+685,"Maria Angelita Bezerra",NULL,NULL,NULL,"Não possui E-Mail",NULL,NULL,NULL,NULL,,,NULL
+686,"Maria Aparecida Araujo de Oliveira",NULL,NULL,NULL,cidasjc0@gmail.com,NULL,NULL,NULL,NULL,Tatetuba,"São José dos Campos",NULL
+687,"Maria Aparecida Bernardes",NULL,NULL,NULL,cidabernardes@hotmail.com,NULL,NULL,NULL,NULL,,,NULL
+688,"Maria Aparecida Costa Pedroso",NULL,NULL,NULL,cidapedroso2010@hotmail.com,NULL,NULL,NULL,NULL,"Jd. Emilia",Jacarei,NULL
+689,"Maria Aparecida Gonçalves",NULL,NULL,NULL,"Não possui E-Mail",NULL,NULL,NULL,NULL,"V. Rubi",SJCampos,NULL
+690,"Maria Auxiliadora D Silva",NULL,NULL,NULL,madoras@uol.com.br,NULL,NULL,NULL,NULL,"Jd. Estoril","São josé dos Campos",NULL
+691,"Maria Betania Jesus dos Santos",NULL,NULL,NULL,m.betaniasantos@uol.com.br,NULL,NULL,NULL,NULL,massaguaçú,Caraguatatuba,NULL
+692,"Maria Cecilia Parente C. M. Silva",NULL,NULL,NULL,ceciliaparentee@hotmail.com,NULL,NULL,NULL,NULL,"Jd. Aquarius",SJCampos,NULL
+693,"Maria Celia Andrade Vitta",NULL,NULL,NULL,mcvitta2009@hotmail.com,NULL,NULL,NULL,NULL,Centro,Jacarei,NULL
+694,"Maria Celia Campos Arenari",NULL,NULL,NULL,mariaceliacampos@hotmail.com,NULL,NULL,NULL,NULL,"Jd. Aquarius",SJcampos,NULL
+695,"Maria Célia Galvão Santos",NULL,NULL,NULL,"Não possui E-Mail",NULL,NULL,NULL,NULL,"Jd. Esplanada","São José dos Campos",NULL
+696,"Maria Célia Rodrigues de Castro",NULL,NULL,NULL,celiamrc@hotmail.com,NULL,NULL,NULL,NULL,"Jd. Aquarius",SJCampos,NULL
+697,"Maria Cristina S. de Oliveira",NULL,NULL,NULL,"Não possui E-Mail",NULL,NULL,NULL,NULL,Urbanova,SJCampos,NULL
+698,"Maria da Conceiçao Silva",NULL,NULL,NULL,marycampos.engenharia@hotmail.com,NULL,NULL,NULL,NULL,"Jd. Aquarius",SJCampos,NULL
+699,"Maria das Graças Cubi Noqueira",NULL,NULL,NULL,"Não possui E-Mail",NULL,NULL,NULL,NULL,"Jd. Aquarius",SJCampos,NULL
+700,"Maria de Fatima B. Holanda",NULL,NULL,NULL,"Não possui E-Mail",NULL,NULL,NULL,NULL,"Jd. Aquarius",SJCampos,NULL
+701,"Maria de Fátima Ribeiro",NULL,NULL,NULL,fa_ribe@hotmail.com,NULL,NULL,NULL,NULL,Urbanova,SJCampos,NULL
+702,"Maria de Lourdes Moura da Silva",NULL,NULL,NULL,lourdesmoura74@gmail.com,NULL,NULL,NULL,NULL,,SJCampos,NULL
+703,"Maria de Lourdes Pimentel",NULL,NULL,NULL,"E-Mail Inválido",NULL,NULL,NULL,NULL,"Parque Industrial","São José dos Campos",NULL
+704,"Maria Del Pilar Tin",NULL,NULL,NULL,maritavv@hotmail.com,NULL,NULL,NULL,NULL,"Jd. Aquarius",SJCampos,NULL
+705,"Maria dos Chagas Vieira de Souza Barbosa",NULL,NULL,NULL,"Não possui E-Mail",NULL,NULL,NULL,NULL,"Vila Tatetuba",SJCampos,NULL
+706,"Maria Elizabeth dos Santos Piragine",NULL,NULL,NULL,upiragine@hotmail.com,NULL,NULL,NULL,NULL,Urbanova,SJCampos,NULL
+707,"Maria Fernanda Furlan Machado",NULL,NULL,NULL,fe_furlan25@hotmail.com,NULL,NULL,NULL,NULL,"Jd. Satelite",SJCampos,NULL
+708,"Maria Fernanda Paes S. Araujo",NULL,NULL,NULL,maria.fernandaps@yahoo.com.br,NULL,NULL,NULL,NULL,"Jd. Morumbi",S.J.Campos,NULL
+709,"Maria Isabel",NULL,NULL,NULL,izabel.botelho@yahoo.com.br,NULL,NULL,NULL,NULL,,,NULL
+710,"Maria José Moreira",NULL,NULL,NULL,mjmoreira2012@hotmail.com,NULL,NULL,NULL,NULL,"Jd. Aquarius",SJCampos,NULL
+711,"Maria Lourdes Santos Ribeiro Johansen",NULL,NULL,NULL,lourdes@johansenengenharia.com.br,NULL,NULL,NULL,NULL,Apollo,"São José dos Campos",NULL
+712,"Maria Lúcia da Silva",NULL,NULL,NULL,maria.silva@fundhas.org.br,NULL,NULL,NULL,NULL,"Jd. Aquarius",SJCampos,NULL
+713,"Maria Madalena G. Drummond",NULL,NULL,NULL,mada.drummond@gmail.com,NULL,NULL,NULL,NULL,"Vl Esther",SJCampos,NULL
+714,"Maria Neide M. Rosa",NULL,NULL,NULL,"Não possui E-Mail",NULL,NULL,NULL,NULL,"Jd. Ismenia",SJCampos,NULL
+715,"Maria Paula Portugal Gonzales",NULL,NULL,NULL,paula.p.gonzales@terra.com.br,NULL,NULL,NULL,NULL,centro,SJCampos,NULL
+716,"Maria Rozélia R. Alves",NULL,NULL,NULL,maria_roselia@ig.com.br,NULL,NULL,NULL,NULL,"Jd. Aquarius"," SJCampos",NULL
+717,"Maria Silvana Pereira",NULL,NULL,NULL,mariasilvanapereira@ymail.com,NULL,NULL,NULL,NULL,"Jd. Paulista",SJCampos,NULL
+718,"Maria Tereza F. Leite",NULL,NULL,NULL,teresaferleite@hotmail.com,NULL,NULL,NULL,NULL,Coqueiro,SJCampos,NULL
+719,"Maria Tereza W. S. Nasser",NULL,NULL,NULL,marytenasser@gmail.com,NULL,NULL,NULL,NULL,"Jd. Aquarius",SJCampos,NULL
+720,"Maria Valdirene Monteiro",NULL,NULL,NULL,maria.valdirene@embraer.com.br,NULL,NULL,NULL,NULL,"Jd. Colinas",SJCampos,NULL
+721,"Mariana Cardoso Torres",NULL,NULL,NULL,maritorresfin@hotmail.com,NULL,NULL,NULL,NULL,"Jd. Santa Júlia","São José dos Campos",NULL
+722,"Mariana Costa Cavalcante",NULL,NULL,NULL,mc2909@hotmail.com,NULL,NULL,NULL,NULL,"Bosque dos Eucaliptos",SJCampos,NULL
+723,"Mariana de Azevedo Ferraz",NULL,NULL,NULL,"Não possui E-Mail",NULL,NULL,NULL,NULL,"Jd. Aquarius ","São josé dos Campos",NULL
+724,"Mariana do Carmo",NULL,NULL,NULL,mariana_carmo@yahoo.com.br,NULL,NULL,NULL,NULL,"Jd. America",SJC,NULL
+725,"Mariana Lua Almeida Ferreira",NULL,NULL,NULL,mariana.lua.ferreira@gmail.com,NULL,NULL,NULL,NULL,,,NULL
+726,"Mariana M. Camera",NULL,NULL,NULL,marianec@hotmail.com,NULL,NULL,NULL,NULL,"Vila Industrial",SJCampos,NULL
+727,"Mariana Martim Sanches Ferreira",NULL,NULL,NULL,marimartinss7@hotmail.com,NULL,NULL,NULL,NULL,"Vila Hepacaré",Lorena,NULL
+728,"Mariana Pena Melo Azevedo Marques",NULL,NULL,NULL,marianasjc@gmail.com,NULL,NULL,NULL,NULL,"Jd. das Industrias",SJCampos,NULL
+729,"Mariane Cabral Assis Ribeiro",NULL,NULL,NULL,mariane.cabral@hotmail.com,NULL,NULL,NULL,NULL,"Jd. Esplanda",SJCAmpos,NULL
+730,"Mariane Ramos",NULL,NULL,NULL,ramos_maari@hotmail.com,NULL,NULL,NULL,NULL,"Bosque ","São josé dos Campos",NULL
+731,"Marilda Glaudio Gomes Morais",NULL,NULL,NULL,marildamorais@ig.com.br,NULL,NULL,NULL,NULL,Freitas,SJCampos,NULL
+732,"Marilda Lemos Duarte",NULL,NULL,NULL,duarte.marilda@hotmail.com,NULL,NULL,NULL,NULL,"bosque dos Eucaliptos",SJCampos,NULL
+733,"Marilia Machado Ribeiro",NULL,NULL,NULL,mah.coutinho269@gmail.com,NULL,NULL,NULL,NULL,"Vila Betania",SJCampos,NULL
+734,"Mariluci de Macedo",NULL,NULL,NULL,marilucidemacedo@hotmail.com,NULL,NULL,NULL,NULL,"Jd. Aquarius",SJCampos,NULL
+735,"Marina Faraco",NULL,NULL,NULL,marinafaracos@yahoo.com.br,NULL,NULL,NULL,NULL,Independencia,Taubate,NULL
+736,"Marina Gullo",NULL,NULL,NULL,marina_gullo@hotmail.com,NULL,NULL,NULL,NULL,"Urbanova ","São josé dos Campos ",NULL
+737,"Marina Maria Bandeira de Oliveira",NULL,NULL,NULL,marinabandeira@hotmail.com,NULL,NULL,NULL,NULL,"Jd. das Industrias",SJCampos,NULL
+738,"Marina R. de Moraes",NULL,NULL,NULL,marinarmoraes@hotmail.com,NULL,NULL,NULL,NULL,Jd.Aquarius,SJCampos,NULL
+739,"Marina Santini Luz",NULL,NULL,NULL,marymarina@yahoo.com,NULL,NULL,NULL,NULL,"Pq. Santo Antonio",SJCampos,NULL
+740,"Marina Vilas Boas Pires de Oliveira Marques",NULL,NULL,NULL,marinavbp@gmail.com,NULL,NULL,NULL,NULL,"jardim Satelte","São Jose dos Campos",NULL
+741,"Marisa Freitas da Silva",NULL,NULL,NULL,freitas.marisa@ymail.com,NULL,NULL,NULL,NULL,"Jd. Industrias",SJcampos,NULL
+742,"Marisa Pereira Vargas",NULL,NULL,NULL,marisavargas@imobiliariamaciel.com.br,NULL,NULL,NULL,NULL,"JD Aquarius",SJCampos,NULL
+743,"Marissol Ferraz Amaral Catrunfo",NULL,NULL,NULL,marisolferraz@hotmail.com,NULL,NULL,NULL,NULL,"Vila Branca",SJCampos,NULL
+744,"Mariuscha de Rezende Bernardes",NULL,NULL,NULL,MariuschaRB@terracom.br,NULL,NULL,NULL,NULL,"Jd. Aquarius",Sjcampos,NULL
+745,"Marlete Sousa Ramos de Almeida",NULL,NULL,NULL,"Não possui E-Mail",NULL,NULL,NULL,NULL,"Jd. das Colinas",SJCampos,NULL
+746,"Marli dos Santos Martins Barros",NULL,NULL,NULL,marlism.barros@gmail.com,NULL,NULL,NULL,NULL,"Altos de Santana",SJCampos,NULL
+747,"Marli Sant'anna",NULL,NULL,NULL,marli24santana@gmail.com,NULL,NULL,NULL,NULL,"Bosque dos Eucaliptos",SJCampos,NULL
+748,"Marta Gomes de Moura Anadeto",NULL,NULL,NULL,martagomes.anadeto@gmail.com,NULL,NULL,NULL,NULL,"Jd. CPWA",Caçapava,NULL
+749,"Martha Naomi Matsumura",NULL,NULL,NULL,marthamatsumura@gmail.com,NULL,NULL,NULL,NULL,"Urbanova ","São josé dos Campos",NULL
+750,"Mary Jane de Oliveira",NULL,NULL,NULL,mjoli_1@hotmail.com,NULL,NULL,NULL,NULL,"Eugenio de Mello",SJCampos,NULL
+751,"Matheus de Freitas Motta",NULL,NULL,NULL,afreitasmotta@yahoo.com,NULL,NULL,NULL,NULL,Urbanova,SJCasmpos,NULL
+752,"Maura Stagi Lessa",NULL,NULL,NULL,maurastagi@hotmail.com,NULL,NULL,NULL,NULL,"Vila Industrial","São José dos Campos",NULL
+753,"Mayara Cristine Bossolane dos Santos",NULL,NULL,NULL,mayara_phn@yahoo.com.br,NULL,NULL,NULL,NULL,"Jd. Apollo",SJC,NULL
+754,"Mayla Alves Silva dos Santos",NULL,NULL,NULL,mayla.alves@hotmail.com,NULL,NULL,NULL,NULL,"Bosque dos Eucaliptos",SJCampos,NULL
+755,"Mayne Sanches Ruttinata",NULL,NULL,NULL,mayne@rivoliperfumaria.com.br,NULL,NULL,NULL,NULL,"Floradas de São José",SJCampos,NULL
+756,"Mayra Ananda Canteiro",NULL,NULL,NULL,mayra_ananda@hotmail.com,NULL,NULL,NULL,NULL,,,NULL
+757,"Melina Rafaela Borges de Assis",NULL,NULL,NULL,melina.rba@hotmail.com,NULL,NULL,NULL,NULL,,,NULL
+758,"Melissa da Silva",NULL,NULL,NULL,"Não possui E-Mail",NULL,NULL,NULL,NULL,"Jd. Aquarius",SJCampos,NULL
+759,"Mhayara Magda de Oliveira Silva",NULL,NULL,NULL,"Não possui E-Mail",NULL,NULL,NULL,NULL,"Jd. Motorama",SJCAMPOS,NULL
+760,"Michele Barreto Baptista Gouveia de Souza",NULL,NULL,NULL,michellebaptista@gmail.com,NULL,NULL,NULL,NULL,"Vila Adyana",SJCampos,NULL
+761,"Michele Lemes Amaral",NULL,NULL,NULL,micheleamaral@hotmail.com,NULL,NULL,NULL,NULL,"Jd. Aquarius",SJCampos,NULL
+762,"Michele Moreira dos Santos",NULL,NULL,NULL,misantosmoreira22@gmail.com,NULL,NULL,NULL,NULL,"Vista Verde",SJCampos,NULL
+763,"Michele Rosa Suzuki",NULL,NULL,NULL,michelersuzuki@gmail.com,NULL,NULL,NULL,NULL,"Jd. Aquarius",SJCampos,NULL
+764,"Michele Vanessa B.p. Gaioso",NULL,NULL,NULL,michelle@gmail.com,NULL,NULL,NULL,NULL," Jd. Aquarius ","São José dos Campos",NULL
+765,"Michelle de Souza Almeida",NULL,NULL,NULL,mialmeida2001@gmail.com,NULL,NULL,NULL,NULL,"Jd. Motorama",SJCampos,NULL
+766,"Michelle e Oliveira",NULL,NULL,NULL,mimiolli@yahoo.com.br,NULL,NULL,NULL,NULL,"Jardim das Industrias",SJC,NULL
+767,"Michelle Zem Bento",NULL,NULL,NULL,michellezembento@gmail.com,NULL,NULL,NULL,NULL,"Jd. Satélite","São josé dos Campos",NULL
+768,"Miki Minato Fukuyama",NULL,NULL,NULL,mikiminato@hotmail.com,NULL,NULL,NULL,NULL,"Vila Adyana",SJCampos,NULL
+769,"Milena Lucena Tamino",NULL,NULL,NULL,andretomino@uol.com.br,NULL,NULL,NULL,NULL,"Vista Verde",SJCampos,NULL
+770,"Milena M. Xx. G. de Oliveira",NULL,NULL,NULL,milena_guerra@hotmail.com,NULL,NULL,NULL,NULL,"Parque Residencial Aquarius",SJC,NULL
+771,"Milena Mantelato Ornele",NULL,NULL,NULL,milena.mantelato@gmail.com,NULL,NULL,NULL,NULL,"Vila Ema",SJCampos,NULL
+772,"Milena Morette Baraldi",NULL,NULL,NULL,mibaraldi@gmail.com,NULL,NULL,NULL,NULL,"Jardim Paraiso",Jacarei,NULL
+773,"Milma de Paula",NULL,NULL,NULL,milmadepaula@uol.com.br,NULL,NULL,NULL,NULL,"Jd. Aquarius",SJcampos,NULL
+774,"Milton Kung Yau Chow",NULL,NULL,NULL,mchow@ig.com.br,NULL,NULL,NULL,NULL,"Jd. Aquarius",SJCampos,NULL
+775,"Mirela Lacerda Marcondes dos Santos",NULL,NULL,NULL,mitrusla@gmail.com,NULL,NULL,NULL,NULL,"Vila Adyana",SJCampos,NULL
+776,"Mirele Silva Pires",NULL,NULL,NULL,mirelipires@hotmail.com,NULL,NULL,NULL,NULL,Avarei,Jacareí,NULL
+777,"Mirella P. Monteiro",NULL,NULL,NULL,"E-Mail Inválido",NULL,NULL,NULL,NULL,"Jd. Morumbi","São josé dos Campos",NULL
+778,"Miria dos Santos",NULL,NULL,NULL,piamiria@gmail.com,NULL,NULL,NULL,NULL,"Bosque dos Eucaliptos",SJCampos,NULL
+779,"Miriam Malhone Dauanny",NULL,NULL,NULL,miriam_malhone@hotmail.com,NULL,NULL,NULL,NULL,Urbanova,SJCampos,NULL
+780,"Mirian Aparecida Fassio Matsumura",NULL,NULL,NULL,mirian8matsumura@gmail.com,NULL,NULL,NULL,NULL,"Jd. Luiza",Jacarei,NULL
+781,"Mirian Fumie Takano Omori",NULL,NULL,NULL,mirianomori@hotmail.com,NULL,NULL,NULL,NULL,"Altos de Santana",SJCampos,NULL
+782,"Mirna Anunciação Carvalho Borsatti",NULL,NULL,NULL,macborsatti@gmail.com,NULL,NULL,NULL,NULL,"Jd. Estoril",SJCampos,NULL
+783,"Monica Cristina de Almeida",NULL,NULL,NULL,monica.cris.almeida@hotmail.com,NULL,NULL,NULL,NULL,"Jd. Esplanada",SJCampos,NULL
+784,"Monica Cristina de Souza",NULL,NULL,NULL,monica.souza0404@gmail.com,NULL,NULL,NULL,NULL,,SJCampos,NULL
+785,"Mônica Cristina Parente Cm Silva",NULL,NULL,NULL,monicaparente@hotmail.com,NULL,NULL,NULL,NULL,"Jd. Aquarius",SJCampos,NULL
+786,"Monica Maria Pereira de Camargo",NULL,NULL,NULL,monicamspereira@hotmail.com,NULL,NULL,NULL,NULL,"Jd. Satelite"," São josé dos Campos",NULL
+787,"Monica R. Johansen Stockler",NULL,NULL,NULL,"Não possui E-Mail",NULL,NULL,NULL,NULL,"Vila Nair","São José dos Campos",NULL
+788,"Monica Yumi Kukita Gonçalves",NULL,NULL,NULL,monicayk@cassianoricardo.com.br,NULL,NULL,NULL,NULL,"Jd. Aquarius",SJCampos,NULL
+789,"Monique Antonio Araujo",NULL,NULL,NULL,monique_uela@yahoo.com.br,NULL,NULL,NULL,NULL,"Vila Romana",Jacareí,NULL
+790,"Monique Maria de Lima Antônio",NULL,NULL,NULL,mon.mla@gmail.com,NULL,NULL,NULL,NULL,,SJCampos,NULL
+791,"Mozarina Abreu Gomes Bastos",NULL,NULL,NULL,"Não possui E-Mail",NULL,NULL,NULL,NULL,"Sta. Inês 1",SJCampos,NULL
+792,"Munique de Paula Couto Xavier",NULL,NULL,NULL,muniquedepaula@hotmail.com,NULL,NULL,NULL,NULL,"Jd. Estoril ","São josé dos Campos",NULL
+793,"Nádia Cristina de Souza Cursino",NULL,NULL,NULL,nadia.cursino@yahoo.com.br,NULL,NULL,NULL,NULL,"Jd. Aquarius",SJC,NULL
+794,"Nadia Domingues",NULL,NULL,NULL,nadiamfe@yahoo.com.br,NULL,NULL,NULL,NULL,"Vila Antonio Augusto",Caçapava,NULL
+795,"Nadir Aparecida Lopes da Silva",NULL,NULL,NULL,nadir17als@hotmail.com,NULL,NULL,NULL,NULL,"V. Ema",SJCampos,NULL
+796,"Naiara Coppio",NULL,NULL,NULL,naiara.polese@hotmail.com,NULL,NULL,NULL,NULL,"Vista Verde",SJCampos,NULL
+797,"Naiara Falcão Cury",NULL,NULL,NULL,naiarafcury@gmail.com,NULL,NULL,NULL,NULL,Centro,Sjcampos,NULL
+798,"Naiara Lareira Jordão Vilhena",NULL,NULL,NULL,naiara.jordao@hotmail.com,NULL,NULL,NULL,NULL,"Horto Florestal","São Paulo",NULL
+799,"Nair Flaitt Clasen",NULL,NULL,NULL,nair_classen@hotmail.com,NULL,NULL,NULL,NULL,"Vila Betânia",SJCampos,NULL
+800,"Natalia Akemi Matsumura Castro",NULL,NULL,NULL,nataliacastro@globomail.com,NULL,NULL,NULL,NULL,Urbanova,SJCampos,NULL
+801,"Natália Akemi Matsumura Castro",NULL,NULL,NULL,nataliacastro@globomail.com,NULL,NULL,NULL,NULL,"Jd. Flórida","SJCampos ",NULL
+802,"Natalia Alves de Almeida",NULL,NULL,NULL,na.almeida1@gmail.com,NULL,NULL,NULL,NULL,"Jd. Alvorada",SJCampos,NULL
+803,"Natália Fernanda dos Santos Brito",NULL,NULL,NULL,"Não possui E-Mail",NULL,NULL,NULL,NULL,"Jd. das Industrias",SJCampos,NULL
+804,"Natalia Juliana Rezende",NULL,NULL,NULL,naty.j.rezende@gmail.com,NULL,NULL,NULL,NULL,"JD. Esplanada",SJCampos,NULL
+805,"Natalia Mariano de Souza",NULL,NULL,NULL,nataliamariano2@hotmail.com,NULL,NULL,NULL,NULL,"Jd. Aquarius",SJCampos,NULL
+806,"Natalia Pimentel Ramos",NULL,NULL,NULL,nramos@mapfre.com.br,NULL,NULL,NULL,NULL,"Jd. Esplanada","São josé dos Campos",NULL
+807,"Natalia R. A. Silva",NULL,NULL,NULL,natalia@construtoradado.com.br,NULL,NULL,NULL,NULL,V.Gustavo,S.Paulo,NULL
+808,"Natani Assunçao Nucci",NULL,NULL,NULL,naty_nucci@hotmail.com,NULL,NULL,NULL,NULL,"Vista Verde",SJCampos,NULL
+809,"Natasha Beran Gil",NULL,NULL,NULL,natashagil@hotmail.com,NULL,NULL,NULL,NULL,"Vista Verde",SJCampos,NULL
+810,"Natassia Ramos da Silveira",NULL,NULL,NULL,nat_silveira@yahoo.com.br,NULL,NULL,NULL,NULL,"Vila Adyana",SJCampos,NULL
+811,"Nathalia Falcao Cury",NULL,NULL,NULL,abiga.bia@gmail.com,NULL,NULL,NULL,NULL,"Vila Betânia",SJCampos,NULL
+812,"Nathalia Sanita F da Cunha",NULL,NULL,NULL,nathaliasanita@gmail.com,NULL,NULL,NULL,NULL,"Vila Ema",SJCampos,NULL
+813,"Nathan José El Khouri",NULL,NULL,NULL,nathan-khouri@hotmail.com,NULL,NULL,NULL,NULL,"Jd. Aquarius",SJCampos,NULL
+814,"Naya F. Clasen",NULL,NULL,NULL,nayafc@terra.com.br,NULL,NULL,NULL,NULL,"Jd. MArcondes",Jacareí,NULL
+815,"Nayrana Cristina Santana",NULL,NULL,NULL,nayr.ana@hotmail.com,NULL,NULL,NULL,NULL,"Jd. das Industrias",SJCampos,NULL
+816,"Neide Maria da Silva",NULL,NULL,NULL,neide0030@hotmail.com,NULL,NULL,NULL,NULL,"Resi. Del Valle",SJCampos,NULL
+817,"Neide Nunes Fava",NULL,NULL,NULL,nfava@bol.com.br,NULL,NULL,NULL,NULL,"Jd. Alvorada",SJCampos,NULL
+818,"Nelia Franco Canineo",NULL,NULL,NULL,ncanineo@yahoo.com.br,NULL,NULL,NULL,NULL,"Vista Verde",SJCampos,NULL
+819,"Nidia Cristina Castro Santos",NULL,NULL,NULL,nidia.castro@live.com,NULL,NULL,NULL,NULL,"Jd. Aquarius",SJCampos,NULL
+820,"Nivia Maria F. Duarte Locatelli",NULL,NULL,NULL,niviafduarte@hotmail.com,NULL,NULL,NULL,NULL,Urbanova,SJCampos,NULL
+821,"Nixon Resende",NULL,NULL,NULL,"Não possui E-Mail",NULL,NULL,NULL,NULL,,SJCampos,NULL
+822,"Ona Francoise Graves",NULL,NULL,NULL,onagraves@hotmail.com,NULL,NULL,NULL,NULL,Putim,SJCampos,NULL
+823,"Osmar Celso Messias",NULL,NULL,NULL,osmar_messias@hotmail.com,NULL,NULL,NULL,NULL,"Jd. Colonial",SJCampos,NULL
+824,"Paloma Santos",NULL,NULL,NULL,paloma-eq@hotmail.com,NULL,NULL,NULL,NULL,"Cond. Residencie Club",Jacareí,NULL
+825,"Pamela Cristina Freitas Nunes",NULL,NULL,NULL,pam_cfn@yahoo.com.br,NULL,NULL,NULL,NULL,"Monte Castelo","São José dos Campos",NULL
+826,"Pamera Ramone Fernandes",NULL,NULL,NULL,pamera.fernandes@gmail.com,NULL,NULL,NULL,NULL,"Santa Ines 1",SJCampos,NULL
+827,"Pamyla Serra Lima Decaria",NULL,NULL,NULL,pamyla_serra@hotmail.com,NULL,NULL,NULL,NULL,"Vista Verde",SJCampos,NULL
+828,"Paola Del Hoyo Tirado",NULL,NULL,NULL,paolita_del@hotmail.com,NULL,NULL,NULL,NULL,"jd. Esplanada",SJCampos,NULL
+829,"Patricia A. Oliveira",NULL,NULL,NULL,patyolity@bol.com.br,NULL,NULL,NULL,NULL,"Vila Branca",Jacarei,NULL
+830,"Patricia Angela do Prado Vargas",NULL,NULL,NULL,patricia.pvargas@hotmail.com,NULL,NULL,NULL,NULL,"Res. Ana Maria",SJCampos,NULL
+831,"Patricia Ap. S. Vale",NULL,NULL,NULL,vale.patty@gmail.com,NULL,NULL,NULL,NULL,"Vila Industrial","São José dos Campos",NULL
+832,"Patrícia Aparecida da Silva Vale",NULL,NULL,NULL,vale.paty@gmail.com,NULL,NULL,NULL,NULL," Colinas ","São José dos Campos",NULL
+833,"Patricia Bettiol Abe",NULL,NULL,NULL,patricia.abe@gmail.com,NULL,NULL,NULL,NULL,"Jd. Aquarius",SJCampos,NULL
+834,"Patricia de Souza e Silva",NULL,NULL,NULL,patyluc@hotmail.com,NULL,NULL,NULL,NULL,"Vila Ema",SJCampos,NULL
+835,"Patricia Dias de Sena Washio",NULL,NULL,NULL,pati.dias.sena@gmail.com,NULL,NULL,NULL,NULL,Urbanova,SJCampos,NULL
+836,"Patricia Diniz Fernandes",NULL,NULL,NULL,advocacia.portodiniz@bol.com.br,NULL,NULL,NULL,NULL,"Jd. Aquarius",SJCampos,NULL
+837,"Patricia Gimeng Vilas Boas Weltson",NULL,NULL,NULL,"Não possui E-Mail",NULL,NULL,NULL,NULL,"Jd. Topazio",SJCampos,NULL
+838,"Patricia Mizael Ferraiolo",NULL,NULL,NULL,patricia_ferraiolo@hotmail.com,NULL,NULL,NULL,NULL,"Jd. Aquarius",SJCampos,NULL
+839,"Patricia Monteiro da Costa Silva",NULL,NULL,NULL,patricia@fotogeo.com.br,NULL,NULL,NULL,NULL,Freitas,SJCampos,NULL
+840,"Patricia Moura",NULL,NULL,NULL,patriciamoura@solviagens.com,NULL,NULL,NULL,NULL,"Jd. Aquarius",SJCampos,NULL
+841,"Patricia Oliveira Costa Stellet",NULL,NULL,NULL,patriciastellet@yahoo.com.br,NULL,NULL,NULL,NULL,"Vila Ema",SJCampos,NULL
+842,"Patricia Renata Cursino da Silva",NULL,NULL,NULL,pcursino@adv.oabsp.org.br,NULL,NULL,NULL,NULL,"Jd Aquarius",SJC,NULL
+843,"Patricia Sartori Thiago Benozzati",NULL,NULL,NULL,patricia@patriciabenozzati.com,NULL,NULL,NULL,NULL,"Jd. Colonial",SJCampos,NULL
+844,"Patricia Staffa Figueiredo",NULL,NULL,NULL,patistaffa@hotmail.com,NULL,NULL,NULL,NULL,"Jd. Aquarius",SJCampos,NULL
+845,"Patrícia Staffa Figueiredo",NULL,NULL,NULL,patistaffa@hotmail.com,NULL,NULL,NULL,NULL,"Vila Industrial","São José dos Campos",NULL
+846,"Patricia Viana Ribeiro",NULL,NULL,NULL,patyadria@hotmail.com,NULL,NULL,NULL,NULL,Jd.Aquarius,"São josé dos Campos",NULL
+847,"Paula Cintra Fernandes",NULL,NULL,NULL,cintrapaula@hotmail.com,NULL,NULL,NULL,NULL,"Esplanada II",SJCampos,NULL
+848,"Paula Cristina Scarpeto Gonçalves",NULL,NULL,NULL,"E-Mail Inválido",NULL,NULL,NULL,NULL,"Jd. Alvorada","São José dos Campos",NULL
+849,"Paula de L Fernandes Batistela",NULL,NULL,NULL,luuu_sjc@hotmail.com,NULL,NULL,NULL,NULL,Estiva,Taubaté,NULL
+850,"Paula do Carmo R. Reis",NULL,NULL,NULL,paulocarmo.reis@yahoo.com.br,NULL,NULL,NULL,NULL,"Pq. Santa Rita",SJCampos,NULL
+851,"Paula Gisard Severo",NULL,NULL,NULL,paulagswero@hotmail.com,NULL,NULL,NULL,NULL,"Jd. Califórnia",Jacareí,NULL
+852,"Paula Jaqueline Miranda",NULL,NULL,NULL,paulajaquelinem@yahoo.com.br,NULL,NULL,NULL,NULL,"Jd. Industrias",SJCampos,NULL
+853,"Paula Maldanis Ribeiro",NULL,NULL,NULL,paulitam@gmail.com,NULL,NULL,NULL,NULL,"Jd. Estoril",SJCampos,NULL
+854,"Paulinia de Santana",NULL,NULL,NULL,pauliniasalves@yahoo.com.br,NULL,NULL,NULL,NULL,"Jd. Aquarius",SJCampos,NULL
+855,"Paulo Bueno Jr.",NULL,NULL,NULL,pbuenojunior@yahoo.com.br,NULL,NULL,NULL,NULL,"Jd. Satélite","São José dos Campos",NULL
+856,"Paulo José Vilhena de Oliveira",NULL,NULL,NULL,vilhenaoliver701@gmail.com,NULL,NULL,NULL,NULL,"Bosque dos Elcaliptos ","São José dos Campos",NULL
+857,"Paulo Sergio de Souza",NULL,NULL,NULL,paulss13@yahoo.com.br,NULL,NULL,NULL,NULL,"Jd. Vale do Sol",SJCampos,NULL
+858,"Paulo Sergio Oliveira Laurentino",NULL,NULL,NULL,plaurentino@img.com.br,NULL,NULL,NULL,NULL,"Bandeira Branca"," Jacarei",NULL
+859,"Paulucia Ap. S. Oliveira",NULL,NULL,NULL,p.oliveira@santander.com.br,NULL,NULL,NULL,NULL,"Jd. Satelite",SJCampos,NULL
+860,"Pedro Henrique Arantes Simões",NULL,NULL,NULL,pedroassem@hotmail.com,NULL,NULL,NULL,NULL,Centro,SJCampos,NULL
+861,"Pedro Luiz de Paula Oliveira",NULL,NULL,NULL,pedrolpoliveira@uol.com.br,NULL,NULL,NULL,NULL,"Vila Ema ","São José dos Campos",NULL
+862,"Petra Thrystiheel",NULL,NULL,NULL,"Não possui E-Mail",NULL,NULL,NULL,NULL,,,NULL
+863,"Petrycie Ghyslaine Gomes",NULL,NULL,NULL,petrycie@globo.com,NULL,NULL,NULL,NULL,"Jd. esplanada",SJCampos,NULL
+864,"Plinio José do Nascimento Figueira",NULL,NULL,NULL,plinio.figueira@gmail.com,NULL,NULL,NULL,NULL,"Parque Industrial",SJCampos,NULL
+865,"Pollyana Lopes Cintra",NULL,NULL,NULL,pollyanalcintra@hotmail.com,NULL,NULL,NULL,NULL,"Jd. Aquarius",SJCampos,NULL
+866,"Pollyanna Lisboa Mendonça Garcia",NULL,NULL,NULL,"Não possui E-Mail",NULL,NULL,NULL,NULL,"Santa Inês 1",SJCampos,NULL
+867,"Priscila Albarigi R. Cotrim",NULL,NULL,NULL,"Não possui E-Mail",NULL,NULL,NULL,NULL,C,jacarei,NULL
+868,"Priscila Ap. Xavier de Matos",NULL,NULL,NULL,priaxm@hotmail.com,NULL,NULL,NULL,NULL,"Jd. Sao Vicente",SJCampos,NULL
+869,"Priscila Ardoni Fernandes Davalos",NULL,NULL,NULL,pri_ardoni@hotmail.com,NULL,NULL,NULL,NULL,Urbanova,SJcampos,NULL
+870,"Priscila Cristina da Silva",NULL,NULL,NULL,priscila_pib@yahoo.com.br,NULL,NULL,NULL,NULL,"Jd. Paulista",SJCampos,NULL
+871,"Priscila de Carvalho Moreira Farcirdi",NULL,NULL,NULL,prik125@hotmail.com,NULL,NULL,NULL,NULL,"Cj. São Benedito",Jacareí,NULL
+872,"Priscila Diana C. Silva",NULL,NULL,NULL,pri-s@msn.com,NULL,NULL,NULL,NULL,Detroid,SJCampos,NULL
+873,"Priscila Freitas Lemes",NULL,NULL,NULL,piprise@gmail.com.,NULL,NULL,NULL,NULL,"Vila adyanna",Sjcampos,NULL
+874,"Priscila Giovanini Gonçalves",NULL,NULL,NULL,prigiovanini@gmail.com,NULL,NULL,NULL,NULL,"Jd. America",SJcampos,NULL
+875,"Priscila Mendes dos Santos",NULL,NULL,NULL,priscilaa.ms@hotmail.com,NULL,NULL,NULL,NULL,"Jd. Aquarius",SJCampos,NULL
+876,"Priscila Rodrigues",NULL,NULL,NULL,priscila.mrr@terra.com.br,NULL,NULL,NULL,NULL,"Bosque dos Eucaliptos",SJCampos,NULL
+877,"Priscila Rubio Esteves Martins",NULL,NULL,NULL,pri119@hotmail.com,NULL,NULL,NULL,NULL,"Jd. Bela Vista",SJCampos,NULL
+878,"Priscila Santos Martins",NULL,NULL,NULL,pri.smar@gmail.com,NULL,NULL,NULL,NULL,,Jacareí,NULL
+879,Priscilagiovanini,NULL,NULL,NULL,prigiovanini@gmail.com,NULL,NULL,NULL,NULL,"V. Adyana",SJCampos,NULL
+880,"Quinay Ferreira Penina",NULL,NULL,NULL,kinaypenina@hotmail.com,NULL,NULL,NULL,NULL,"Jd. Satélite",SJCampos,NULL
+881,"Rafael Salles Silva Cardoso",NULL,NULL,NULL,rafael.cardoso@vendascasas.com.br,NULL,NULL,NULL,NULL,"Pq. Industrial",SJCampos,NULL
+882,"Rafaela Andrade Silva",NULL,NULL,NULL,"Não possui E-Mail",NULL,NULL,NULL,NULL,"Jd. Esplanada",SJCampos,NULL
+883,"Rafaele Uhmann França",NULL,NULL,NULL,rafa.uh@gmail.com,NULL,NULL,NULL,NULL,"Jd. Satelite",SJCampos,NULL
+884,"Rafela da Silva Pereira",NULL,NULL,NULL,rafaela_501@hotmail.com,NULL,NULL,NULL,NULL,"Vila Nair",SJCampos,NULL
+885,"Raimunda N. Almeida Panteri Veras",NULL,NULL,NULL,rai.almeida62@gmail.com,NULL,NULL,NULL,NULL,,SJCampos,NULL
+886,"Raniany Silva Jardim",NULL,NULL,NULL,ranyjardim@yahoo.com.br,NULL,NULL,NULL,NULL,"Vila Branca",Jacarei,NULL
+887,"Raquel A. Martins Gomes",NULL,NULL,NULL,raquel@inpulsebrasil.com.br,NULL,NULL,NULL,NULL,"Vila Adyanna",SJCampos,NULL
+888,"Raquel Ap. Ieka Sorrilha",NULL,NULL,NULL,raquel.ieka@hotmail.com,NULL,NULL,NULL,NULL,"Altos de Santana II",SJCampos,NULL
+889,"Raquel Daoud",NULL,NULL,NULL,raquel_daoud@hotmail.com,NULL,NULL,NULL,NULL,"Jd. Esplanada",SJCampos,NULL
+890,"Raquel Galvani Shirota",NULL,NULL,NULL,raquel.galvani@gmail.com,NULL,NULL,NULL,NULL,"Jd. Aquarius ","São José dos Campos'",NULL
+891,"Raquel Garcia H. de Carvalho",NULL,NULL,NULL,quelholf@gmail.com,NULL,NULL,NULL,NULL,"Jd. Aquarius",SJCampos,NULL
+892,"Raquel Giovanini Gonçalves",NULL,NULL,NULL,raquiow@hotmail.com,NULL,NULL,NULL,NULL,"Vila Adyana",SJCampos,NULL
+893,"Raquel Moreira Chagas",NULL,NULL,NULL,raquelmchagas@gmail.com,NULL,NULL,NULL,NULL,"Jd. das Industrias ","São José dos Campos",NULL
+894,"Raquel Palazon Nefussi",NULL,NULL,NULL,raquelpalazon@yahoo.com.br,NULL,NULL,NULL,NULL,"Esplanada do Sol",SJCampos,NULL
+895,"Raquel Sartoretto Leengo",NULL,NULL,NULL,raqueis@ig.com.br,NULL,NULL,NULL,NULL,Urbanova,SJCampos,NULL
+896,"Rebeca Boegli Zimmermann",NULL,NULL,NULL,rboegli@terra.com.br,NULL,NULL,NULL,NULL,"Jd. Aquarius",SJCampos,NULL
+897,"Rebeca Mutti Moscou Ferreira",NULL,NULL,NULL,rebecammf@hotmail.com,NULL,NULL,NULL,NULL,Urbanova,"São josé dos Campos",NULL
+898,"Rebeca Tressoldi Simao",NULL,NULL,NULL,re.ts@hotmail.com,NULL,NULL,NULL,NULL,"Jd. das Colinas",SJCampos,NULL
+899,"Regimari da Silva Gomide",NULL,NULL,NULL,regimari2@yahoo.com.br,NULL,NULL,NULL,NULL,"Jd. Santa Ines II",SJcampos,NULL
+900,"Regina Celia Hortal Carpinelli Alves",NULL,NULL,NULL,"Não possui E-Mail",NULL,NULL,NULL,NULL,Aquarius,"São José dos Campos",NULL
+901,"Regina Helena Ferraro",NULL,NULL,NULL,reginaferraro@gmail.com,NULL,NULL,NULL,NULL,"Jd. Aquarius",SJCampos,NULL
+902,"Rejane Margareth Alvarenga Passos",NULL,NULL,NULL,rejane@funcate.org.br,NULL,NULL,NULL,NULL,"Jd. Aquarius",SJCampos,NULL
+903,"Rejane Raimunda",NULL,NULL,NULL,oliveiraraimunda@yahoo.com.br,NULL,NULL,NULL,NULL,"Jd. Aquarius",SJCampos,NULL
+904,"Renan Agostini Paes",NULL,NULL,NULL,renanpaes@hotmail.com,NULL,NULL,NULL,NULL,"Jd. das Oliveiras",Jacareí,NULL
+905,"Renata Cristina de Oliveira",NULL,NULL,NULL,reoliveira.sjc@gmail.com,NULL,NULL,NULL,NULL,"Vila Ema",SJCampos,NULL
+906,"Renata Cristina F. F. da Silveira",NULL,NULL,NULL,renatinha-zimmer@bol.com.br,NULL,NULL,NULL,NULL,"Campo dos Alemães",SJCampos,NULL
+907,"Renata Guedes",NULL,NULL,NULL,gdsrenata@hotmail.com,NULL,NULL,NULL,NULL,"Monte Castelo",SJCampos,NULL
+908,"Renata Kelly Ribeiro Sakai",NULL,NULL,NULL,renatakellysakai@hotmail.com,NULL,NULL,NULL,NULL,"Parque Industrial",SJCampos,NULL
+909,"Renata Rodrigues Leonardi",NULL,NULL,NULL,rerole2005@yahoo.com.br,NULL,NULL,NULL,NULL,"Palmeiras de Sao Jose",SJCampos,NULL
+910,"Renata S. Metene Morrissey",NULL,NULL,NULL,rmetene71@hotmail.com,NULL,NULL,NULL,NULL,,Irlanda,NULL
+911,"Rhade Nunes Ramiro",NULL,NULL,NULL,ramiro.1992@hotmail.com,NULL,NULL,NULL,NULL,"Jd. A mérica","Sj. Campos",NULL
+912,"Ricardo de Camargo da Silva",NULL,NULL,NULL,"Não possui E-Mail",NULL,NULL,NULL,NULL,"Conjunto São Benedito",Jacarei,NULL
+913,"Rillyane Toledo Ortiz",NULL,NULL,NULL,toledoane@yahoo.com.br,NULL,NULL,NULL,NULL,"Vl. Jaboticabeira",Taubaté,NULL
+914,"Rita Amaral Mira",NULL,NULL,NULL,ritacare@hotmail.com,NULL,NULL,NULL,NULL,"Jd. Aquarius",SJCampos,NULL
+915,"Rita de Cassia da Rosabraga",NULL,NULL,NULL,Gui.tis@hotmail.com,NULL,NULL,NULL,NULL,"Jd. aquarius",SJCampos,NULL
+916,"Rita de Cassia Roberto",NULL,NULL,NULL,ritaroberto@bol.com.br,NULL,NULL,NULL,NULL,"Jd. Aquarius",SJCampos,NULL
+917,"Rita de Cássia Silva Aguiar",NULL,NULL,NULL,"Não possui E-Mail",NULL,NULL,NULL,NULL,"Vista Verde",Jacarei,NULL
+918,"Rita L. Madeiro",NULL,NULL,NULL,ritalianemadeiro@hotmail.com,NULL,NULL,NULL,NULL,"Jd. Interlagos ",SJCampos,NULL
+919,"Roberta Bellercio Albuquerque",NULL,NULL,NULL,"Não possui E-Mail",NULL,NULL,NULL,NULL,"Jd. Aquarius",SJCampos,NULL
+920,"Roberta de Carvalho Caetano",NULL,NULL,NULL,decarvalhoroberta@hotmail.com,NULL,NULL,NULL,NULL,"Jd. Aquarius",SJCampos,NULL
+921,"Roberta Marcondes Fourniol Rebello",NULL,NULL,NULL,rfourniol@hotmail.com,NULL,NULL,NULL,NULL,"Jd Motorama ","São José dos Campos ",NULL
+922,"Rodolfo Barbosa dos Santos",NULL,NULL,NULL,rodolfo.bsantos@live.com,NULL,NULL,NULL,NULL,"Cp. dos Alemaes",SJCampos,NULL
+923,"Rodrigo  Ximenes",NULL,NULL,NULL,roolximenes22@hotmail.com,NULL,NULL,NULL,NULL,"Jd. Morumbi","São José dos Campos",NULL
+924,"Rodrigo Hernani Pereira",NULL,NULL,NULL,rhpereira@sabesp.com.br,NULL,NULL,NULL,NULL,"Santo Onofre",SJCampos,NULL
+925,"Rogeria da Silva Franco",NULL,NULL,NULL,rogeria_franco@yahoo.com.br,NULL,NULL,NULL,NULL,"Jd. Satelite",SJCampos,NULL
+926,"Rogéria S. Castro Avanço",NULL,NULL,NULL,pedidos.avanco@gmail.com,NULL,NULL,NULL,NULL,,SJCampos,NULL
+927,"Romana C. Goulart Chow",NULL,NULL,NULL,romanacellis@hotmail.com,NULL,NULL,NULL,NULL,"Jd. Paraiso",Jacarei,NULL
+928,"Ronie Ainbinder",NULL,NULL,NULL,rbinder@bol.com.br,NULL,NULL,NULL,NULL,"Jd. Aquarius",SJCampos,NULL
+929,"Rosa Antunes Coutinho",NULL,NULL,NULL,"Não possui E-Mail",NULL,NULL,NULL,NULL,"Jd. Aquarius","São José dos Campos",NULL
+930,"Rosa Maciel Monteiro",NULL,NULL,NULL,rosinhamm@yahoo.com.br,NULL,NULL,NULL,NULL,"Bosque dos Eucaliptos",SJCampos,NULL
+931,"Rosa Mesquita",NULL,NULL,NULL,rosapaulom@hotmail.com,NULL,NULL,NULL,NULL,"Bosque dos Eucaliptos",SJCampos,NULL
+932,"Rosana Pereira Domiciano Moura",NULL,NULL,NULL,rosanapereira@hotmail.com,NULL,NULL,NULL,NULL,"f.de sao jose",SJCampos,NULL
+933,"Rosana Rodrigues Franco",NULL,NULL,NULL,rosana.r.franco@gmail.com,NULL,NULL,NULL,NULL,"Jd. Aquarius",SJCampos,NULL
+934,"Rosane Maria Giovanini Gonçalves",NULL,NULL,NULL,rosane.giovanini@yahoo.com.br,NULL,NULL,NULL,NULL,"Vila Adyanna",SJCampos,NULL
+935,"Rosangela D.b Marques",NULL,NULL,NULL,rosangeladbmarques@hotmail.com,NULL,NULL,NULL,NULL,Urbanova,"São jose dos campos",NULL
+936,"Rosangela da Conceiçaõ da Silva",NULL,NULL,NULL,rosesccs@hotmail.com,NULL,NULL,NULL,NULL,,SJCampos,NULL
+937,"Rosangela de Souza",NULL,NULL,NULL,rosangela_salmeilda@hotmail.com,NULL,NULL,NULL,NULL,"Jd Ismênia",SJCampos,NULL
+938,"Rosangela de Souza Almeida",NULL,NULL,NULL,rosangela-salmeida@hotmail.com,NULL,NULL,NULL,NULL,"Jd. Aquarius",SJCampos,NULL
+939,"Rosangela M. Gomes Torres",NULL,NULL,NULL,rosdandi@hotmail.com,NULL,NULL,NULL,NULL,"Jd. Aquarius",SJCampos,NULL
+940,"Roseane Marcia O. Cantuária",NULL,NULL,NULL,roseanecantuaria@yahoo.com.br,NULL,NULL,NULL,NULL,"Jd. Paraiso",SJCampos,NULL
+941,"Rosecarla de Fátima Santos da Silva",NULL,NULL,NULL,rcarlasilva@hotmail.com,NULL,NULL,NULL,NULL,"Bosque dos Ipes",SJCampos,NULL
+942,"Roselene Simoes Domingos",NULL,NULL,NULL,roselene.domingos@hotmail.com,NULL,NULL,NULL,NULL,"Jd. Diamante",SJCampos,NULL
+943,"Roseli Domalakas",NULL,NULL,NULL,rose_zol@hotmail.com,NULL,NULL,NULL,NULL,"Vila Adyana",SJCampos,NULL
+944,"Rosemary Cavalcanti",NULL,NULL,NULL,cavalcantirosemary@hotmail.com,NULL,NULL,NULL,NULL,"Jd. América",SJCampos,NULL
+945,"Rosemary Ribeiro",NULL,NULL,NULL,roseribeiro10230@gmail.com,NULL,NULL,NULL,NULL,"São Judas Tadeu",SJCampos,NULL
+946,"Rosemeire Boneto Rocco",NULL,NULL,NULL,roma-rocco@uol.com.br,NULL,NULL,NULL,NULL,"Jd. Aquarius",SJCampos,NULL
+947,"Rosene Maria Giovanini Gonçalves",NULL,NULL,NULL,rosane.giovanini@yahoo.com.br,NULL,NULL,NULL,NULL,"Vila Adyana",SJCampos,NULL
+948,"Rosilene Sasaki",NULL,NULL,NULL,rosisasaki@hotmail.com,NULL,NULL,NULL,NULL,"Jd. Aquarius",SJCampos,NULL
+949,"Rosimeire V. Ortiz",NULL,NULL,NULL,rvortiz@uol.com.br,NULL,NULL,NULL,NULL,"Jd. Apolo",SJCampos,NULL
+950,"Sabrina Lopes da Silva",NULL,NULL,NULL,sabrina.sls05@hotmail.com,NULL,NULL,NULL,NULL,"Dom Pedro ","São José dos Campos",NULL
+951,"Sabrina Marques Gonzaga",NULL,NULL,NULL,sa_marques13@yahool.com.br,NULL,NULL,NULL,NULL,"Jd. Colonial",SJCampos,NULL
+952,"Samanta Varela Possatti Alves",NULL,NULL,NULL,samantavarela@gmail.com,NULL,NULL,NULL,NULL,"jd. Sao Dimas",SJCampos,NULL
+953,"Samantha Angie Ferreira Chuluck",NULL,NULL,NULL,samantha.afc@hotmail.com,NULL,NULL,NULL,NULL,"Jd. Aquarius",SJCampos,NULL
+954,"Sâmia Carolina M.o Sacorague",NULL,NULL,NULL,"Não possui E-Mail",NULL,NULL,NULL,NULL,"Sao Dimas",SJCampos,NULL
+955,"Samia Portes A. Rodrigues",NULL,NULL,NULL,samia.portes@gmail.com,NULL,NULL,NULL,NULL,,,NULL
+956,"Samuel Gonçalves Martins Silva",NULL,NULL,NULL,"Não possui E-Mail",NULL,NULL,NULL,NULL,,,NULL
+957,"Sandra Chaves",NULL,NULL,NULL,"Não possui E-Mail",NULL,NULL,NULL,NULL,"Santa Ines",SJCampos,NULL
+958,"Sandra Chaves Matsumoto",NULL,NULL,NULL,chaves.matsu@hotmail.com,NULL,NULL,NULL,NULL,"Jd. América",SJCampos,NULL
+959,"Sandra Cristina Lima Maia",NULL,NULL,NULL,sandra.maia74@yahoo.com.br,NULL,NULL,NULL,NULL,"Monte Castelo",SJCampos,NULL
+960,"Sandra Cristina Lopes",NULL,NULL,NULL,crislopes@ig.com.br,NULL,NULL,NULL,NULL,"31 De Março","São José dos Campos",NULL
+961,"Sandra Helena de Oliveira Damazio",NULL,NULL,NULL,sandradamazio@trt15.jus.br,NULL,NULL,NULL,NULL,"Jd. Telespark",SJCmapos,NULL
+962,"Sandra Moreira",NULL,NULL,NULL,nijasan@hotmail.com,NULL,NULL,NULL,NULL,"Jd. Bela Vista",SJCampos,NULL
+963,"Sandra Moreira da Silva",NULL,NULL,NULL,sandmoreirasilva@hotmail.com,NULL,NULL,NULL,NULL,Jd.Aquarius,SJC,NULL
+964,"Sandra Regina de Paula Ferraz",NULL,NULL,NULL,sandra.rpaula@gmail.com,NULL,NULL,NULL,NULL,"Vila Branca ","São josé dos Campos ",NULL
+965,"Sara Martins",NULL,NULL,NULL,"Não possui E-Mail",NULL,NULL,NULL,NULL,Urbanova,SJCampos,NULL
+966,"Sarah Elizabeth Alwan",NULL,NULL,NULL,alwan.sarah@gmail.com.br,NULL,NULL,NULL,NULL,"Mirante do Vale",SJCampos,NULL
+967,"Sarah Marques Ribeiro",NULL,NULL,NULL,falarsarah@hotmail.com,NULL,NULL,NULL,NULL,Urbanova,SJCampos,NULL
+968,"Sarah Mutti Miscow Ferreira",NULL,NULL,NULL,sarah.mmf@hotmail.com,NULL,NULL,NULL,NULL," Jd. Aquarius ","São josé dos Campos",NULL
+969,"Sarah Scarpim Wei",NULL,NULL,NULL,helida.scarpim@uol.com.br,NULL,NULL,NULL,NULL,"B. Ypes",SJCampos,NULL
+970,"Saul Oisman Gaudeu",NULL,NULL,NULL,"Não possui E-Mail",NULL,NULL,NULL,NULL,"Jd. America",SJCampos,NULL
+971,"Scheila Raquel Pinheiro Golveia",NULL,NULL,NULL,sheilarpos@ig.com.br,NULL,NULL,NULL,NULL,"Pq. Nova America",Jacarei,NULL
+972,"Selma Ap. da Silva",NULL,NULL,NULL,minha.ufscar@gmail.com,NULL,NULL,NULL,NULL,Centro,SJCampos,NULL
+973,"Selma Renata Assad",NULL,NULL,NULL,selmarenata@yahoo.com,NULL,NULL,NULL,NULL,"Altos de Santana ",Jacareí,NULL
+974,"Sergio Prado Gomes",NULL,NULL,NULL,sergioprado@ig.com.br,NULL,NULL,NULL,NULL,"Jd. Aquarius",SJCampos,NULL
+975,"Sheila Carvalho Shiga",NULL,NULL,NULL,sheilashiga1@hotmail.com,NULL,NULL,NULL,NULL,"Jd. Aquarius",SJCampos,NULL
+976,"Shirley V. Sperandio",NULL,NULL,NULL,svspe@hotmail.com,NULL,NULL,NULL,NULL,"Parque Industrial",SJCampos,NULL
+977,"Silvana Fátima Moreira Andrade",NULL,NULL,NULL,sfman@terra.com.br,NULL,NULL,NULL,NULL,"A. Santana",SJCampos,NULL
+978,"Silvana Gonçalves de Lima",NULL,NULL,NULL,silvanagoncalves.lima@gmail.com,NULL,NULL,NULL,NULL,"Jd. Satélite",SJCampos,NULL
+979,"Silvana Segura Neves Vieira",NULL,NULL,NULL,silvanaseguraneves@hotmail.com,NULL,NULL,NULL,NULL,,"São José dos Campos",NULL
+980,"Silvia Eliete Martins",NULL,NULL,NULL,siltmartins@hotmail.com,NULL,NULL,NULL,NULL,"Jd. Aquarius",SJC,NULL
+981,Simone,NULL,NULL,NULL,caroline_borsato@hotmail.com,NULL,NULL,NULL,NULL,"Bosque dos Eucaliptos",SJCampos,NULL
+982,"Simone Aparecida de Moraes Machado",NULL,NULL,NULL,simone-moraes@hotmail.com,NULL,NULL,NULL,NULL,"Jd. Aquarius",Sjcampos,NULL
+983,"Simone Bernardes de Paula",NULL,NULL,NULL,simonerani@hotmail.com,NULL,NULL,NULL,NULL,"Jd. das Colinas",SJCampos,NULL
+984,"Simone Biazussi Franceschini",NULL,NULL,NULL,simonebiazussi@hotmail.com,NULL,NULL,NULL,NULL,"Parque Imperial ",Jacarei,NULL
+985,"Simone Costa Pereira",NULL,NULL,NULL,mone.2010@gmail.com,NULL,NULL,NULL,NULL,"Jd. Aquarius",SJCampos,NULL
+986,"Simone de Oliveira Assis",NULL,NULL,NULL,oliveiraassis@uol.com.br,NULL,NULL,NULL,NULL,331,SJCampos,NULL
+987,"Simone de Oliveira Leite Igarashi",NULL,NULL,NULL,simoneigarashi@hotmail.com,NULL,NULL,NULL,NULL,,,NULL
+988,"Simone L. Bozza",NULL,NULL,NULL,sibozza@hotmail.com,NULL,NULL,NULL,NULL,"Vila Ema",sjcampos,NULL
+989,"Simone Laporta Dias",NULL,NULL,NULL,shlaporta@yahoo.com.br,NULL,NULL,NULL,NULL,"Monte Castelo",SJCampos,NULL
+990,"Simone Macedo Gomes",NULL,NULL,NULL,scegomes@yahoo.com.br,NULL,NULL,NULL,NULL,"Jd. Aquarius",SJCampos,NULL
+991,"Simone Martins Indoro",NULL,NULL,NULL,simone@uol.com.br,NULL,NULL,NULL,NULL,"Jd. Das Industrias ","São josé dos Campos",NULL
+992,"Simone P. Augusta de Azevedo",NULL,NULL,NULL,simoneaugustaazevedo@gmail.com,NULL,NULL,NULL,NULL,"Jd. América","São José dos Campos",NULL
+993,"Simone Pilotto",NULL,NULL,NULL,professorasimonesp@gmail.com,NULL,NULL,NULL,NULL,"Jd. Sul",SJCampos,NULL
+994,"Simone Siqueira de Carvalho",NULL,NULL,NULL,simonesc.07@gmail.com,NULL,NULL,NULL,NULL,,,NULL
+995,"Solange da Silva",NULL,NULL,NULL,"Não possui E-Mail",NULL,NULL,NULL,NULL,"Vila Tesouro",SJCampos,NULL
+996,"Solange da Silva",NULL,NULL,NULL,"Não possui E-Mail",NULL,NULL,NULL,NULL,,SJCampos,NULL
+997,"Sônia Maria Ferreira de Araújo",NULL,NULL,NULL,soniamar.ferreira@hotmail.com,NULL,NULL,NULL,NULL,"Jd. Aquarius",SJCampos,NULL
+998,"Sonia Maria S. Ferri D'avila",NULL,NULL,NULL,soniaferridavila@hotmail.com,NULL,NULL,NULL,NULL,Jd.Jacinto,Jacarei,NULL
+999,"Sonia Regina Cazela",NULL,NULL,NULL,cazelasonia@yahoo.com.br,NULL,NULL,NULL,NULL,"Jd. Aquarius",SJCampos,NULL
+1000,"Sonia Regina R. dos Santos",NULL,NULL,NULL,soniarrsantos@bol.com.br,NULL,NULL,NULL,NULL,"Parque California",Jacarei,NULL

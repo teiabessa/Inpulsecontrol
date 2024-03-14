@@ -1,0 +1,133 @@
+client_seq,client_name,client_cpf,client_rg,client_address,client_bairro,client_cidade,client_uf,client_cep,client_email,client_activate,client_data_ultimo_atend,client_data_nascimento,client_estado_civil,client_sexo
+13,Adelaide,NULL,NULL,",,",,,,,"Não possui E-Mail",NULL,NULL,NULL," ",NULL
+14,"Adriana Barcia",NULL,NULL,"Rua: Dr. Tertuliano Delphin Jr. 111,,","Jd. Aquarius",SJCampos,SP,12246-001,"Não possui E-Mail",NULL,2015-06-16,NULL," ",NULL
+21,"Adriana Maria Gonçalves",NULL,NULL,",,",,,,12247-380,"Não possui E-Mail",NULL,NULL,1976-02-14," ",NULL
+24,"Adrine Bueno Coutinho",NULL,NULL,"Rua das Chacaras351 - ap.55b,,","Jd. Oriente",SJCampos,SP,12232-040,"Não possui E-Mail",NULL,NULL,1983-05-30," ",NULL
+34,"Alessandra Vieira A. M. Oliveira",NULL,NULL,"Rua: Dr. Tetuliano 111 apto71,,","Solar Girassois",SJCampos,SP,,"Não possui E-Mail",NULL,NULL,NULL," Casado(a)",NULL
+40,"Alexandre Fagundes de Souza",NULL,NULL,"Rua Valença408 ap. 32 ,,","Jd. Palmeiras",SJCampos,SP,12237-824,"Não possui E-Mail",NULL,NULL,1975-01-31," ",NULL
+47,"Aline Gisele Soares",NULL,NULL,"Rua : Vicente Alesino,,","Vila Tesouro ","SJCampos ",SP,12221-540,"Não possui E-Mail",NULL,NULL,1981-06-24," ",NULL
+49,"Aline Oliveira",NULL,NULL,",,",,,,,"Não possui E-Mail",NULL,NULL,NULL," ",NULL
+50,"Aline Rieira da Silva",NULL,NULL,"Av. Heitor Villa Lobos,,",,SJCampos,SP,12245-280,"Não possui E-Mail",NULL,NULL,NULL," Casado(a)",NULL
+55,"Altina Maria Mesquita",NULL,NULL,"RSergipe ,,","V. S. Pedro ","São José dos Campos",sp,,"Não possui E-Mail",NULL,NULL,1956-06-15," Solteiro(a)",NULL
+57,"Amanda C. Barreto da Silva",NULL,NULL,",,",,,,,"Não possui E-Mail",NULL,NULL,NULL," ",NULL
+63,"Amanda R. Bitencourt",NULL,NULL,"av.São João 2655 apto 72,,",JD.Aquarius,SJCampos,SP,12242-000,"Não possui E-Mail",NULL,NULL,1980-08-17," Solteiro(a)",NULL
+71,"Ana Carolina R C de Barros",NULL,NULL,"Rua: Benedito Osvaldo Lecques 180/115,,","Jd. Aquarius",SJCampos,SP,12246-021,"Não possui E-Mail",NULL,NULL,1975-04-16," Casado(a)",NULL
+73,"Ana Clara Reis",NULL,NULL,"Rua 16no. 21 Cond. Aquarius 3,,","Jd. Aquarius",SJCampos,SP,12246-090,"Não possui E-Mail",NULL,NULL,1995-10-17," ",NULL
+81,"Ana Luiza Lisboa Capella",NULL,NULL,"R.Elio Del Chiaro,,","31 de março",SJCampos,,12237-450,"Não possui E-Mail",NULL,NULL,NULL," Solteiro(a)",NULL
+88,"Ana Paula D. Chaves",NULL,NULL,",,",,,,,"Não possui E-Mail",NULL,NULL,NULL," ",NULL
+90,"Ana Paula Medeiros Gomes",NULL,NULL,"Alameda Amendoeiras 159,,","Pq. Mirante do Vale",SJCampos,SP,12302-303,"Não possui E-Mail",NULL,NULL,1980-12-16," Casado(a)",NULL
+112,"André Luiz de Aguiar",NULL,NULL,"Rua: Wlamir Rogério Friggi,172,,","Pq. Interlagos",SJCampos,SP,12229-120,"Não possui E-Mail",NULL,NULL,1980-02-25," Casado(a)",NULL
+124,"Anielle P. Mathias",NULL,NULL,"101 apto 113 a ,,","Jd Aquarius ",SJCampos,SP,12246-870,"Não possui E-Mail",NULL,NULL,1983-08-10," ",NULL
+129,"Anne Caroline Correia Ferri",NULL,NULL," 120 apto 105,,",,,,12220-601,"Não possui E-Mail",NULL,NULL,NULL," Solteiro(a)",NULL
+140,"Barbara Ferraz",NULL,NULL,",,",,,,,"Não possui E-Mail",NULL,NULL,NULL," ",NULL
+149,"Beatriz Sartori T. Benozzati",NULL,NULL,"Rua Madre Paula de São José354 ap. 64,,","Vila Ema",SJCampos,SP,12243-010,"Não possui E-Mail",NULL,NULL,1998-08-23," ",NULL
+151,"Betania Silveira de Faria",NULL,NULL,"av.bertolino cezario dos santos 101apto 601,,","bosque dos eucaliptos","SJCampos ",SP,,"Não possui E-Mail",NULL,NULL,1984-09-21," Solteiro(a)",NULL
+158,"Bruna Cristina S. Sabino",NULL,NULL,"R. Monte Kilimanjaro42,,","Jd. Altos de Santana",SJCampos,SP,12214-370,"Não possui E-Mail",NULL,NULL,NULL," Solteiro(a)",NULL
+162,"Bruna Luiza dos Santos Silva",NULL,NULL,"Rua: Pernambuco,,","Vila São Pedro",SJCampos,SP,12215-670,"Não possui E-Mail",NULL,NULL,NULL," ",NULL
+165,"Bruna de Souza Bérgamo '",NULL,NULL,"av.tubarao ,331 apto 164,,",,,Sp,12246-140,"Não possui E-Mail",NULL,NULL,NULL," Casado(a)",NULL
+174,"Camila Gude Valandro",NULL,NULL,"2170 casa  40,,",,,,12305-010,"Não possui E-Mail",NULL,NULL,NULL," ",NULL
+179,"Camili Pasquarelli G.m",NULL,NULL,",,",,,,12245-320,"Não possui E-Mail",NULL,NULL,NULL," ",NULL
+194,"Carolina Oliveira Altenfelder Silva",NULL,NULL,"Av. Barao do Rio Branco,,,","Jd. Esplanada",SJCampos,SP,,"Não possui E-Mail",NULL,NULL,1999-05-11," ",NULL
+210,"Celso Felipe C. Santos",NULL,NULL,"Meshy Moana Metene,,","Palmeiras de Sao Jose",SJCampos,SP,12237-837,"Não possui E-Mail",NULL,NULL,NULL," Casado(a)",NULL
+214,"Cibele Silva Almeida",NULL,NULL,"Av: Cidade Jardim 3000 apto 124,,","Bosque dos Eucaliptos",SJCampos,SP,12233-002,"Não possui E-Mail",NULL,NULL,1977-07-08," Casado(a)",NULL
+218,"Cintia Freitas Almeida",NULL,NULL,",,",,,,,"Não possui E-Mail",NULL,NULL,NULL," Casado(a)",NULL
+223,"Clauciene Martins da Silva",NULL,NULL,"Rua: Pedro Medeira57,,","Res. São Francisco",SJCampos,SP,,"Não possui E-Mail",NULL,NULL,NULL," Casado(a)",NULL
+235,"Claudia Paixão da Silva",NULL,NULL,",,",,,,13185-250,"Não possui E-Mail",NULL,NULL,NULL," ",NULL
+238,"Claudivania Santos da Paixao",NULL,NULL,"Av. Profº Olinda Almeida Mercadante,,","Jd.Pq. Santo Antonio",Jacarei,SP,12318-560,"Não possui E-Mail",NULL,NULL,NULL," ",NULL
+239,Cleide,NULL,NULL,",,",,,,,"Não possui E-Mail",NULL,NULL,NULL," ",NULL
+240,"Cleide Bessa",NULL,NULL,"R. Antonio Costa,46,,","Jd. Paulista",SJCampos,SP,12216-060,"Não possui E-Mail",NULL,NULL,1969-03-16," Solteiro(a)",NULL
+246,"Cristiane Bellato",NULL,NULL,"R: 3B 124,,","E. do Sol",SJCampos,SP,12244-650,"Não possui E-Mail",NULL,NULL,1965-08-30," ",NULL
+253,"Cristiane dos Santos Sampaio",NULL,NULL,",,",,,,,"Não possui E-Mail",NULL,NULL,NULL," ",NULL
+259,"Crristiane A. Godoi",NULL,NULL,"Rua dos Artus,54,,","Jd. Aquarius",SJCampos,SP,12246-320,"Não possui E-Mail",NULL,NULL,1981-03-15," Casado(a)",NULL
+271,"Daniela D. Silva",NULL,NULL,",,",,,,,"Não possui E-Mail",NULL,NULL,NULL," ",NULL
+300,"Debora Iwashita",NULL,NULL,"Rua Poncãs,535,,","Chacar Sao Jose",SJC,SP,12227-550,"Não possui E-Mail",NULL,NULL,NULL," Outros",NULL
+307,"Deise de A. O. Palazon",NULL,NULL,"Rua: 4 A N°95,,","Esplanada do Sol",SJCampos,SP,,"Não possui E-Mail",NULL,NULL,1946-12-20," Casado(a)",NULL
+308,"Dejanira A. M. Costa",NULL,NULL,"Estrada do Cajuru n1942 apto 03,,","St Cecilia 1","São josé dos Campos",sp,12226-551,"Não possui E-Mail",NULL,NULL,NULL," Casado(a)",NULL
+318,"Diana Régia F.",NULL,NULL,",,",,,,,"Não possui E-Mail",NULL,NULL,NULL," ",NULL
+320,"Diego Ferreira Batista",NULL,NULL,"Rua OsvaldoOrlando Costa,381,,","Dom Pedro 1",SJC,SP,12232-842,"Não possui E-Mail",NULL,NULL,NULL," Outros",NULL
+322,"Dilian Gonçalves da Silva",NULL,NULL,"Rua Durvalino Aguiar,,","Santa Ines I",SJCampos,SP,12248-422,"Não possui E-Mail",NULL,NULL,NULL," Solteiro(a)",NULL
+329,"Edith Fernanda Fontes",NULL,NULL,",,",,,,,"Não possui E-Mail",NULL,NULL,NULL," ",NULL
+331,"Edson Lopes Cassimiro",NULL,NULL,"Rua Osvaldo Orlando da Costa,381,,","Dom Pedro 1",SJC,SP,12232-842,"Não possui E-Mail",NULL,NULL,1973-02-21," Outros",NULL
+335,"Egle Valadares",NULL,NULL,",,",,,,,"Não possui E-Mail",NULL,NULL,NULL," ",NULL
+363,"Eliza Ogaza",NULL,NULL,",,",,,,,"Não possui E-Mail",NULL,NULL,NULL," ",NULL
+370,"Elza Marques",NULL,NULL,",,",,,,12230-240,"Não possui E-Mail",NULL,NULL,NULL," ",NULL
+395,"Fabio Luis Agra Costa",NULL,NULL,"Rua Corefru de Azevedo Marques,,","Jr. das Industrias",SJCampos,SP,12241-040,"Não possui E-Mail",NULL,NULL,NULL," ",NULL
+398,"Fatima Teodora Wollmam",NULL,NULL,"Rua Pandrá Calogeras N30,,",Esplanada,"São José dos Campos",SP,12242-710,"Não possui E-Mail",NULL,NULL,NULL," Casado(a)",NULL
+400,"Felipe de Carvalho França Maciel",NULL,NULL,"Fada Sayeg Sebe116,,","Portal da Colinas",Guaratingueta,SP,12516-330,"Não possui E-Mail",NULL,NULL,1980-02-08," Solteiro(a)",NULL
+414,"Fiama Santana",NULL,NULL,"Av. Saga87,,","Jardim Oriente",SJCampos,,12236-170,"Não possui E-Mail",NULL,NULL,NULL," Casado(a)",NULL
+423,"Flávia Carvalho",NULL,NULL,"Rua: Conrado Cruz127,,",Urbanova,SJCampos,SP,,"Não possui E-Mail",NULL,NULL,1982-02-26," Casado(a)",NULL
+429,"Frederico Gabriel",NULL,NULL,"Rua: Benedito Osvaldo Lopes300 191D,,","Jd. Aquarius",SJCampos,SP,12246-021,"Não possui E-Mail",NULL,NULL,1980-08-09," Casado(a)",NULL
+435,"Gabriela Ferreira Leite S.",NULL,NULL,",,",,,,12244-465,"Não possui E-Mail",NULL,NULL,1996-01-14," ",NULL
+446,Giane,NULL,NULL,",,",,,,,"Não possui E-Mail",NULL,NULL,NULL," ",NULL
+454,Gisele,NULL,NULL,",,",,,,,"Não possui E-Mail",NULL,NULL,NULL," ",NULL
+455,"Gisele Cabral Florentino",NULL,NULL,"R. Dezenove,41,,","Monte Castelo",SJCampos,SP,,"Não possui E-Mail",NULL,NULL,NULL," ",NULL
+476,"Helaine Cristina Moreira",NULL,NULL,"Rua Mohab Anice Cury n. 110,,","São José dos Campos","São josé dos Campos",SP,,"Não possui E-Mail",NULL,NULL,1974-05-25," Solteiro(a)",NULL
+479,"Helena Cristina da Silva Sabino",NULL,NULL,"Rua Monti Kilimanjaro,,"," Jardim Altos Santana","SJCampos ",SP,12214-370,"Não possui E-Mail",NULL,NULL,1967-05-24," Casado(a)",NULL
+487,"Hilze das Gr. Moreli",NULL,NULL,"Rua: Paranagua200,,",,SJCAMPOS,SP,,"Não possui E-Mail",NULL,NULL,NULL," Casado(a)",NULL
+495,"Iracema Rocha de Souza",NULL,NULL,"Av: Olivo Gomes695,,",Santana,SJCAMPOS,SP,12211-115,"Não possui E-Mail",NULL,NULL,1967-04-12," Solteiro(a)",NULL
+498,"Isabel C. Armani",NULL,NULL,"Rua Afredo Ignacio Nogueira Penido,,470-Apto  1401,,","Jd. Aquarius",SJC,SP,12246-000,"Não possui E-Mail",NULL,NULL,1955-05-12," Casado(a)",NULL
+520,"Jacqueline Ramalho da Silva",NULL,NULL,"Rua Roma673ap.15Bloco A,,","Jd. Augusta",SJCampos,SP,12216-510,"Não possui E-Mail",NULL,NULL,1979-12-08," ",NULL
+523,"Janaina Novaes",NULL,NULL,",,",,,,,"Não possui E-Mail",NULL,NULL,NULL," ",NULL
+530,"Jefferson Willian de Andrade",NULL,NULL,"R. Joao Teixeira Neto,72-ap.132,,","Jd. Aquarius",SJCampos,SP,12246-160,"Não possui E-Mail",NULL,NULL,1983-03-29," Casado(a)",NULL
+550,"Juliana Cursino Brás",NULL,NULL,",,",,,,,"Não possui E-Mail",NULL,NULL,NULL," ",NULL
+562,"Juraci Aparecida Nogueira Silva",NULL,NULL,"Rua: Major Dietrich Ott101,,","Jd. das Colinas",SJCampos,SP,12242-111,"Não possui E-Mail",NULL,NULL,1968-02-29," Casado(a)",NULL
+563,"Jéssica Fagundes",NULL,NULL,",,",,,,,"Não possui E-Mail",NULL,NULL,NULL," ",NULL
+575,"Karine F. Reis Gavioli",NULL,NULL,"Av. Omar Fonseca,110,,",Urbanova,SJCampos,SP,12244-386,"Não possui E-Mail",NULL,NULL,1967-02-14," Solteiro(a)",NULL
+576,"Karine M. Felix",NULL,NULL,"R. Jose Fenino de Morais,,","Jardim Estoril",SJCAmpos,sp,12232-020,"Não possui E-Mail",NULL,NULL,NULL," Solteiro(a)",NULL
+595,"Lara Gabriela Pereira",NULL,NULL,"Av. da Liberdade n511,,","Jd Alvorada","São josé dos Campos",sp,,"Não possui E-Mail",NULL,NULL,1998-06-27," Solteiro(a)",NULL
+608,"Laura Nunes Mendes",NULL,NULL,"Divinopolis,,","Bosque dos Eucaliptos ","São José dos Campos",Sp,12233-200,"Não possui E-Mail",NULL,NULL,NULL," ",NULL
+621,"Leticia Sartori Thiago Benozzati",NULL,NULL,"Rua Madre Paula de São José354 ap. 64,,","Vila Ema",SJCampos,SP,12243-010,"Não possui E-Mail",NULL,NULL,NULL," ",NULL
+630,"Liliana Maria Pereira",NULL,NULL,",,",,,,,"Não possui E-Mail",NULL,NULL,NULL," ",NULL
+633,"Liria V. Machado",NULL,NULL,",,",,,,,"Não possui E-Mail",NULL,NULL,NULL," ",NULL
+635,"Livia Barcia de Carvalho Gonçalves",NULL,NULL,"Rua Tertuliano delfin Jr. ,,","Jd. Aquarius",SJCampos,SP,12246-001,"Não possui E-Mail",NULL,NULL,1994-07-27," Solteiro(a)",NULL
+638,"Louise Helene Lopes Batista",NULL,NULL,"123 apto 61,,",,,,12243-800,"Não possui E-Mail",NULL,NULL,NULL," ",NULL
+645,"Lucia Helena Caetano",NULL,NULL,"97,,",,"campinas ",,13085-510,"Não possui E-Mail",NULL,NULL,1977-05-26," Solteiro(a)",NULL
+649,"Luciana Lopes de Lima",NULL,NULL,"Rua João Porto 253,,",Centro,Jacareí,SP,12309-100,"Não possui E-Mail",NULL,NULL,1971-08-12," Casado(a)",NULL
+676,"Luiza O. de Castro",NULL,NULL,"Rua Ulisses Lobo Viana101,,","Pq. Industrial",SJCampos,SP,12237-230,"Não possui E-Mail",NULL,NULL,1957-11-17," ",NULL
+686,"Marcela Almeida",NULL,NULL,",,",,,,,"Não possui E-Mail",NULL,NULL,NULL," ",NULL
+712,"Maria Angelita Bezerra",NULL,NULL,"Rua José Benedito N,109,,","Jd.Santa Luzia ","São josé dos Campos",SP,,"Não possui E-Mail",NULL,NULL,NULL," Casado(a)",NULL
+716,"Maria Aparecida Gonçalves",NULL,NULL,",,",,,,12239-420,"Não possui E-Mail",NULL,NULL,1966-12-22," ",NULL
+722,"Maria Cristina S. de Oliveira",NULL,NULL,"R. Tiradentes,28,,",Centro,Jacarei,SP,12308-470,"Não possui E-Mail",NULL,NULL,NULL," Casado(a)",NULL
+723,"Maria Célia Galvão Santos",NULL,NULL,"Av. Cassiano Ricardo1411ap. 23a,,","Jd. Aquarius",SJcampos,SP,12246-902,"Não possui E-Mail",NULL,NULL,NULL," Solteiro(a)",NULL
+734,"Maria Neide M. Rosa",NULL,NULL,"Rua Patativa,200,,","Vila Tatetuba",SJCampos,SP," 1220-140","Não possui E-Mail",NULL,NULL,1951-10-10," Casado(a)",NULL
+741,"Maria das Graças Cubi Noqueira",NULL,NULL,"Rua Candido das Neves197,,","Vl Esther",SJCampos,SP,12221-690,"Não possui E-Mail",NULL,NULL,NULL," Casado(a)",NULL
+742,"Maria de Fatima B. Holanda",NULL,NULL,"Rua Itajuba,190,,","Jd. Ismenia",SJCampos,SP,,"Não possui E-Mail",NULL,NULL,1951-06-12," Viúvo(a)",NULL
+747,"Maria dos Chagas Vieira de Souza Barbosa",NULL,NULL,"R. Tres,51,,",Coqueiro,SJCampos,SP,,"Não possui E-Mail",NULL,NULL,1979-08-25," Casado(a)",NULL
+754,"Mariana de Azevedo Ferraz",NULL,NULL,",,",,,,12246-292,"Não possui E-Mail",NULL,NULL,1991-09-29," ",NULL
+772,"Marlete Sousa Ramos de Almeida",NULL,NULL,"Rua Benedito Calixto61,,","Vila Branca",SJCampos,SP,12301-470,"Não possui E-Mail",NULL,NULL,1979-09-28," ",NULL
+785,"Melissa da Silva",NULL,NULL,",,",,,,,"Não possui E-Mail",NULL,NULL,NULL," ",NULL
+786,"Mhayara Magda de Oliveira Silva",NULL,NULL,"n°160 apto 1002,,",,,,12245-650,"Não possui E-Mail",NULL,NULL,1996-05-18," ",NULL
+813,"Monica R. Johansen Stockler",NULL,NULL,",,",,SJCampos,SP,12237-828,"Não possui E-Mail",NULL,NULL,1987-04-20," ",NULL
+817,"Mozarina Abreu Gomes Bastos",NULL,NULL,"Rua: Aruanã 157apto 1001,,","Jd. Aquarius",SJCampos,SP,,"Não possui E-Mail",NULL,NULL,1952-11-29," Viúvo(a)",NULL
+842,"Natália Fernanda dos Santos Brito",NULL,NULL,"Rua: Francisco Ricci299 ap 71,,","Vila Ema",SJCampos,SP,,"Não possui E-Mail",NULL,NULL,1996-02-09," Solteiro(a)",NULL
+850,"Nixon Resende",NULL,NULL,"Av. Antonio Witner,130,,",Urbanova,SJCampos,SP,12244-873,"Não possui E-Mail",NULL,NULL,NULL," Solteiro(a)",NULL
+865,"Patricia Gimeng Vilas Boas Weltson",NULL,NULL,"Rua: José Pereira dos Santos 169,,",Urbanova,SJCampos,SP,12244-484,"Não possui E-Mail",NULL,NULL,1981-04-19," Casado(a)",NULL
+886,"Paulo José Vilhena de Oliveira",NULL,NULL,"Rua Geraldo Ferreira Tavares ,,","Bosque dos Elcaliptos ","São José dos Campos",SP,12232-380,vilhenaoliver701@gmail.com,NULL,NULL,1979-12-11," Casado(a)",NULL
+892,"Petra Thrystiheel",NULL,NULL,",,",,,,,"Não possui E-Mail",NULL,NULL,NULL," ",NULL
+896,"Pollyanna Lisboa Mendonça Garcia",NULL,NULL,"Professor Rubens Oscar Guelli80,,","Santa Inês 1",SJCampos,SP,12248-370,"Não possui E-Mail",NULL,NULL,1991-11-26," ",NULL
+897,"Priscila Albarigi R. Cotrim",NULL,NULL,"Rua Santana 192,,",C,jacarei,,,"Não possui E-Mail",NULL,NULL,1977-06-16," ",NULL
+912,"Rafaela Andrade Silva",NULL,NULL,"Rua Prof. Roberval Froes,390ap. 203A,,","Jd. Esplanada",SJCampos,SP,,"Não possui E-Mail",NULL,NULL,1998-06-20," ",NULL
+931,"Regina Celia Hortal Carpinelli Alves",NULL,NULL,"Av. Cassiano Ricardo N1411 apt 54a,,",Aquarius,"São José dos Campos",SP,,"Não possui E-Mail",NULL,NULL,NULL," Solteiro(a)",NULL
+932,"Regina Célia G.",NULL,NULL,"Alameda dos Kings74,,",,SJCampos,SP,,"Não possui E-Mail",NULL,NULL,NULL," Casado(a)",NULL
+944,"Ricardo de Camargo da Silva",NULL,NULL,"Av: Paulo Sutubal,,","Conjunto São Benedito",Jacarei,SP,12310-150,"Não possui E-Mail",NULL,NULL,NULL," Solteiro(a)",NULL
+950,"Rita de Cássia Silva Aguiar",NULL,NULL,"Wlamir Rogério Friggi172,,","Jd. Interlagos ",SJCampos,SP,12229-120,"Não possui E-Mail",NULL,NULL,1983-12-26," Casado(a)",NULL
+951,"Roberta Bellercio Albuquerque",NULL,NULL,"Rua Carpas31 - apto 101,,","Jd. Aquarius",SJCampos,SP,12246-292,"Não possui E-Mail",NULL,NULL,NULL," Solteiro(a)",NULL
+961,"Rosa Antunes Coutinho",NULL,NULL,"Rua Campos,,","Jd. Aquarius","São José dos Campos",SP,12246-292,"Não possui E-Mail",NULL,NULL,NULL," Casado(a)",NULL
+988,"Samuel Gonçalves Martins Silva",NULL,NULL,",,",,,,12240-020,"Não possui E-Mail",NULL,NULL,1993-05-11," ",NULL
+989,"Sandra Chaves",NULL,NULL,",,",,,,,"Não possui E-Mail",NULL,NULL,NULL," ",NULL
+998,"Sara Martins",NULL,NULL,"Rua David Neves n172,,","Vila Branca ","São josé dos Campos ",SP,,"Não possui E-Mail",NULL,NULL,NULL," Solteiro(a)",NULL
+1003,"Saul Oisman Gaudeu",NULL,NULL,"Rua Luiz Gustavo de Vasconcelos,,","B. Ypes",SJCampos,SP,12234-876,"Não possui E-Mail",NULL,NULL,1990-01-22," ",NULL
+1029,"Solange da Silva",NULL,NULL,"R Brazilino Adrias,51 apt 404,,","Vila Tesouro",SJCampos,," 1221-901","Não possui E-Mail",NULL,NULL,1977-03-21," Solteiro(a)",NULL
+1030,"Sonia G. F. Moreira",NULL,NULL,"Av: Iguape621,,",,SJCampos,SP,12223-072,"Não possui E-Mail",NULL,NULL,NULL," Solteiro(a)",NULL
+1039,"Sueli de Fatima Natale Pasquarelli",NULL,NULL,"373 apto73,,",,,,12211-290,"Não possui E-Mail",NULL,NULL,1957-04-25," Casado(a)",NULL
+1047,"Suzana Carbonari",NULL,NULL,"Duilho Panziera 100 - Apto 31,,","Jd. Aquarius","S.J.Campos  ",SP,12246-015,"Não possui E-Mail",NULL,NULL,1968-04-15," Casado(a)",NULL
+1048,"Sylvia Camila T.o. Castro",NULL,NULL,"Rua Mauricio Cardoso,55-bl P-Apto 42,,","Jd. Sul",SJC,SP,12236-495,"Não possui E-Mail",NULL,NULL,NULL," Outros",NULL
+1049,"Sâmia Carolina M.o Sacorague",NULL,NULL,"205 apto 71,,",,,,12243-740,"Não possui E-Mail",NULL,NULL,1986-07-11," ",NULL
+1058,"Tania Mara Lima Silva",NULL,NULL,",,",,,,,"Não possui E-Mail",NULL,NULL,NULL," ",NULL
+1059,"Tania Maria Figueiredo de Oliveira",NULL,NULL,"n 282 apto 01,,",,,,79740-000,"Não possui E-Mail",NULL,NULL,NULL," ",NULL
+1062,"Tatiana Potrich",NULL,NULL,"Av: Cassiano Ricardo,,","Jd. Aquarius",SJCampos,SP,,"Não possui E-Mail",NULL,NULL,1981-01-15," Casado(a)",NULL
+1077,"Thiago C. V. Andren",NULL,NULL,"R. Paulo Edson Blair,65-ap. 124 A,,","Jd. Apollo",SJCampos,SP,12243-100,"Não possui E-Mail",NULL,NULL,1980-07-20," Casado(a)",NULL
+1082,"Valeria Cristina de Oliveira",NULL,NULL,"Trav. dormevil de Oliveira Machado306,,",Freitas,SJCampos,SP,12214-434,"Não possui E-Mail",NULL,NULL,1970-09-25," ",NULL
+1111,"Vilma Araujo da Silva",NULL,NULL,"R. Praça das Gaivotas,20 Ap.113,,","V. Tatetuba",SJCampos,SP,12220-220,"Não possui E-Mail",NULL,NULL,1970-12-26," ",NULL
+1112,"Vilma Santos Pinto",NULL,NULL,",,",,,,,"Não possui E-Mail",NULL,NULL,NULL," ",NULL
+1128,"Wesley A. Ferreira",NULL,NULL,",,",,,,,"Não possui E-Mail",NULL,NULL,NULL," ",NULL
