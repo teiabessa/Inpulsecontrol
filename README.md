@@ -1,1 +1,1 @@
-I am a software developer in php + mysql datasource, that overseeing the operations in a helth abd beauty clinic
+I am a software developed in php + mysql datasource that overseeing all operations in a helth abd beauty clinic
